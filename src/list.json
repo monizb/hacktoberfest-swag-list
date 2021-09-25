@@ -1,7 +1,16 @@
 {
   "status": true,
   "list": {
-    "A": [],
+    "A": [
+      {
+        "organization": "Appwrite",
+        "org_url": "https://appwrite.io/",
+        "tags": ["Tshirt", "Stickers", "Mug"],
+        "description": "Appwrite is giving away ton of swags this year with various levels of contribution! 1 contribution: OG Appwrite sticker pack, 2 contributions: OG Appwrite sticker pack + Limited Edition Hacktoberfest sticker pack, 3 contributions: OG Appwrite sticker pack + Limited Edition Hacktoberfest sticker pack + Mug, 4 contributions or more: Limited Edition Appwrite Hacktoberfest T-shirt + Hacktoberfest Sticker pack + OG Appwrite Sticker Pack + Mug",
+        "no_of_prs": 1,
+        "link": "https://hacktoberfest.appwrite.io/"
+      }
+    ],
     "B": [
       {
         "organization": "Bridgecrew",
