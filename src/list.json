@@ -6,10 +6,7 @@
       {
         "organization": "Bridgecrew",
         "org_url": "https://bridgecrew.io/",
-        "tags": [
-          "Tshirt",
-          "Stickers"
-        ],
+        "tags": ["Tshirt", "Stickers"],
         "description": "Bridgecrew if giving sway swag for Hacktoberfest contributors, like the T-shirts you’ll see team Bridgecrew wearing on videos and at events, plus stickers!Submit one contribution and you’ll receive a super ghoul sticker pack. Submit two or more contributions and you’ll receive a swag pack complete with stickers and a wicked Bridgecrew t-shirt.",
         "no_of_prs": 1,
         "link": "https://bridgecrew.io/blog/happy-hacktoberfest-2021/"
@@ -20,10 +17,7 @@
       {
         "organization": "DigitalOcean + Hacktoberfest Sponsors",
         "org_url": "https://www.digitalocean.com/",
-        "tags": [
-          "Tshirt",
-          "Stickers"
-        ],
+        "tags": ["Tshirt", "Stickers"],
         "description": "4 merged PRs in any of the participating Github/Gitlab repositories. The repository must have the hacktoberfest topic and the PR must either be merged or has to be labeled 'hacktoberfest-accepted' by the maintainer.Get the official Hacktoberfest 2021 tshirt and some amazing set of stickers from the sponsors.",
         "no_of_prs": 4,
         "link": "https://hacktoberfest.digitalocean.com/"
@@ -41,10 +35,7 @@
       {
         "organization": "Mattermost",
         "org_url": "https://mattermost.com/",
-        "tags": [
-          "Stickers",
-          "Keyboard"
-        ],
+        "tags": ["Stickers", "Keyboard"],
         "description": "Mattermost is supporting the effort by offering limited edition Mattermost stickers to everyone who makes one or more contributions to the Mattermost community during Hacktoberfest. Additionally, we’ll select top contributors in each participation category to receive a custom Mattermost mechanical keyboard",
         "no_of_prs": 1,
         "link": "https://mattermost.com/blog/hacktoberfest-2021/"
