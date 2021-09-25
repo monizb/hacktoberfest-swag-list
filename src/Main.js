@@ -29,7 +29,7 @@ function Main() {
             <h1 style={{ color: "#2B3531" }}>Swag List</h1>
             <img src={hbBan} alt="hb_banner" style={{ width: "290px" }} />
             <h4 style={{ color: "#78877e", marginLeft: "20px", marginRight: "20px" }}>This page aims to list down all swag opportunities offered by various organizations/companies during Hacktoberfest!</h4>
-            <h4 style={{ color: "#303632", marginLeft: "20px", marginRight: "20px", fontWeight: "bolder" }}><b>Maintained by <a href="https://github.com/monizb" target="_blank" style={{ textDecoration: "none", color: "#303632" }}>Monish Basaniwal</a></b></h4>
+            <h4 style={{ color: "#303632", marginLeft: "20px", marginRight: "20px", fontWeight: "bolder" }}><b>Maintained by <a href="https://github.com/monizb" target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#303632" }}>Monish Basaniwal</a></b></h4>
             <List>
                 {/* {['List', 'More Info'].map((text, index) => (
                     <ListItem button key={text}>
@@ -39,7 +39,7 @@ function Main() {
             </List>
             <div>
                 <button className={classes.github_btn}>
-                    <a href="https://github.com/monizb/hacktoberfest-swag-list" target="_blank"><FeatherIcon icon="github" color="white" /></a>
+                    <a href="https://github.com/monizb/hacktoberfest-swag-list" target="_blank" rel="noreferrer"><FeatherIcon icon="github" color="white" /></a>
                 </button>
             </div>
 
@@ -69,7 +69,7 @@ function Main() {
                         <FeatherIcon icon="menu" />
                     </IconButton>
                     <Typography variant="h6" noWrap component="div" style={{ display: "flex", alignItems: "center" }}>
-                        <img src={hbIcon} style={{ width: 50, marginRight: 12 }} />
+                        <img src={hbIcon} style={{ width: 50, marginRight: 12 }} alt="small icon" />
                         Hacktoberfest 2021 Swag List
                     </Typography>
                 </Toolbar>
@@ -119,7 +119,7 @@ function Main() {
                                     <h2 style={{ color: "#B53A26", backgroundColor: "#F4F0E1", padding: "5px 20px", borderRadius: "4px" }}>{letter}</h2>
                                     {list.list[letter].map((item) => (
                                         <div style={{ padding: "5px 20px" }} className={classes.swagbox}>
-                                            <h3 style={{ color: "#2B3531" }}><a href={item.org_url} style={{ textDecoration: "none", color: "#2B3531" }} target="_blank">{item.organization}</a></h3>
+                                            <h3 style={{ color: "#2B3531" }}><a href={item.org_url} style={{ textDecoration: "none", color: "#2B3531" }} target="_blank" rel="noreferrer">{item.organization}</a></h3>
                                             <p>{item.description}</p>
                                             <div style={{ display: "flex" }}>
                                                 {item.tags.map((tag) => (
