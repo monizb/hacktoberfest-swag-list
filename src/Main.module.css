@@ -1,0 +1,37 @@
+
+.disclaimer {
+    background-color: #DBE8D8;
+    color: #2B3531;
+    text-align: left;
+    padding: 3px 25px;
+    border-radius: 5px;
+}
+
+.github_btn {
+    background-color: #B53A26;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.letterbox {
+    margin-top: 50px;
+     padding: 0px 30px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .letterbox {
+      padding: 0px 5px;
+    }
+    .swagbox {
+        padding: 0px 5px;
+    }
+  }
+
+
+
+body {
+    font-family: 'Poppins', cursive;
+}
