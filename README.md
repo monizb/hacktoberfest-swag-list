@@ -21,7 +21,7 @@ Found a sawag opportunity we don't have yet? You can easily add it using the fol
 
 1) Go to the swag list JSON file: https://github.com/monizb/hacktoberfest-swag-list/blob/main/src/list.json
 
-2) Look for the firs tletter of the organization which is gicving this swag: For example let's take **TEST COMPANY** as an example, we will open the corresponding array and add an object to it as follows: 
+2) Look for the first letter of the organization which is giving this swag: For example let's take **TEST COMPANY** as an example, we will open the corresponding array and add an object to it as follows: 
 
 ```
     ....
