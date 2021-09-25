@@ -3,6 +3,11 @@
  </p>
  <br>
  <br>
+
+
+![Issues](https://img.shields.io/github/issues/monizb/hacktoberfest-swag-list?style=for-the-badge)  ![Forks](https://img.shields.io/github/forks/monizb/hacktoberfest-swag-list?style=for-the-badge) ![Stars](https://img.shields.io/github/stars/monizb/hacktoberfest-swag-list?style=for-the-badge) ![License](https://img.shields.io/github/license/monizb/hacktoberfest-swag-list?style=for-the-badge) ![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmonizb%2Fhacktoberfest-swag-list%2F&style=for-the-badge&logo=twitter) 
+
+<br>
  
 # Hacktoberfest 2021 Swag List
 
