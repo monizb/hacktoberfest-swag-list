@@ -47,6 +47,8 @@ Found a sawag opportunity we don't have yet? You can easily add it using the fol
 ## Disclaimer
 This repository has been made Just-For-Fun, it does not have any direct relation with DigitalOcean or Hacktoberfest. All information present is already publicly available information.This repository is maintained by Monish Basaniwal
 
+![follow btn](https://img.shields.io/github/followers/monizb?style=social)
+
 
 
 
