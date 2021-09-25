@@ -12,7 +12,16 @@
         "link": "https://bridgecrew.io/blog/happy-hacktoberfest-2021/"
       }
     ],
-    "C": [],
+    "C": [
+      {
+        "organization": "Camunda",
+        "org_url": "https://camunda.com/",
+        "tags": ["Tshirt", "Stickers"],
+        "description": "Participants who complete the Camunda challenge from October 1-31 will earn a limited edition Camunda x Hacktoberfest 2021 t-shirt as well as nifty stickers.Submit four quality pull requests to any Camunda repo including participating Camunda Community Hub repos.",
+        "no_of_prs": 4,
+        "link": "https://camunda.com/hacktoberfest2021"
+      }
+    ],
     "D": [
       {
         "organization": "DigitalOcean + Hacktoberfest Sponsors",
@@ -25,7 +34,16 @@
     ],
     "E": [],
     "F": [],
-    "G": [],
+    "G": [
+      {
+        "organization": "Globo",
+        "org_url": "https://opensource.globo.com/",
+        "tags": ["Tshirt"],
+        "description": "Globo is giving away tshirts to the first 100 entries within only within the Brazilian Territory. Create 2 Pull Request out of which one must be accepted. The contributions can be made any of the Globo Projects",
+        "no_of_prs": 2,
+        "link": "https://opensource.globo.com/hacktoberfest/"
+      }
+    ],
     "H": [],
     "I": [],
     "J": [],
@@ -39,7 +57,15 @@
         "description": "Mattermost is supporting the effort by offering limited edition Mattermost stickers to everyone who makes one or more contributions to the Mattermost community during Hacktoberfest. Additionally, we’ll select top contributors in each participation category to receive a custom Mattermost mechanical keyboard",
         "no_of_prs": 1,
         "link": "https://mattermost.com/blog/hacktoberfest-2021/"
-      }
+      },
+      {
+        "organization": "Milvus",
+        "org_url": "https://milvus.io/",
+        "tags": ["Swag"],
+        "description": "Contributions of all kinds and from everyone are welcome. Simply file an issue stating your reason and plans for making the change, update CHANGELOG.md, and create a pull request to the current active branch. Make sure to mention the issue you filed in your PR description. Cheers!",
+        "no_of_prs": 1,
+        "link": "https://discuss.milvus.io/t/milvus-golang-issues-list-for-hacktoberfest-participants/99"
+      },
     ],
     "N": [],
     "O": [],
