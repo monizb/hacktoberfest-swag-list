@@ -13,7 +13,7 @@
 
 **Hacktoberfest** is the celebration of Open-Source, its that time of the year when people from all over the world come together to contribute to their favorite Open Source projects. To make the deal sweeter some organizations give out cool swags like tshirts, stickers and much more! This page aims to consolidate all the swag opportunities in one place and make it easier for you to choose from. Always remember, Hacktoberfest is about making **"meaningful contributions"** any kind of **SPAM/HATRED** is a big **NO** and isn't tolerated. Create PRs that add value and take home the sweet swags!
 
-You can read more about Hacktoberfest here. If you are a part of an organization listed below and dont wan't your swag to be listed, please contact me by raising an issue on the official repository and it will be taken down immediately.
+You can read more about Hacktoberfest ![here](https://hacktoberfest.digitalocean.com/). If you are a part of an organization listed below and dont wan't your swag to be listed, please contact me by raising an issue on the official repository and it will be taken down immediately.
 <br>
 <br>
 ## Raising Issues
