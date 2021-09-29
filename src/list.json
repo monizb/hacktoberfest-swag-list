@@ -119,7 +119,16 @@
       }
     ],
     "T": [],
-    "U": [],
+    "U": [
+      {
+        "organization": "Umbraco",
+        "org_url": "https://umbraco.com/",
+        "tags": ["Tshirt","Stickers"],
+        "description": "Umbraco is giving away a tshirt to all the contributors this year! Help them imporve their CMS, improve their Documentation, Make Code Contributions on any of the official Umbraco v9 Packages. Once merged you get an option to either choose a tshirt or plant a tree!",
+        "no_of_prs": 1,
+        "link": "https://umbraco.com/blog/hacktoberfest-2021-contribute-to-the-all-new-umbraco-9/"
+      }
+    ],
     "V": [],
     "W": [],
     "X": [],
