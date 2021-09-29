@@ -12,6 +12,6 @@ jobs:
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.SWAGGY_KEY }}
-        args: "There is a new change to the Hacktoberfest Swag List: ${{ github.event.head_commit.message }}! 🎉🎉🎉. Check out the latest updates here: https://hacktoberfest-swaglist.netlify.app/"
+        args: "There is a new change to the Hacktoberfest Swag List: [${{ github.event.head_commit.message }}]! 🎉🎉🎉. Check out the latest updates here: https://hacktoberfest-swaglist.netlify.app/ \n Github Link: https://github.com/monizb/hacktoberfest-swag-list"
         disable_web_page_preview: "True"
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
