@@ -42,7 +42,16 @@
       }
     ],
     "E": [],
-    "F": [],
+    "F": [
+      {
+        "organization": "Flyte",
+        "org_url": "https://flyte.org/",
+        "tags": ["Mug","Tshirt","Voucher","Jacket"],
+        "description": "Flyte is giving away some cool goodies for Hacktoberfest! Contribute to any of the mentioned topics (6 Topics) and take home some sweet stickers,tshirts,mugs and a Northface Flyte Jacket.2 merged/accepted pull requests to receive a mug,3+ merged/accepted pull requests or a video to receive a Flyte t-shirt,Full-fledged flytekit integration or a blog to receive a voucher or 'The North Face' jacket and The first 15 contributors will get a mug irrespective of the number of merged pull requests.",
+        "no_of_prs": 2,
+        "link": "https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021"
+      }
+    ],
     "G": [
       {
         "organization": "Globo",
