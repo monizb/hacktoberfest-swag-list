@@ -1,0 +1,16 @@
+name: telegram message
+on: [push]
+jobs:
+
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: send custom message with args
+      uses: appleboy/telegram-action@master
+      with:
+        to: ${{ secrets.TELEGRAM_TO }}
+        token: ${{ secrets.SWAGGY_KEY }}
+        args: "New Swag Was Added To The Hacktoberfest Swag List! 🎉🎉🎉. Check out the latest updates here: https://hacktoberfest-swaglist.netlify.app/"
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
