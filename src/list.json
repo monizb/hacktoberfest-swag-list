@@ -87,7 +87,7 @@
         "organization": "K6",
         "org_url": "https://k6.io/",
         "tags": ["Tshirt", "Stickers", "Mug","Cap"],
-        "description": "Contributors who merge one PR successfully to any of the K6 repositories will receiven an awesome swag pack! The pack includes tshirt, tickers, cap and a mug! Stocks are limited and are on a first come first serve basis only.",
+        "description": "Contributors who merge one PR successfully to any of the K6 repositories will receive an awesome swag pack! The pack includes tshirt, tsickers, cap and a mug! Stocks are limited and are on a first come first serve basis only.",
         "no_of_prs": 1,
         "link": "https://k6.io/blog/hacktoberfest-at-k6/"
       }
