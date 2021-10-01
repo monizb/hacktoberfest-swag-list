@@ -24,7 +24,7 @@ Please use the appropriate template while raising an issue. There are mainly 4 t
 
 ## Adding a swag to the list
 
-Found a swag opportunity we don't have yet? You can easily add it using the following steps:
+Found a sawag opportunity we don't have yet? You can easily add it using the following steps:
 
 1. Go to the swag list JSON file: https://github.com/monizb/hacktoberfest-swag-list/blob/main/src/list.json
 
