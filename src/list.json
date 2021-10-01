@@ -148,6 +148,14 @@
         "description": "Contributors who merge one PR successfully to any of the Legesher repositories will receive a cool swag pack! The pack includes Legesher stickers, hand-written appreciation letter from the project maintainer.",
         "no_of_prs": 1,
         "link": "https://github.com/legesher/legesher/issues/90"
+      },
+      {
+        "organization": "LoginRadius",
+        "org_url": "https://www.loginradius.com/",
+        "tags": ["Tshirt", "Swags"],
+        "description": "Contributors who add significiant value to our projects through their contribution will be eligible for cool swags.",
+        "no_of_prs": 1,
+        "link": "https://www.loginradius.com/blog/async/hacktoberfest-2021/"
       }
     ],
     "M": [
