@@ -55,6 +55,14 @@
         "description": "4 merged PRs in any of the participating Github/Gitlab repositories. The repository must have the hacktoberfest topic and the PR must either be merged or has to be labeled 'hacktoberfest-accepted' by the maintainer.Get the official Hacktoberfest 2021 tshirt and some amazing set of stickers from the sponsors.",
         "no_of_prs": 4,
         "link": "https://hacktoberfest.digitalocean.com/"
+      },
+      {
+        "organization": "Datarequests.org",
+        "org_url": "https://www.datarequests.org/",
+        "tags": ["WebCam Cover", "Stickers"],
+        "description": "Eligible repositories include most repos of the datenanfragen organization.1 merged pull request to get at least 3 stickers and a webcam cover (limited to 100 sets).",
+        "no_of_prs": 1,
+        "link": "https://www.datarequests.org/blog/hacktoberfest-2021/"
       }
     ],
     "E": [],
