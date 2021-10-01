@@ -61,6 +61,14 @@
         "description": "The CDF and its projects are participating in Hacktoberfest 2021 again this year. Each CDF project has unique contribution guidelines. At the end of Hacktoberfest, top contributors will receive CDF SWAG!",
         "no_of_prs": 10,
         "link": "https://cd.foundation/hacktoberfest/"
+      },
+      {
+        "organization": "Codedamn",
+        "org_url": "https://codedamn.com/",
+        "tags": ["Tshirt"],
+        "description": "Codedamn brings you a collection of projects to build in #hacktoberfest this year. Complete a single project, submit it on our GitHub repository, and win a t-shirt for free!",
+        "no_of_prs": 1,
+        "link": "https://codedamn.com/projects"
       }
     ],
     "D": [
