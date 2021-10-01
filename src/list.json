@@ -124,7 +124,16 @@
         "link": "https://k6.io/blog/hacktoberfest-at-k6/"
       }
     ],
-    "L": [],
+    "L": [
+      {
+        "organization": "Legesher",
+        "org_url": "https://legesher.io/",
+        "tags": ["Stickers"],
+        "description": "Contributors who merge one PR successfully to any of the Legesher repositories will receive a cool swag pack! The pack includes Legesher stickers, hand-written appreciation letter from the project maintainer.",
+        "no_of_prs": 1,
+        "link": "https://github.com/legesher/legesher/issues/90"
+      }
+    ],
     "M": [
       {
         "organization": "Mattermost",
