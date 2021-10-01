@@ -19,6 +19,14 @@
         "description": "Bridgecrew is giving away swag for Hacktoberfest contributors, like the T-shirts you’ll see team Bridgecrew wearing on videos and at events, plus stickers!Submit one contribution and you’ll receive a super ghoul sticker pack. Submit two or more contributions and you’ll receive a swag pack complete with stickers and a wicked Bridgecrew t-shirt.",
         "no_of_prs": 1,
         "link": "https://bridgecrew.io/blog/happy-hacktoberfest-2021/"
+      },
+      {
+        "organization": "Bitrise",
+        "org_url": "https://www.bitrise.io/",
+        "tags": ["Plushie", "Socks", "Magnet"],
+        "description": "We’ve always been passionate about open source initiatives and involving the mobile developer community when it comes to building our service: this is why we didn’t hesitate to join Hacktoberfest 2021 organized by DigitalOcean. This year you can contribute to your favorite mobile CI/CD platform, have a great impact on our service, and win amazing swags.",
+        "no_of_prs": 4,
+        "link": "https://blog.bitrise.io/post/hacktoberfest-2021-at-bitrise-join-the-challenge-and-win-awesome-swag"
       }
     ],
     "C": [
@@ -46,7 +54,7 @@
       {
         "organization": "Flyte",
         "org_url": "https://flyte.org/",
-        "tags": ["Mug","Tshirt","Voucher","Jacket"],
+        "tags": ["Mug", "Tshirt", "Voucher", "Jacket"],
         "description": "Flyte is giving away some cool goodies for Hacktoberfest! Contribute to any of the mentioned topics (6 Topics) and take home some sweet stickers,tshirts,mugs and a Northface Flyte Jacket.2 merged/accepted pull requests to receive a mug,3+ merged/accepted pull requests or a video to receive a Flyte t-shirt,Full-fledged flytekit integration or a blog to receive a voucher or 'The North Face' jacket and The first 15 contributors will get a mug irrespective of the number of merged pull requests.",
         "no_of_prs": 2,
         "link": "https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021"
@@ -86,7 +94,7 @@
       {
         "organization": "K6",
         "org_url": "https://k6.io/",
-        "tags": ["Tshirt", "Stickers", "Mug","Cap"],
+        "tags": ["Tshirt", "Stickers", "Mug", "Cap"],
         "description": "Contributors who merge one PR successfully to any of the K6 repositories will receive an awesome swag pack! The pack includes tshirt, tsickers, cap and a mug! Stocks are limited and are on a first come first serve basis only.",
         "no_of_prs": 1,
         "link": "https://k6.io/blog/hacktoberfest-at-k6/"
@@ -131,7 +139,7 @@
       {
         "organization": "Umbraco",
         "org_url": "https://umbraco.com/",
-        "tags": ["Tshirt","Stickers"],
+        "tags": ["Tshirt", "Stickers"],
         "description": "Umbraco is giving away a tshirt to all the contributors this year! Help them imporve their CMS, improve their Documentation, Make Code Contributions on any of the official Umbraco v9 Packages. Once merged you get an option to either choose a tshirt or plant a tree!",
         "no_of_prs": 1,
         "link": "https://umbraco.com/blog/hacktoberfest-2021-contribute-to-the-all-new-umbraco-9/"
