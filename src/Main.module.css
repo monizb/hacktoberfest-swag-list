@@ -16,6 +16,16 @@
     border-radius: 5px;
 }
 
+.page_views_wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+  
+.page_views_spacer {
+    flex: 1;
+}
+
 .letterbox {
     margin-top: 30px;
     padding: 0px 30px;

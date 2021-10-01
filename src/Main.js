@@ -17,6 +17,8 @@ import list from "./list.json"
 import SortBy from './Components/SortBy';
 import {orderByAsc, orderByDesc} from './Utils/sorting';
 
+import countapi from 'countapi-js';
+
 const drawerWidth = 380;
 const defaultSortBy = {
     difficulty: '',
@@ -32,6 +34,15 @@ function Main() {
         setMobileOpen(!mobileOpen);
     };
     const alphabets = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
+    const [page_views, setPageViews] = React.useState(0)
+
+    React.useEffect(() => {
+      async function getPageViews() {
+        const views = await countapi.visits('global').catch(console.error)
+        setPageViews(views.value)
+      }
+      getPageViews()
+    }, []) 
 
     React.useEffect(() => {
         let tempCurrentLists = [];
@@ -76,7 +87,7 @@ function Main() {
     const handleChangeSortBy = value => setSortBy(value || defaultSortBy);
 
     const drawer = (
-        <div style={{ backgroundColor: "#F4F0E1", height: "100%", alignItems: "center", textAlign: "center" }}>
+        <div style={{ backgroundColor: "#F4F0E1", height: "100%", alignItems: "center", textAlign: "center", display: "flex", flexDirection: "column" }}>
             {/* <Toolbar /> */}
             <h1 style={{ color: "#2B3531" }}>Swag List</h1>
             <img src={hbBan} alt="hb_banner" style={{ width: "290px" }} />
@@ -95,6 +106,10 @@ function Main() {
                 </button>
             </div>
 
+            <div className={classes.page_views_wrapper}>
+              <div className={classes.page_views_spacer}></div>
+              <h4>Page Views: { page_views }</h4>
+            </div>
         </div>
     );
 
