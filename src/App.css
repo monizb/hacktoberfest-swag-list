@@ -39,12 +39,12 @@
 
 /*----Scroll bar----*/
 ::-webkit-scrollbar {
-  width: 0.65rem;
+  width: 0.45rem;
 }
 
 ::-webkit-scrollbar-thumb {
   background-color: #91a88c;
-  width: 0.6rem;
+  width: 0.4rem;
   border-radius: 1rem;
 }
 
