@@ -1,0 +1,24 @@
+.container {
+  padding: 0 30px;
+  text-align: right;
+}
+
+.popover {
+  padding: 8px 16px;
+  width: 300px;
+  max-width: 100%;
+}
+.popover > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.popover > div p {
+  font-size: 14px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .container {
+    padding: 0 5px;
+  }
+}
