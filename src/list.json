@@ -84,7 +84,7 @@
         "organization": "Datarequests.org",
         "org_url": "https://www.datarequests.org/",
         "tags": ["WebCam Cover", "Stickers"],
-        "description": "Eligible repositories include most repos of the datenanfragen organization.1 merged pull request to get at least 3 stickers and a webcam cover (limited to 100 sets).",
+        "description": "Eligible repositories include most repos of the datenanfragen organization.1 merged pull request to get at least 3 stickers and a webcam cover (limited to 100 sets) and the 10 best contributions get a t-shirt in addition to that.",
         "no_of_prs": 1,
         "link": "https://www.datarequests.org/blog/hacktoberfest-2021/"
       }
