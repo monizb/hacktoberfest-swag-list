@@ -67,6 +67,7 @@
     padding: 4px 10px;
     border-radius: 1000px;
     color: #677762;
+    cursor: pointer;
 }
 
 @media only screen and (max-width: 1000px) {

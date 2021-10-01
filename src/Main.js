@@ -170,7 +170,7 @@ function Main() {
                 </Box>
                 <div className={classes.filteredContainer}>
                     <div className={classes.searchContainer}>
-                        <FeatherIcon icon="search" size={18} color="#677762" />
+                        <FeatherIcon icon="search" size={18} color="#91A88C" />
                         <input
                             type="text"
                             value={keyword}
@@ -178,6 +178,11 @@ function Main() {
                             className={classes.inputSearch}
                             placeholder="Find by organization name and tags"
                         />
+                        {keyword && (
+                            <IconButton onClick={() => setKeyword('')}>
+                                <FeatherIcon icon="x" size={18} color="#677762" />
+                            </IconButton>
+                        )}
                     </div>
                     <SortBy sortBy={sortBy} onChangeSortBy={handleChangeSortBy} />
                 </div>
@@ -194,7 +199,7 @@ function Main() {
                                                 <p>{item.description}</p>
                                                 <div style={{ display: "flex" }}>
                                                     {item.tags.map((tag) => (
-                                                        <h5 className={classes.tag} key={tag}>{tag}</h5>
+                                                        <h5 className={classes.tag} key={tag} onClick={() => setKeyword(tag)}>{tag}</h5>
                                                     ))}
                                                 </div>
                                                 <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "#B53A26", fontWeight: 900 }}>Learn More &#x2192;</a>
@@ -215,7 +220,7 @@ function Main() {
                         <p className={classes.pullRequestsNumber}>No. of PRs: {item.no_of_prs}</p>
                         <div style={{ display: "flex" }}>
                             {item.tags.map((tag) => (
-                                <h5 className={classes.tag} key={tag}>{tag}</h5>
+                                <h5 className={classes.tag} key={tag} onClick={() => setKeyword(tag)}>{tag}</h5>
                             ))}
                         </div>
                         <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "#B53A26", fontWeight: 900 }}>Learn More &#x2192;</a>
