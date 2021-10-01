@@ -9,6 +9,13 @@
         "description": "Appwrite is giving away ton of swags this year with various levels of contribution! 1 contribution: OG Appwrite sticker pack, 2 contributions: OG Appwrite sticker pack + Limited Edition Hacktoberfest sticker pack, 3 contributions: OG Appwrite sticker pack + Limited Edition Hacktoberfest sticker pack + Mug, 4 contributions or more: Limited Edition Appwrite Hacktoberfest T-shirt + Hacktoberfest Sticker pack + OG Appwrite Sticker Pack + Mug",
         "no_of_prs": 1,
         "link": "https://hacktoberfest.appwrite.io/"
+      },
+      {
+         "organization": "Appsmith",
+        "org_url": "https://app.appsmith.com/",
+         "description": "Appsmith is giving away ton of swags this year with various levels of contribution! 1 Merged PR:Appsmith Stickers, 2 Merged PR:Appsmith Stickers + Water Bottle, 3 contributions: Appsmith Stickers + Water Bottle + Appsmith T-Shirt, 4 Merged PR or more: Appsmith Stickers + Water Bottle + Appsmith Hoodie + Appsmith Surprise Box",
+        "no_of_prs":1-4,
+        "link":"https://hacktoberfest.appsmith.com/"
       }
     ],
     "B": [
