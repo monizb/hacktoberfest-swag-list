@@ -8,7 +8,15 @@
 ![Issues](https://img.shields.io/github/issues/monizb/hacktoberfest-swag-list?style=for-the-badge)  ![Forks](https://img.shields.io/github/forks/monizb/hacktoberfest-swag-list?style=for-the-badge) ![Stars](https://img.shields.io/github/stars/monizb/hacktoberfest-swag-list?style=for-the-badge) ![License](https://img.shields.io/github/license/monizb/hacktoberfest-swag-list?style=for-the-badge) ![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmonizb%2Fhacktoberfest-swag-list%2F&style=for-the-badge&logo=twitter) 
 
 <br>
- 
+## Organization
+
+# MeiliSearch
+
+## Description
+4 or more pull requests in any eligible repository, including one pull request in MeiliSearch eligible repositories
+## Swag Items
+Reusable insulated water bottle, stickers
+
 # Hacktoberfest 2021 Swag List
 
 **Hacktoberfest** is the celebration of Open-Source, its that time of the year when people from all over the world come together to contribute to their favorite Open Source projects. To make the deal sweeter some organizations give out cool swags like tshirts, stickers and much more! This page aims to consolidate all the swag opportunities in one place and make it easier for you to choose from. Always remember, Hacktoberfest is about making **"meaningful contributions"** any kind of **SPAM/HATRED** is a big **NO** and isn't tolerated. Create PRs that add value and take home the sweet swags!
