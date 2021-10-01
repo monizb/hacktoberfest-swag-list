@@ -71,7 +71,7 @@ function Main() {
             }
             setFilteredLists(tempFilteredLists);
         }
-    }, [keyword, sortBy?.difficulty]);
+    }, [keyword, sortBy?.difficulty, currentLists]);
 
     const handleChangeSortBy = value => setSortBy(value || defaultSortBy);
 
