@@ -59,7 +59,7 @@
         "org_url": "https://cd.foundation/",
         "tags": ["Limited Edition Swag"],
         "description": "The CDF and its projects are participating in Hacktoberfest 2021 again this year. Each CDF project has unique contribution guidelines. At the end of Hacktoberfest, top contributors will receive CDF SWAG!",
-        "no_of_prs": 0,
+        "no_of_prs": 10,
         "link": "https://cd.foundation/hacktoberfest/"
       }
     ],
