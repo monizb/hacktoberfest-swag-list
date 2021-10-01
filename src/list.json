@@ -53,6 +53,14 @@
         "description": "Participants who complete the Camunda challenge from October 1-31 will earn a limited edition Camunda x Hacktoberfest 2021 t-shirt as well as nifty stickers.Submit four quality pull requests to any Camunda repo including participating Camunda Community Hub repos.",
         "no_of_prs": 4,
         "link": "https://camunda.com/hacktoberfest2021"
+      },
+      {
+        "organization": "CD Foundation",
+        "org_url": "https://cd.foundation/",
+        "tags": ["Limited Edition Swag"],
+        "description": "The CDF and its projects are participating in Hacktoberfest 2021 again this year. Each CDF project has unique contribution guidelines. At the end of Hacktoberfest, top contributors will receive CDF SWAG!",
+        "no_of_prs": 10,
+        "link": "https://cd.foundation/hacktoberfest/"
       }
     ],
     "D": [
