@@ -1,8 +1,7 @@
 {
   "short_name": "Hacktoberfest'21",
   "name": "Hacktoberfest 2021 Swag List",
-  
-  "description":"List of all swag opportunities offered by various organizations/companies during Hacktoberfest 2021!",
+  "description": "List of all swag opportunities offered by various organizations/companies during Hacktoberfest 2021!",
   "icons": [
     {
       "src": "./icons/maskable_icon.png",
@@ -36,17 +35,16 @@
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#B2CEAB",
-  "screenshots":[
-      {
-         "src":"./icons/SS1.png",
-         "sizes":"586x1041",
-         "type":"image/png"
-      },
-      {
-         "src":"./icons/SS2.png",
-         "sizes":"586x1041",
-         "type":"image/png"
-      }
-      
-   ]
+  "screenshots": [
+    {
+      "src": "./icons/SS1.png",
+      "sizes": "586x1041",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/SS2.png",
+      "sizes": "586x1041",
+      "type": "image/png"
+    }
+  ]
 }
