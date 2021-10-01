@@ -133,6 +133,14 @@
         "description": "Contributions of all kinds and from everyone are welcome. Simply file an issue stating your reason and plans for making the change, update CHANGELOG.md, and create a pull request to the current active branch. Make sure to mention the issue you filed in your PR description. Cheers!",
         "no_of_prs": 1,
         "link": "https://discuss.milvus.io/t/milvus-golang-issues-list-for-hacktoberfest-participants/99"
+      },
+      {
+        "organization": "MeiliSearch",
+        "org_url": "https://www.datarequests.org/",
+        "tags": ["Bottle", "Stickers"],
+        "description": "4 or more pull requests in any eligible repository, including one pull request in MeiliSearch eligible repositories",
+        "no_of_prs": 4,
+        "link": "https://blog.meilisearch.com/contribute-hacktoberfest-2021/"
       }
     ],
     "N": [],
