@@ -14,14 +14,33 @@ import { Divider } from '@mui/material';
 import classes from "./Main.module.css";
 import list from "./list.json"
 
+import SortBy from './Components/SortBy';
+import {orderByAsc, orderByDesc} from './Utils/sorting';
+
 const drawerWidth = 380;
 
 function Main() {
     const [mobileOpen, setMobileOpen] = React.useState(false);
+    const [sortBy, setSortBy] = React.useState(null)
+    const [sortedLists, setSortedLists] = React.useState([]);
     const handleDrawerToggle = () => {
         setMobileOpen(!mobileOpen);
     };
     const alphabets = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
+
+    React.useEffect(() => {
+        let currentLists = [];
+        // merge arrays on list alphabets object to array
+        Object.values(list.list).forEach((val) => currentLists.push(...val));
+
+        // sorting the currentLists
+        const currentSortedLists = currentLists.sort(
+            (a, b) => sortBy?.difficulty === 'least-to-most'
+                ? orderByAsc(a, b, 'no_of_prs')
+                : orderByDesc(a, b, 'no_of_prs')
+        );
+        setSortedLists(currentSortedLists);
+    }, [sortBy]);
 
     const drawer = (
         <div style={{ backgroundColor: "#F4F0E1", height: "100%", alignItems: "center", textAlign: "center" }}>
@@ -116,36 +135,51 @@ function Main() {
                         <h5 style={{ backgroundColor: "#F4F0E1", padding: 10, borderRadius: 5, width: "fit-content" }}><a href="https://github.com/monizb/hacktoberfest-swag-list/blob/main/src/list.json" target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#B53A26" }}>https://github.com/monizb/hacktoberfest-swag-list/blob/main/src/list.json</a></h5>
                     </div>
                 </Box>
-                <div className={classes.letterbox}>
-                    {alphabets.map((letter) => (
-                        <div key={letter}>
-                            {
-                                list.list[letter].length !== 0 ? <div style={{ textAlign: "left" }}>
-                                    <h2 style={{ color: "#B53A26", backgroundColor: "#F4F0E1", padding: "5px 20px", borderRadius: "4px" }}>{letter}</h2>
-                                    {list.list[letter].map((item) => (
-                                        <div style={{ padding: "5px 20px" }} className={classes.swagbox}>
-                                            <h3 style={{ color: "#2B3531" }}><a href={item.org_url} style={{ textDecoration: "none", color: "#2B3531" }} target="_blank" rel="noreferrer">{item.organization}</a></h3>
-                                            <p>{item.description}</p>
-                                            <div style={{ display: "flex" }}>
-                                                {item.tags.map((tag) => (
-                                                    <h5 style={{ marginTop: 0, marginRight: 15, backgroundColor: "#DBE8D7", padding: "4px 10px", borderRadius: "1000px", color: "#677762" }}>{tag}</h5>
-                                                ))}
+                <SortBy onChangeSortBy={(value) => setSortBy(value)} />
+                {!sortBy?.isSort && (
+                    <div className={classes.letterbox}>
+                        {alphabets.map((letter) => (
+                            <div key={letter}>
+                                {
+                                    list.list[letter].length !== 0 ? <div style={{ textAlign: "left" }}>
+                                        <h2 style={{ color: "#B53A26", backgroundColor: "#F4F0E1", padding: "5px 20px", borderRadius: "4px" }}>{letter}</h2>
+                                        {list.list[letter].map((item) => (
+                                            <div style={{ padding: "5px 20px" }} className={classes.swagbox}>
+                                                <h3 style={{ color: "#2B3531" }}><a href={item.org_url} style={{ textDecoration: "none", color: "#2B3531" }} target="_blank" rel="noreferrer">{item.organization}</a></h3>
+                                                <p>{item.description}</p>
+                                                <div style={{ display: "flex" }}>
+                                                    {item.tags.map((tag) => (
+                                                        <h5 style={{ marginTop: 0, marginRight: 15, backgroundColor: "#DBE8D7", padding: "4px 10px", borderRadius: "1000px", color: "#677762" }}>{tag}</h5>
+                                                    ))}
+                                                </div>
+                                                <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "#B53A26", fontWeight: 900 }}>Learn More &#x2192;</a>
+                                                <div style={{ margin: "10px 0px" }}>
+                                                    {list.list[letter].length !== 1 ? <Divider /> : null}
+                                                </div>
                                             </div>
-                                            <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "#B53A26", fontWeight: 900 }}>Learn More &#x2192;</a>
-                                            <div style={{ margin: "10px 0px" }}>
-                                                {list.list[letter].length !== 1 ? <Divider /> : null}
-                                            </div>
-                                        </div>
-
-                                    ))}
-
-                                </div> : null
-                            }
-
+                                        ))}
+                                    </div> : null
+                                }
+                            </div>
+                        ))}
+                    </div>
+                )}
+                {sortBy?.isSort && sortedLists.map((item) => (
+                    <div className={classes.swagbox}>
+                        <h3 style={{ color: "#2B3531" }}><a href={item.org_url} style={{ textDecoration: "none", color: "#2B3531" }} target="_blank" rel="noreferrer">{item.organization}</a></h3>
+                        <p>{item.description}</p>
+                        <p className={classes.difficultyLevel}>Difficulty Level: {item.no_of_prs}</p>
+                        <div style={{ display: "flex" }}>
+                            {item.tags.map((tag) => (
+                                <h5 style={{ marginTop: 0, marginRight: 15, backgroundColor: "#DBE8D7", padding: "4px 10px", borderRadius: "1000px", color: "#677762" }}>{tag}</h5>
+                            ))}
                         </div>
-                    ))}
-
-                </div>
+                        <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "#B53A26", fontWeight: 900 }}>Learn More &#x2192;</a>
+                        <div style={{ margin: "10px 0px" }}>
+                            <Divider />
+                        </div>
+                    </div>
+                ))}
             </Box>
         </Box>
     );
