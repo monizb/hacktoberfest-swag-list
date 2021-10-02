@@ -255,6 +255,14 @@
         "description": "With every PR merge or pairing session you complete, Stepzen will send you a StepZen GraphQL sticker and if you merge 4 PRs they will send you t-shirt!",
         "no_of_prs": 1,
         "link": "https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21"
+      },
+      {
+        "organization": "Stack Builders",
+        "org_url": "https://www.stackbuilders.com/",
+        "tags": ["Gift Cards"],
+        "description": "In addition to the official event, Stack Builders will be pitching in with some rewards for people who contribute. We’ll launch weekly challenges in October and hand out gift cards at the beginning of November to those who get the highest score from making top-value contributions to any open-source repository on GitHub or GitLab.",
+        "no_of_prs": 1,
+        "link": "https://www.stackbuilders.com/news/it-s-hacktoberfest-time"
       }
     ],
     "T": [],
