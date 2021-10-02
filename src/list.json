@@ -222,6 +222,14 @@
         "description": "Supabase is running a Hackathon during Hacktoberfest! Pool in your awesome ideas and get a chance to win the Prestigious Gold Supabase Tee! The hackathon has 5 different categories with a winner in each one!",
         "no_of_prs": 0,
         "link": "https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021"
+      },
+      {
+        "organization": "StepZen",
+        "org_url": "https://stepzen.com/",
+        "tags": ["Tshirt", "Stickers"],
+        "description": "With every PR merge or pairing session you complete, Stepzen will send you a StepZen GraphQL sticker and if you merge 4 PRs they will send you t-shirt!",
+        "no_of_prs": 1,
+        "link": "https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21"
       }
     ],
     "T": [],
