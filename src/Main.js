@@ -16,6 +16,8 @@ import list from "./list.json"
 
 import SortBy from './Components/SortBy';
 import {orderByAsc, orderByDesc} from './Utils/sorting';
+import { getTagColor } from './Utils/getTagColor';
+import { getTagEmoji } from './Utils/getTagEmoji';
 
 import countapi from 'countapi-js';
 
@@ -214,7 +216,17 @@ function Main() {
                                                 <p>{item.description}</p>
                                                 <div style={{ display: "flex" }}>
                                                     {item.tags.map((tag) => (
-                                                        <h5 className={classes.tag} key={tag} onClick={() => setKeyword(tag)}>{tag}</h5>
+                                                        <h5
+                                                            className={classes.tag}
+                                                            key={tag}
+                                                            onClick={() => setKeyword(tag)}
+                                                            style={{backgroundColor: getTagColor(tag) }}
+                                                        >
+                                                            <span style={{ marginRight: '4px'}}>
+                                                                {getTagEmoji(tag)}
+                                                            </span>
+                                                            {tag}
+                                                        </h5>
                                                     ))}
                                                 </div>
                                                 <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "#B53A26", fontWeight: 900 }}>Learn More &#x2192;</a>
@@ -235,7 +247,17 @@ function Main() {
                         <p className={classes.pullRequestsNumber}>No. of PRs: {item.no_of_prs}</p>
                         <div style={{ display: "flex" }}>
                             {item.tags.map((tag) => (
-                                <h5 className={classes.tag} key={tag} onClick={() => setKeyword(tag)}>{tag}</h5>
+                                <h5
+                                    className={classes.tag}
+                                    key={tag}
+                                    onClick={() => setKeyword(tag)}
+                                    style={{backgroundColor: getTagColor(tag) }}
+                                >
+                                    <span style={{ fontSize: '12px', marginRight: '4px'}}>
+                                        {getTagEmoji(tag)}
+                                    </span>
+                                    {tag}
+                                </h5>
                             ))}
                         </div>
                         <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "#B53A26", fontWeight: 900 }}>Learn More &#x2192;</a>
