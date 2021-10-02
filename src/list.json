@@ -19,6 +19,14 @@
         "link": "https://hacktoberfest.appsmith.com/"
       },
       {
+        "organization": "ArchivesSpace",
+        "org_url": "https://archivesspace.org/",
+        "tags": ["Swag"],
+        "description": "The community member who submits the most pull requests in the month of October will receive an ArchivesSpace swag bag!",
+        "no_of_prs": 1,
+        "link": "https://archivesspace.org/archives/7147"
+      },
+      {
         "organization": "AutoDL",
         "org_url": "https://auto-dl.tech/",
         "tags": ["Tshirt", "Stickers", "Bonus Swag"],
