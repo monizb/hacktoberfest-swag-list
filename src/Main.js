@@ -108,7 +108,7 @@ function Main() {
 
             <div className={classes.page_views_wrapper}>
               <div className={classes.page_views_spacer}></div>
-              <h4>Page Views: { page_views }</h4>
+              <h4 style={{color: "#78877E"}}>Site Hits: { page_views }</h4>
             </div>
         </div>
     );
