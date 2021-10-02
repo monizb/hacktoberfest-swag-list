@@ -87,6 +87,14 @@
         "description": "Eligible repositories include most repos of the datenanfragen organization.1 merged pull request to get at least 3 stickers and a webcam cover (limited to 100 sets) and the 10 best contributions get a t-shirt in addition to that.",
         "no_of_prs": 1,
         "link": "https://www.datarequests.org/blog/hacktoberfest-2021/"
+      },
+      {
+        "organization": "Dev.to",
+        "org_url": "https://dev.to/",
+        "tags": ["Profile Badge"],
+        "description": "Share your Hacktoberfest experience with #hacktoberfest and post on Dev will receive a limited edition Hacktoberfest 2021 Profile Badge. ",
+        "no_of_prs": 1,
+        "link": "https://dev.to/devteam/hacktoberfest-2021-is-here-4a3l"
       }
     ],
     "E": [
