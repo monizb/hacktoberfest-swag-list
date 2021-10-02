@@ -191,6 +191,14 @@
         "description": "4 or more pull requests in any eligible repository, including one pull request in MeiliSearch eligible repositories",
         "no_of_prs": 4,
         "link": "https://blog.meilisearch.com/contribute-hacktoberfest-2021/"
+      },
+      {
+        "organization": "Mayadata",
+        "org_url": "https://mayadata.io/",
+        "tags": ["Tshirt", "Swags", "Oculus VR", "Stickers"],
+        "description": "Contributions of all kind are welcome and after a PR is merged special swags will be sent to participants",
+        "no_of_prs": 1,
+        "link": "https://mayadata.io/hacktoberfest-2021"
       }
     ],
     "N": [],
