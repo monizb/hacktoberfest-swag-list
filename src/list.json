@@ -110,7 +110,7 @@
         "tags": ["Swag"],
         "description": "If you're a maintainer participating in Hacktoberfest with DeepSource Discover with at least 20 contributions, they will send special swag to you. Expect an e-mail from them in the second week of November '21. ",
         "no_of_prs": 1,
-        "link": "https://dev.to/devteam/hacktoberfest-2021-is-here-4a3l"
+        "link": "https://deepsource.io/hacktoberfest/"
       }
     ],
     "E": [
@@ -120,7 +120,7 @@
         "tags": ["Stickers"],
         "description": "The first 40 participants who submit at least one pull request that is accepted Earthly’s GitHub Repository between October 1, 2021 and November 1, 2021, will get an earthly sticker.",
         "no_of_prs": 4,
-        "link": "https://deepsource.io/hacktoberfest/"
+        "link": "https://dev.to/devteam/hacktoberfest-2021-is-here-4a3l"
       }
     ],
     "F": [
