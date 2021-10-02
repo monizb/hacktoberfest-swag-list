@@ -103,6 +103,14 @@
         "description": "Share your Hacktoberfest experience with #hacktoberfest and post on Dev will receive a limited edition Hacktoberfest 2021 Profile Badge. ",
         "no_of_prs": 1,
         "link": "https://dev.to/devteam/hacktoberfest-2021-is-here-4a3l"
+      },
+      {
+        "organization": "DeepSource",
+        "org_url": "https://deepsource.io/",
+        "tags": ["Swag"],
+        "description": "If you're a maintainer participating in Hacktoberfest with DeepSource Discover with at least 20 contributions, they will send special swag to you. Expect an e-mail from them in the second week of November '21. ",
+        "no_of_prs": 1,
+        "link": "https://deepsource.io/hacktoberfest/"
       }
     ],
     "E": [
