@@ -227,7 +227,7 @@
         "organization": "StepZen",
         "org_url": "https://stepzen.com/",
         "tags": ["Tshirt", "Stickers"],
-        "description": "with every PR merge or pairing session you complete, They will send you a StepZen GraphQL sticker and if you merge 4 PR they will send you t-shirt.",
+        "description": "With every PR merge or pairing session you complete, Stepzen will send you a StepZen GraphQL sticker and if you merge 4 PRs they will send you t-shirt!",
         "no_of_prs": 1,
         "link": "https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21"
       }
