@@ -211,7 +211,16 @@
     ],
     "N": [],
     "O": [],
-    "P": [],
+    "P": [
+      {
+        "organization": "Paypal",
+        "org_url": "https://www.paypal.com/in/home",
+        "tags": ["Paypal swags", " TimBuk2 Parkside Backpack(1 Random contributor)"],
+        "description": "PayPal socks, TimBuk2 Parkside Backpack (swags limited to first 20 contributors, one random contributor gets a backpack)",
+        "no_of_prs": 1,
+        "link": "https://github.com/paypal/hacktoberfest"
+      },
+         ],
     "Q": [],
     "R": [],
     "S": [
