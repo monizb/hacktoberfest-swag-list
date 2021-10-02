@@ -119,7 +119,7 @@
         "org_url": "https://earthly.dev/",
         "tags": ["Stickers"],
         "description": "The first 40 participants who submit at least one pull request that is accepted Earthly’s GitHub Repository between October 1, 2021 and November 1, 2021, will get an earthly sticker.",
-        "no_of_prs": 4,
+        "no_of_prs": 1,
         "link": "https://earthly.dev/blog/hacktoberfest-2021/"
       }
     ],
