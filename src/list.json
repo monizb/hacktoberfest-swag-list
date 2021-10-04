@@ -111,6 +111,14 @@
         "description": "If you're a maintainer participating in Hacktoberfest with DeepSource Discover with at least 20 contributions, they will send special swag to you. Expect an e-mail from them in the second week of November '21. ",
         "no_of_prs": 1,
         "link": "https://deepsource.io/hacktoberfest/"
+      },
+      {
+        "organization": "DevICT",
+        "org_url": "https://www.devict.org/",
+        "tags": ["Stickers"],
+        "description": "Submit two pull requests to qualifying Wichita projects during the month of October and receive stickers from us!",
+        "no_of_prs": 2,
+        "link": "https://devict-hacktoberfest.herokuapp.com/"
       }
     ],
     "E": [
