@@ -241,7 +241,16 @@
         "link": "https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement"
       }
     ],
-    "N": [],
+    "N": [
+      {
+        "organization": "NativeScript",
+        "org_url": "https://nativescript.org/",
+        "tags": ["Tshirt", "Socks", "Stress ball", "bottle opener"],
+        "description": "Contributions of all kind are welcome like creating a repo of anything you find fun about NativeScript, creating video to showoff your NativeScript skills, create a NativeScript plugin. Tweet about your contribution and mention @NativeScript, then DM us with your address to get free swag.",
+        "no_of_prs": 1,
+        "link": "https://github.com/NativeScript/NativeScript"
+      }
+    ],
     "O": [],
     "P": [
       {
@@ -305,6 +314,15 @@
     "W": [],
     "X": [],
     "Y": [],
-    "Z": []
+    "Z": [
+      {
+        "organization": "Zup",
+        "org_url": "https://zup.com.br/",
+        "tags": ["Tshirt"],
+        "description": "Create 2+ pull request on any ZupIT repo. The first 200 contributors from Brasil will receive a T-shirt.",
+        "no_of_prs": 2,
+        "link": "https://insights.zup.com.br/hacktoberfest/"
+      }
+    ]
   }
 }
