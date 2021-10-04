@@ -225,7 +225,16 @@
         "link": "https://mayadata.io/hacktoberfest-2021"
       }
     ],
-    "N": [],
+    "N": [
+      {
+        "organization": "NativeScript",
+        "org_url": "https://nativescript.org/",
+        "tags": ["Tshirt", "Socks", "Stress ball", "bottle opener"],
+        "description": "Contributions of all kind are welcome like creating a repo of anything you find fun about NativeScript, creating video to showoff your NativeScript skills, create a NativeScript plugin. Tweet about your contribution and mention @NativeScript, then DM us with your address to get free swag.",
+        "no_of_prs": 1,
+        "link": "https://github.com/NativeScript/NativeScript"
+      }
+    ],
     "O": [],
     "P": [
       {
