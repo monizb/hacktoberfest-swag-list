@@ -245,7 +245,7 @@ function Main() {
                         <h3 style={{ color: "#2B3531" }}><a href={item.org_url} style={{ textDecoration: "none", color: "#2B3531" }} target="_blank" rel="noreferrer">{item.organization}</a></h3>
                         <p>{item.description}</p>
                         <p className={classes.pullRequestsNumber}>No. of PRs: {item.no_of_prs}</p>
-                        <div style={{ display: "flex" }}>
+                        <div style={{ display: "flex",flexWrap:"wrap"}}>
                             {item.tags.map((tag) => (
                                 <h5
                                     className={classes.tag}
