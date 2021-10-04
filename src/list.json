@@ -297,6 +297,15 @@
     "W": [],
     "X": [],
     "Y": [],
-    "Z": []
+    "Z": [
+      {
+        "organization": "Zup",
+        "org_url": "https://zup.com.br/",
+        "tags": ["Tshirt"],
+        "description": "Create 2+ pull request on any ZupIT repo. The first 200 contributors from Brasil will receive a T-shirt.",
+        "no_of_prs": 2,
+        "link": "https://insights.zup.com.br/hacktoberfest/"
+      }
+    ]
   }
 }
