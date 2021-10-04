@@ -265,7 +265,16 @@
         "link": "https://www.stackbuilders.com/news/it-s-hacktoberfest-time"
       }
     ],
-    "T": [],
+    "T": [
+      {
+        "organization": "ToolJet",
+        "org_url": "https://tooljet.io/",
+        "tags": ["Tshirt", "Stickers"],
+        "description": "Every valid PR is eligible for ToolJet swag ( stickers, t-shirts, and more ). Additionally, we will select top contributors to receive a special prize.",
+        "no_of_prs": 1,
+        "link": "https://blog.tooljet.io/hacktoberfest-2021/"
+      }
+    ],
     "U": [
       {
         "organization": "Umbraco",
