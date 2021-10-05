@@ -5,6 +5,10 @@ const TAG_EMOJI = {
     Socks: "🧦",
     Hoodie: "🧥",
     Cap: "🧢",
+    Mug: "🍺",
+    Voucher: "🎟",
+    Jacket: "🧥",
+    Backpack: "🎒",
     Swags: "🛍️",
     Swag: "🛍️",
 };
