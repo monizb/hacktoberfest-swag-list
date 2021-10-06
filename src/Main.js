@@ -21,7 +21,7 @@ import { getTagEmoji } from './Utils/getTagEmoji';
 
 import countapi from 'countapi-js';
 
-const drawerWidth = 380;
+const drawerWidth = 350;
 const defaultSortBy = {
     difficulty: '',
 };
@@ -104,13 +104,13 @@ function Main() {
             </List>
             <div>
                 <button className={classes.github_btn}>
-                    <a href="https://github.com/monizb/hacktoberfest-swag-list" target="_blank" rel="noreferrer"><FeatherIcon icon="github" color="white" /></a>
+                    <a href="https://github.com/monizb/hacktoberfest-swag-list"><FeatherIcon icon="github" color="white" /></a>
                 </button>
             </div>
 
             <div className={classes.page_views_wrapper}>
               <div className={classes.page_views_spacer}></div>
-              <h4 style={{color: "#78877E"}}>Site Hits: { page_views }</h4>
+              <h3 style={{color: "#303632"}}>Site Hits: { page_views }</h3>
             </div>
         </div>
     );
@@ -138,7 +138,7 @@ function Main() {
                         <FeatherIcon icon="menu" />
                     </IconButton>
                     <Typography variant="h6" noWrap component="div" style={{ display: "flex", alignItems: "center" }}>
-                        <img src={hbIcon} style={{ width: 50, marginRight: 12 }} alt="small icon" />
+                        <img src={hbIcon} style={{ width: 50, marginRight: 12,paddingLeft:-4}} alt="small icon" />
                         Hacktoberfest 2021 Swag List
                     </Typography>
                 </Toolbar>
@@ -178,10 +178,10 @@ function Main() {
                 <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
                     <Toolbar />
                     <div className={classes.disclaimer}>
-                        <h5 style={{ color: "#2B3531" }}>Hacktoberfest is the celebration of Open-Source, its that time of the year when people from all over the world come together to contribute to their favorite Open Source projects. To make the deal sweeter some organizations give out cool swags like tshirts, stickers and much more! This page aims to consolidate all the swag opportunities in one place and make it easier for you to choose from. <span style={{ color: "#B53A26" }}>Always remember, Hacktoberfest is about making "meaningful contributions" any kind of SPAM/HATRED is a big NO and isn't tolerated. Create PRs that add value and take home the sweet swags!</span></h5>
-                        <h5 style={{ color: "#2B3531" }}><a href="https://www.digitalocean.com/community/tutorials/hacktoberfest-contributor-s-guide-how-to-find-and-contribute-to-open-source-projects" target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#B53A26" }}>How to make meaningful contributions? </a></h5>
-                        <h5 style={{ color: "#2B3531" }}>You can read more about Hacktoberfest <a href="https://hacktoberfest.digitalocean.com/" style={{ color: "#B53A26", textDecoration: "none" }}>here. </a>If you are a part of an organization listed below and dont wan't your swag to be listed, please contact me by raising an issue on the official repository and it will be taken down immediately.</h5>
-                        <h5 style={{ color: "#2B3531" }}>Want to add this list to your own resource? Use the following JSON: </h5>
+                        <h5 style={{ color: "#303632" }}>Hacktoberfest is the celebration of Open-Source, its that time of the year when people from all over the world come together to contribute to their favorite Open Source projects. To make the deal sweeter some organizations give out cool swags like tshirts, stickers and much more! This page aims to consolidate all the swag opportunities in one place and make it easier for you to choose from. <span style={{ color: "#B53A26" }}>Always remember, Hacktoberfest is about making "meaningful contributions" any kind of SPAM/HATRED is a big NO and isn't tolerated. Create PRs that add value and take home the sweet swags!</span></h5>
+                        <h5 style={{ color: "#303632" }}><a href="https://www.digitalocean.com/community/tutorials/hacktoberfest-contributor-s-guide-how-to-find-and-contribute-to-open-source-projects" target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#B53A26" }}>How to make meaningful contributions? </a></h5>
+                        <h5 style={{ color: "#303632" }}>You can read more about Hacktoberfest <a href="https://hacktoberfest.digitalocean.com/" style={{ color: "#B53A26", textDecoration: "none" }}>here. </a>If you are a part of an organization listed below and dont wan't your swag to be listed, please contact me by raising an issue on the official repository and it will be taken down immediately.</h5>
+                        <h5 style={{ color: "#303632" }}>Want to add this list to your own resource? Use the following JSON: </h5>
                         <h5 style={{ backgroundColor: "#F4F0E1", padding: 10, borderRadius: 5, width: "fit-content" }}><a href="https://github.com/monizb/hacktoberfest-swag-list/blob/main/src/list.json" target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#B53A26" }}>https://github.com/monizb/hacktoberfest-swag-list/blob/main/src/list.json</a></h5>
                     </div>
                 </Box>
