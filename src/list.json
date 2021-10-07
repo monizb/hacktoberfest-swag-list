@@ -266,7 +266,7 @@
       {
         "organization": "QuestDB",
         "org_url": "https://questdb.io/community/",
-        "tags": ["T-shirts", "Bottles", "Stickers", "Swags"],
+        "tags": ["Tshirt", "Bottle", "Stickers", "Swags"],
         "description": "If you successfully contribute to QuestDB projects, we offer extra SWAG for you through our SWAG program!",
         "no_of_prs": 1,
         "link": "https://github.com/questdb/questdb"
