@@ -273,7 +273,7 @@
       }
     ],
     "R": [],
-    "S": [      
+    "S": [
       {
         "organization": "Stack Builders",
         "org_url": "https://www.stackbuilders.com/",
@@ -282,7 +282,7 @@
         "no_of_prs": 1,
         "link": "https://www.stackbuilders.com/news/it-s-hacktoberfest-time"
       },
-	  {
+      {
         "organization": "StepZen",
         "org_url": "https://stepzen.com/",
         "tags": ["Tshirt", "Stickers"],
@@ -298,7 +298,7 @@
         "no_of_prs": 0,
         "link": "https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021"
       },
-	  {
+      {
         "organization": "Switchblade",
         "org_url": "https://switchblade.xyz/",
         "tags": ["Stickers"],
