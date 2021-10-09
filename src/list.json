@@ -77,6 +77,14 @@
         "description": "Codedamn brings you a collection of projects to build in #hacktoberfest this year. Complete a single project, submit it on our GitHub repository, and win a t-shirt for free!",
         "no_of_prs": 1,
         "link": "https://codedamn.com/projects"
+      },
+      {
+        "organization":"CodeSee",
+        "org_url":"https://www.oss-port.com/swag/",
+        "tags":["Sweatshirt,Tshirt,Stickers"],
+        "description":"As a participant Minimum of 4 successfull PRs to OSS port's repositories with a #hacktober-accepted tag can win Tshirts and stickers ",
+        "no_of_prs": 4,
+        "link":"https://www.oss-port.com/swag/"
       }
     ],
     "D": [
