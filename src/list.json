@@ -77,6 +77,14 @@
         "description": "Codedamn brings you a collection of projects to build in #hacktoberfest this year. Complete a single project, submit it on our GitHub repository, and win a t-shirt for free!",
         "no_of_prs": 1,
         "link": "https://codedamn.com/projects"
+      },
+      {
+        "organization": "Creative Tim",
+        "org_url": "https://www.creative-tim.com/",
+        "tags": ["Tshirt"],
+        "description": "This year, we are offering a special Creative Tim T-shirt for ten collaborators on our open-source 🎁",
+        "no_of_prs": 1,
+        "link": "https://www.creative-tim.com/blog/creative-tim/open-source-projects-for-hacktoberfest/"
       }
     ],
     "D": [
