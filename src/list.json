@@ -119,6 +119,14 @@
         "description": "Submit two pull requests to qualifying Wichita projects during the month of October and receive stickers from us!",
         "no_of_prs": 2,
         "link": "https://devict-hacktoberfest.herokuapp.com/"
+      },
+      {
+        "organization": "DagsHub",
+        "org_url": "https://dagshub.com/blog/hacktoberfest-x-dagshub-2/",
+        "tags": ["Stickers", "Tshirt],
+        "description": " Get a T-shirt if you create 10+ PRs and stickers if you create 2+ PRs,
+        "no_of_prs": 10,
+        "link": "https://github.com/DAGsHub/audio-datasets/"
       }
     ],
     "E": [
