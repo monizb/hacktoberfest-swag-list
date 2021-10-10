@@ -85,6 +85,14 @@
         "description": "As a participant Minimum of 4 successfull PRs to OSS port's repositories with a #hacktober-accepted tag can win Tshirts and stickers ",
         "no_of_prs": 4,
         "link": "https://www.oss-port.com/swag/"
+      },
+      {
+        "organization": "Creative Tim",
+        "org_url": "https://www.creative-tim.com/",
+        "tags": ["Tshirt"],
+        "description": "This year, we are offering a special Creative Tim T-shirt for ten collaborators on our open-source 🎁",
+        "no_of_prs": 1,
+        "link": "https://www.creative-tim.com/blog/creative-tim/open-source-projects-for-hacktoberfest/"
       }
     ],
     "D": [
@@ -283,12 +291,12 @@
     "R": [],
     "S": [
       {
-        "organization": "Supabase",
-        "org_url": "https://supabase.io/",
-        "tags": ["Tshirt", "Hackathon"],
-        "description": "Supabase is running a Hackathon during Hacktoberfest! Pool in your awesome ideas and get a chance to win the Prestigious Gold Supabase Tee! The hackathon has 5 different categories with a winner in each one!",
-        "no_of_prs": 0,
-        "link": "https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021"
+        "organization": "Stack Builders",
+        "org_url": "https://www.stackbuilders.com/",
+        "tags": ["Gift Cards"],
+        "description": "In addition to the official event, Stack Builders will be pitching in with some rewards for people who contribute. We’ll launch weekly challenges in October and hand out gift cards at the beginning of November to those who get the highest score from making top-value contributions to any open-source repository on GitHub or GitLab.",
+        "no_of_prs": 1,
+        "link": "https://www.stackbuilders.com/news/it-s-hacktoberfest-time"
       },
       {
         "organization": "StepZen",
@@ -299,12 +307,20 @@
         "link": "https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21"
       },
       {
-        "organization": "Stack Builders",
-        "org_url": "https://www.stackbuilders.com/",
-        "tags": ["Gift Cards"],
-        "description": "In addition to the official event, Stack Builders will be pitching in with some rewards for people who contribute. We’ll launch weekly challenges in October and hand out gift cards at the beginning of November to those who get the highest score from making top-value contributions to any open-source repository on GitHub or GitLab.",
-        "no_of_prs": 1,
-        "link": "https://www.stackbuilders.com/news/it-s-hacktoberfest-time"
+        "organization": "Supabase",
+        "org_url": "https://supabase.io/",
+        "tags": ["Tshirt", "Hackathon"],
+        "description": "Supabase is running a Hackathon during Hacktoberfest! Pool in your awesome ideas and get a chance to win the Prestigious Gold Supabase Tee! The hackathon has 5 different categories with a winner in each one!",
+        "no_of_prs": 0,
+        "link": "https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021"
+      },
+      {
+        "organization": "Switchblade",
+        "org_url": "https://switchblade.xyz/",
+        "tags": ["Stickers"],
+        "description": " If you open 3 or more valid pull requests to their repositories during October, they will mail you three fancy Switchblade stickers and a letter as a thank you for contributing to open source.",
+        "no_of_prs": 3,
+        "link": "https://github.com/SwitchbladeBot/switchblade/issues/1203"
       }
     ],
     "T": [
