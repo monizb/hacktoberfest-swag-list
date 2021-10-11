@@ -276,8 +276,8 @@
         "organization": "MUNCSS",
         "org_url": "https://muncompsci.ca",
         "tags": ["Stickers"],
-        "description": "Contribute to any of the MUNCSS repos this hacktoberfest and receive a special edition MUNCSS sticker!"
-        "no_of_prs": 1
+        "description": "Contribute to any of the MUNCSS repos this hacktoberfest and receive a special edition MUNCSS sticker!",
+        "no_of_prs": 1,
         "link": "https://muncompsci.ca/events/hacktoberfest-2021/"
       } 
     ],
