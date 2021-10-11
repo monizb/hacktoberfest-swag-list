@@ -271,6 +271,14 @@
         "description": "Contribute with at least 5 points making pull requests to any of our open issues labeled Hacktoberfest.Documentation PR [1 point] Data-sets to public suite PR [1 point] Tutorials PR [3 points] Data sources integrations PR [5 points] API optimization PR [5 points]",
         "no_of_prs": 5,
         "link": "https://mindsdb.com/hacktoberfest/"
+      },
+      {
+        "organization": "MUNCSS",
+        "org_url": "https://muncompsci.ca",
+        "tags": ["Stickers"],
+        "description": "Contribute to any of the MUNCSS repos this hacktoberfest and receive a special edition MUNCSS sticker!",
+        "no_of_prs": 1,
+        "link": "https://muncompsci.ca/events/hacktoberfest-2021/"
       }
     ],
     "N": [
