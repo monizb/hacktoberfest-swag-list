@@ -67,6 +67,14 @@
         "description": "We’ve always been passionate about open source initiatives and involving the mobile developer community when it comes to building our service: this is why we didn’t hesitate to join Hacktoberfest 2021 organized by DigitalOcean. This year you can contribute to your favorite mobile CI/CD platform, have a great impact on our service, and win amazing swags.",
         "no_of_prs": 4,
         "link": "https://blog.bitrise.io/post/hacktoberfest-2021-at-bitrise-join-the-challenge-and-win-awesome-swag"
+      },
+      {
+        "organization": "Boa Constrictor",
+        "org_url": "https://q2ebanking.github.io/boa-constrictor/",
+        "tags": ["Stickers"],
+        "description": "We are delighted to announce that Boa Constrictor will participate in Hacktoberfest 2021. Open source software is vital for our industry, and we strongly support efforts like Hacktoberfest to encourage folks to contribute to open source projects. Many thanks to Digital Ocean, Appwrite, Intel, and DeepSource for sponsoring Hacktoberfest again this year.",
+        "no_of_prs": 1,
+        "link": "https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/"
       }
     ],
     "C": [
