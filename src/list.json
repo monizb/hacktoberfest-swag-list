@@ -372,6 +372,14 @@
         "link": "https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021"
       },
       {
+        "organization": "Symbl.ai",
+        "org_url": "https://symbl.ai/",
+        "tags": ["Stickers" , "T-shirts"],
+        "description": " Three or more open and valid pull requests to the repository.",
+        "no_of_prs": 3,
+        "link": "https://github.com/symblai/symbl-twilio-video-react"
+      },
+      {
         "organization": "Switchblade",
         "org_url": "https://switchblade.xyz/",
         "tags": ["Stickers"],
