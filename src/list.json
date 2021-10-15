@@ -199,7 +199,16 @@
         "link": "https://opensource.globo.com/hacktoberfest/"
       }
     ],
-    "H": [],
+    "H": [
+      {
+        "organization": "Hasura",
+        "org_url": "https://hasura.io/",
+        "tags": ["Swag"],
+        "description": "This time around, there are 2 ways you can participating in celebrating open-source with us: 1. Contribute to the Hasura GraphQL Engine and 2. Hasura Tips & Tricks Contest",
+        "no_of_prs": 1,
+        "link": "https://hasura.io/blog/celebrating-open-source-with-hasura/"
+      }
+    ],
     "I": [],
     "J": [
       {
