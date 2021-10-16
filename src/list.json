@@ -313,9 +313,26 @@
         "description": "Contributions of all kind are welcome like creating a repo of anything you find fun about NativeScript, creating video to showoff your NativeScript skills, create a NativeScript plugin. Tweet about your contribution and mention @NativeScript, then DM us with your address to get free swag.",
         "no_of_prs": 1,
         "link": "https://github.com/NativeScript/NativeScript"
+      },
+      {
+        "organization": "NMF.earth",
+        "org_url": "https://nmf.earth/",
+        "tags": ["Stickers"],
+        "description": "Make 1 successful PR to NMF.earth repo fixing an Issue tagged with Stickers and get a free set of three stickers.",
+        "no_of_prs": 1,
+        "link": "https://medium.com/@nmf_earth/hacktoberfest-2021-carbon-diary-sustainable-guide-32fb4e5323c1"
       }
     ],
-    "O": [],
+    "O": [
+      {
+        "organization": "Ory",
+        "org_url": "https://www.ory.sh/",
+        "tags": ["Tshirt"],
+        "description": "Attention swag collectors: Happy Hacktoberfest! Make 1 successful PR to an Ory repo and get a free T-shirt",
+        "no_of_prs": 1,
+        "link": "https://twitter.com/OryCorp/status/1445036792374247425"
+      }
+    ],
     "P": [
       {
         "organization": "Paypal",
