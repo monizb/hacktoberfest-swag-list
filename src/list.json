@@ -167,6 +167,14 @@
         "description": "Get a T-shirt if you create 10+ PRs and stickers if you create 2+ PRs",
         "no_of_prs": 2,
         "link": "https://github.com/DAGsHub/audio-datasets/"
+      },
+      {
+        "organization": "Devtron",
+        "org_url": "https://devtron.ai/",
+        "tags": ["Stickers", "Tshirt", "Diary", "Coaster"],
+        "description": "We have exciting gifts for our contributors during Hacktoberfest celebrating Opensource. Each of your additional accepted PR to anyone of our Repos would give you more exciting giveaways. 1 Merged PR will get Stickers Pack + 1 T-Shirt, 2 Merged PR will get Stickers Pack + 1 Diary + 1 T-Shirt, 3 or 3+ Merged PR will get Stickers Pack + 1 Diary + 1 T-Shirt + 1 Coaster (Devtron Swag Pack), Special Prize (Most Innovative/Unique PR and Maximum number of PRs) will get Devtron Swag Pack + Surprise Box.",
+        "no_of_prs": 1,
+        "link": "https://github.com/devtron-labs/hacktoberfest2021"
       }
     ],
     "E": [
