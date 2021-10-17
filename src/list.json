@@ -149,7 +149,7 @@
         "org_url": "https://devdojo.com",
         "tags": ["Swag"],
         "description": "Submit four pull requests (PRs) to any github repo and redeem a hacktoberfest shirt. We've also got a Special Bonus! If you submit two of your pull requests (PRs) to any of our projects you'll also receive a month of DevDojo Pro $15 value!",
-        "no_of_prs": 2
+        "no_of_prs": 2,
         "link": "https://devdojo.com/hacktoberfest"
       }
     ],
