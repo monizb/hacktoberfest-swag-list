@@ -213,6 +213,14 @@
         "description": "Globo is giving away tshirts to the first 100 entries within only within the Brazilian Territory. Create 2 Pull Request out of which one must be accepted. The contributions can be made any of the Globo Projects",
         "no_of_prs": 2,
         "link": "https://opensource.globo.com/hacktoberfest/"
+      },
+      {
+        "organization": "Grouparoo",
+        "org_url": "https://www.grouparoo.com/",
+        "tags": ["Tshirt", "Hoodies", "Gift-Card"],
+        "description": "Improve Documentation or create destination or both and you will get a Tshirt or a hoodie",
+        "no_of_prs": "1",
+        "link": "https://www.grouparoo.com/hacktoberfest"
       }
     ],
     "H": [
