@@ -3,6 +3,14 @@
   "list": {
     "A": [
       {
+        "organization": "Alpaca",
+        "org_url": "https://alpaca.markets/",
+        "tags": ["Tshirt"],
+        "description": "Alpaca announces its participating in hacktoberfet 2021 and rewarding cool t-shirt. If you’re one of the first 20 participants to submit one or more successfully merged pull requests to our open source projects and any contributions to the community-built SDKs, such as Java and R ones, as well as anything that uses Alpaca API, you’ll receive an Alpaca T-shirt.",
+        "no_of_prs": 1,
+        "link": "https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/"
+      },
+      {
         "organization": "Appwrite",
         "org_url": "https://appwrite.io/",
         "tags": ["Tshirt", "Stickers", "Mug"],
@@ -37,6 +45,14 @@
     ],
     "B": [
       {
+        "organization": "Bagisto",
+        "org_url": "https://bagisto.com",
+        "tags": ["Tshirt", "Stickers", "Notebook", "Pen", "Bagisto Elephant"],
+        "description": "Bagisto has shown a great response in a very quick interval of time and its community is increasing day by day with a great swing. Now its a great opportunity for the developers to be a contributor of this outstanding eCommerce platform.For every 4 PR that gets accepted, you can adopt Baggy The Elephant along with cool swags",
+        "no_of_prs": 4,
+        "link": "https://webkul.com/meetups/hacktober-fest-bagisto-2021/"
+      },
+      {
         "organization": "Bridgecrew",
         "org_url": "https://bridgecrew.io/",
         "tags": ["Tshirt", "Stickers"],
@@ -51,6 +67,14 @@
         "description": "We’ve always been passionate about open source initiatives and involving the mobile developer community when it comes to building our service: this is why we didn’t hesitate to join Hacktoberfest 2021 organized by DigitalOcean. This year you can contribute to your favorite mobile CI/CD platform, have a great impact on our service, and win amazing swags.",
         "no_of_prs": 4,
         "link": "https://blog.bitrise.io/post/hacktoberfest-2021-at-bitrise-join-the-challenge-and-win-awesome-swag"
+      },
+      {
+        "organization": "Boa Constrictor",
+        "org_url": "https://q2ebanking.github.io/boa-constrictor/",
+        "tags": ["Stickers"],
+        "description": "We are delighted to announce that Boa Constrictor will participate in Hacktoberfest 2021. Open source software is vital for our industry, and we strongly support efforts like Hacktoberfest to encourage folks to contribute to open source projects. Many thanks to Digital Ocean, Appwrite, Intel, and DeepSource for sponsoring Hacktoberfest again this year.",
+        "no_of_prs": 1,
+        "link": "https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/"
       }
     ],
     "C": [
@@ -151,6 +175,14 @@
         "description": "Submit four pull requests (PRs) to any github repo and redeem a hacktoberfest shirt. We've also got a Special Bonus! If you submit two of your pull requests (PRs) to any of our projects you'll also receive a month of DevDojo Pro $15 value!",
         "no_of_prs": 2,
         "link": "https://devdojo.com/hacktoberfest"
+      },
+       {
+        "organization": "Devtron",
+        "org_url": "https://devtron.ai/",
+        "tags": ["Stickers", "Tshirt", "Diary", "Coaster"],
+        "description": "We have exciting gifts for our contributors during Hacktoberfest celebrating Opensource. Each of your additional accepted PR to anyone of our Repos would give you more exciting giveaways. 1 Merged PR will get Stickers Pack + 1 T-Shirt, 2 Merged PR will get Stickers Pack + 1 Diary + 1 T-Shirt, 3 or 3+ Merged PR will get Stickers Pack + 1 Diary + 1 T-Shirt + 1 Coaster (Devtron Swag Pack), Special Prize (Most Innovative/Unique PR and Maximum number of PRs) will get Devtron Swag Pack + Surprise Box.",
+        "no_of_prs": 1,
+        "link": "https://github.com/devtron-labs/hacktoberfest2021"
       }
     ],
     "E": [
@@ -183,7 +215,16 @@
         "link": "https://opensource.globo.com/hacktoberfest/"
       }
     ],
-    "H": [],
+    "H": [
+      {
+        "organization": "Hasura",
+        "org_url": "https://hasura.io/",
+        "tags": ["Swag"],
+        "description": "This time around, there are 2 ways you can participating in celebrating open-source with us: 1. Contribute to the Hasura GraphQL Engine and 2. Hasura Tips & Tricks Contest",
+        "no_of_prs": 1,
+        "link": "https://hasura.io/blog/celebrating-open-source-with-hasura/"
+      }
+    ],
     "I": [],
     "J": [
       {
@@ -287,7 +328,7 @@
         "description": "Contribute to any of the MUNCSS repos this hacktoberfest and receive a special edition MUNCSS sticker!",
         "no_of_prs": 1,
         "link": "https://muncompsci.ca/events/hacktoberfest-2021/"
-      } 
+      }
     ],
     "N": [
       {
@@ -307,7 +348,16 @@
         "link": "https://github.com/NMF-earth/nmf-app/issues"
       }  
     ],
-    "O": [],
+    "O": [
+      {
+        "organization": "Ory",
+        "org_url": "https://www.ory.sh/",
+        "tags": ["Tshirt"],
+        "description": "Attention swag collectors: Happy Hacktoberfest! Make 1 successful PR to an Ory repo and get a free T-shirt",
+        "no_of_prs": 1,
+        "link": "https://twitter.com/OryCorp/status/1445036792374247425"
+      }
+    ],
     "P": [
       {
         "organization": "Paypal",
@@ -353,6 +403,14 @@
         "description": "Supabase is running a Hackathon during Hacktoberfest! Pool in your awesome ideas and get a chance to win the Prestigious Gold Supabase Tee! The hackathon has 5 different categories with a winner in each one!",
         "no_of_prs": 0,
         "link": "https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021"
+      },
+      {
+        "organization": "Symbl.ai",
+        "org_url": "https://symbl.ai/",
+        "tags": ["Stickers", "T-shirts"],
+        "description": " Three or more open and valid pull requests to the repository.",
+        "no_of_prs": 3,
+        "link": "https://github.com/symblai/symbl-twilio-video-react"
       },
       {
         "organization": "Switchblade",
