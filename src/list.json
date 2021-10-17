@@ -411,6 +411,14 @@
         "description": " If you open 3 or more valid pull requests to their repositories during October, they will mail you three fancy Switchblade stickers and a letter as a thank you for contributing to open source.",
         "no_of_prs": 3,
         "link": "https://github.com/SwitchbladeBot/switchblade/issues/1203"
+      },
+      {
+        "organization": "Sourcegraph",
+        "org_url": "https://sourcegraph.com/search",
+        "tags": ["Swag"],
+        "description": "For Hacktoberfest 2021, we are happy to share that we will be offering the first 50 successfully merged pull request contributors with a Sourcegraph swag package. We'll provide details to contributors directly.",
+        "no_of_prs": 1,
+        "link": "https://dev.to/sourcegraph/happy-hacktoberfest-from-sourcegraph-2dc3"
       }
     ],
     "T": [
