@@ -169,6 +169,14 @@
         "link": "https://github.com/DAGsHub/audio-datasets/"
       },
       {
+        "organization": "DEVDOJO",
+        "org_url": "https://devdojo.com",
+        "tags": ["Swag"],
+        "description": "Submit four pull requests (PRs) to any github repo and redeem a hacktoberfest shirt. We've also got a Special Bonus! If you submit two of your pull requests (PRs) to any of our projects you'll also receive a month of DevDojo Pro $15 value!",
+        "no_of_prs": 2,
+        "link": "https://devdojo.com/hacktoberfest"
+      },
+      {
         "organization": "Devtron",
         "org_url": "https://devtron.ai/",
         "tags": ["Stickers", "Tshirt", "Diary", "Coaster"],
@@ -333,7 +341,7 @@
       },
       {
         "organization": "NMF.earth",
-        "org_url": "https://nmf.earth/",
+        "org_url": "http://nmf.earth",
         "tags": ["Stickers"],
         "description": "Make 1 successful PR to NMF.earth repo fixing an Issue tagged with Stickers and get a free set of three stickers.",
         "no_of_prs": 1,
