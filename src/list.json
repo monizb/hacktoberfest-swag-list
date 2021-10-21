@@ -435,6 +435,14 @@
         "description": "For Hacktoberfest 2021, we are happy to share that we will be offering the first 50 successfully merged pull request contributors with a Sourcegraph swag package. We'll provide details to contributors directly.",
         "no_of_prs": 1,
         "link": "https://dev.to/sourcegraph/happy-hacktoberfest-from-sourcegraph-2dc3"
+      },
+      {
+        "orgnization": "Stoplight",
+        "org_url": "https://stoplight.io/",
+        "tags": ["Swag"],
+        "description": "Complete a Stoplight Project Open-Source Pull Request = Plant 400 Trees!.",
+        "no_of_prs": 1,
+        "link": "https://blog.stoplight.io/opening-up-about-open-source-october-time-to-give-back"
       }
     ],
     "T": [
