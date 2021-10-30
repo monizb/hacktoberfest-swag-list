@@ -11,8 +11,8 @@
 ![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmonizb%2Fhacktoberfest-swag-list%2F&style=for-the-badge&logo=twitter)
 
 <br>
- 
- 
+
+
 # Hacktoberfest 2021 Swag List
 
 **Hacktoberfest** is the celebration of Open-Source, its that time of the year
