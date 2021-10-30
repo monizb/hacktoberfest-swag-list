@@ -4,7 +4,7 @@
     "A": [
       {
         "organization": "Alpaca",
-        "org_url": "https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/",
+        "org_url": "https://alpaca.markets/",
         "tags": ["Tshirt"],
         "description": "Alpaca announces its participating in hacktoberfet 2021 and rewarding cool t-shirt. If you’re one of the first 20 participants to submit one or more successfully merged pull requests to our open source projects and any contributions to the community-built SDKs, such as Java and R ones, as well as anything that uses Alpaca API, you’ll receive an Alpaca T-shirt.",
         "no_of_prs": 1,
