@@ -16,6 +16,7 @@
 You can read more about Hacktoberfest [here](https://hacktoberfest.digitalocean.com/). If you are a part of an organization listed below and dont wan't your swag to be listed, please contact me by raising an issue on the official repository and it will be taken down immediately.
 <br>
 <br>
+
 ## Raising Issues
 Please use the appropriate template while raising an issue. There are mainly 4 types of templates available: New Swag Opportunity, Takedown Request, Bugs and Feature Request. Provide all the information asked in the given template for faster resolutions
 <br>
