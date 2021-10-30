@@ -11,6 +11,14 @@
         "link": "https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/"
       },
       {
+        "organization": "Automation Panda",
+        "org_url": "https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/",
+        "tags": ["Stickers"],
+        "description": "Automation Panda announces its participating in hacktoberfet 2021 To encourage contributions, They will give free Boa Constrictor stickers to anyone who makes a valid pull request to the project during Hacktoberfest 2021!",
+        "no_of_prs": 1,
+        "link": "https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/"
+      },
+      {
         "organization": "Appwrite",
         "org_url": "https://appwrite.io/",
         "tags": ["Tshirt", "Stickers", "Mug"],
