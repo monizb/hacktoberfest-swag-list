@@ -9,6 +9,7 @@
 
 <br>
  
+ 
 # Hacktoberfest 2021 Swag List
 
 **Hacktoberfest** is the celebration of Open-Source, its that time of the year when people from all over the world come together to contribute to their favorite Open Source projects. To make the deal sweeter some organizations give out cool swags like tshirts, stickers and much more! This page aims to consolidate all the swag opportunities in one place and make it easier for you to choose from. Always remember, Hacktoberfest is about making **"meaningful contributions"** any kind of **SPAM/HATRED** is a big **NO** and isn't tolerated. Create PRs that add value and take home the sweet swags!
