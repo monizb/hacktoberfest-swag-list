@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/board-eval-test.appspot.com/o/Add%20a%20heading.png?alt=media&token=9484a89d-c145-4dc8-9685-2ab0e8bd8bb6" width="1100"/>
+<img src="https://user-images.githubusercontent.com/46259712/192037191-3d1737bf-f4cb-4d9a-a63b-cdde95c47b4f.png" width="1100"/>
  </p>
+
  <br>
  <br>
 
@@ -12,7 +13,7 @@
 
 <br>
 
-# Hacktoberfest 2021 Swag List
+# Hacktoberfest 2022 Swag List
 
 **Hacktoberfest** is the celebration of Open-Source, its that time of the year
 when people from all over the world come together to contribute to their
