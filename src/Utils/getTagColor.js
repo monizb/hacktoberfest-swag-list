@@ -1,11 +1,11 @@
-const LIGHT_ROSE = "#ffc7bd";
-const BERLY_GREEN = "#e8e0c3";
-const CLAY_ASH = "#b4d0ae";
-const GAINSBORO = "#E4D8DC";
-const LIGHT_SALMON = "#ffa99a";
-const MERCURY = "#e5e5e5";
-const PARCHMENT = "#FCFFA6";
-const MISTY_ROSE = "#ffe5d9";
+const LIGHT_ROSE = "#E94560";
+const BERLY_GREEN = "#F73D93";
+const CLAY_ASH = "#3D2C8D";
+const GAINSBORO = "#219897";
+const LIGHT_SALMON = "#301B3F";
+const MERCURY = "#150485";
+const PARCHMENT = "#1E5F74";
+const MISTY_ROSE = "#363062";
 
 const TAG_COLORS = {
     Tshirt: LIGHT_ROSE,

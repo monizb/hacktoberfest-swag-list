@@ -1,18 +1,19 @@
 .disclaimer {
-  background-color: #dbe8d8;
-  color: #2b3531;
+  background-color: #1b1423;
+  color: white;
   text-align: left;
   padding: 3px 25px;
   border-radius: 5px;
 }
 
 .github_btn {
-  background-color: #b53a26;
+  background-color: #7882cb;
   color: #fff;
   text-align: center;
   padding: 12px 15px;
   border: none;
   border-radius: 5px;
+  background-image: linear-gradient(to right , #64e4ff,#8f92fe);
 }
 
 .page_views_wrapper {
@@ -75,7 +76,7 @@
   background-color: #dbe8d7;
   padding: 4px 10px;
   border-radius: 1000px;
-  color: #677762;
+  color: white;
   cursor: pointer;
 }
 

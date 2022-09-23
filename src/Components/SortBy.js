@@ -37,7 +37,7 @@ function SortBy({sortBy, onChangeSortBy}) {
 				variant="contained"
 				size="medium"
 				onClick={handleClick}
-				style={{backgroundColor: '#B53A26'}}
+				style={{backgroundColor: '#7882cb'}}
 			>
 				Sort
 			</Button>
