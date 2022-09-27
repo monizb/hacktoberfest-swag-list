@@ -1,40 +1,58 @@
 {
   "status": true,
   "list": {
-    "A": [{
-      "organization": "Aviyel",
-      "org_url": "https://aviyel.com",
-      "tags": ["Swag Box","Badge"],
-      "description": "Participants are requested to create technical content based on the theme of each week (listed on the website) and submit it within the deadline",
-      "no_of_prs": 2,
-      "link": "https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel"
-    }],
+    "A": [
+      {
+        "organization": "Aviyel",
+        "org_url": "https://aviyel.com",
+        "tags": [
+          "Swag Box",
+          "Badge"
+        ],
+        "description": "Participants are requested to create technical content based on the theme of each week (listed on the website) and submit it within the deadline",
+        "no_of_prs": 2,
+        "link": "https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel"
+      }
+    ],
     "B": [],
     "C": [],
     "D": [],
     "E": [],
     "F": [],
     "G": [],
-    "H": [{
-      "organization": "HackSquad",
-      "org_url": "https://www.hacksquad.dev/",
-      "tags": ["Tshirt","Hoodie","Mug","Bag"],
-      "description": "Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 300 teams will win awesome swag!",
-      "no_of_prs": 1,
-      "link": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
-    }],
+    "H": [
+      {
+        "organization": "HackSquad",
+        "org_url": "https://www.hacksquad.dev/",
+        "tags": [
+          "Tshirt",
+          "Hoodie",
+          "Mug",
+          "Bag"
+        ],
+        "description": "Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 300 teams will win awesome swag!",
+        "no_of_prs": 1,
+        "link": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
+      }
+    ],
     "I": [],
     "J": [],
     "K": [],
     "L": [],
-    "M": [{
-      "organization": "Medusa",
-      "org_url": "https://medusajs.com/",
-      "tags": ["Tshirt","Hoodie","Bottle"],
-      "description": "For this year's Hacktoberfest, we are thrilled to be launching our very first Medusa Hackathon with crazy prizes! Already, we open up for pre-sign-ups.All submissions will get: Hackathon Tee + Hackathon Hoodie.All pre-sign-ups + Submissions will get: Hackathon Hoodie + Hackathon tee + Water bottle",
-      "no_of_prs": 1,
-      "link": "https://medusajs.com/blog/medusa-hackathon-warming-up-for-hacktoberfest"
-    }],
+    "M": [
+      {
+        "organization": "Medusa",
+        "org_url": "https://medusajs.com/",
+        "tags": [
+          "Tshirt",
+          "Hoodie",
+          "Bottle"
+        ],
+        "description": "For this year's Hacktoberfest, we are thrilled to be launching our very first Medusa Hackathon with crazy prizes! Already, we open up for pre-sign-ups.All submissions will get: Hackathon Tee + Hackathon Hoodie.All pre-sign-ups + Submissions will get: Hackathon Hoodie + Hackathon tee + Water bottle",
+        "no_of_prs": 1,
+        "link": "https://medusajs.com/blog/medusa-hackathon-warming-up-for-hacktoberfest"
+      }
+    ],
     "N": [],
     "O": [],
     "P": [],
