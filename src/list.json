@@ -12,7 +12,16 @@
       }
     ],
     "B": [],
-    "C": [],
+    "C": [
+	    {
+		    "organization": "Camunda",
+		    "org_url": "https://camunda.com",
+		    "tags": ["Tshirt"],
+		    "description": "Submit four (4) quality pull requests (PRs) to any Camunda repo including participating* Camunda Community Hub repos",
+		    "no_of_prs": 4,
+		    "link": "https://camunda.com/hacktoberfest2022/"
+	    }
+    ],
     "D": [],
     "E": [],
     "F": [],
