@@ -14,7 +14,7 @@
         "organization": "Appwrite",
         "org_url": "https://appwrite.io",
         "tags": ["Sticker", "Socks", "Tshirt"],
-        "desciption": "There are different ways you can contribute to Appwrite. All accepted contributions qualify for receiving Appwrite Swag!",
+        "description": "There are different ways you can contribute to Appwrite. All accepted contributions qualify for receiving Appwrite Swag!",
         "no_of_prs": 4,
         "link": "https://hacktoberfest.appwrite.io/"
       }
