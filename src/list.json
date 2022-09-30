@@ -19,7 +19,23 @@
         "link": "https://hacktoberfest.appwrite.io/"
       }
     ],
-    "B": [],
+    "B": [
+      {
+        "organization": "Bagisto",
+        "org_url": "https://webkul.com",
+        "tags": [
+          "Sticker",
+          "Socks",
+          "Tshirt",
+          "Notebook",
+          "Pen",
+          "Bagisto Elephant"
+        ],
+        "description": "For every 4 PR that gets accepted, you can adopt Baggy The Elephant along with cool swags.",
+        "no_of_prs": 4,
+        "link": "https://webkul.com/meetups/hacktober-fest-bagisto-2022/"
+      }
+    ],
     "C": [
       {
         "organization": "Camunda",
@@ -30,7 +46,16 @@
         "link": "https://camunda.com/hacktoberfest2022/"
       }
     ],
-    "D": [],
+    "D": [
+      {
+        "organization": "devICT",
+        "org_url": "https://devict-hacktoberfest.herokuapp.com/",
+        "tags": ["Sticker"],
+        "description": "Create two PRs in any of the qualifying Wichita repos.",
+        "no_of_prs": 2,
+        "link": "https://devict-hacktoberfest.herokuapp.com/"
+      }
+    ],
     "E": [],
     "F": [],
     "G": [],
