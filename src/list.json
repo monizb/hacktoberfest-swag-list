@@ -69,7 +69,16 @@
         "link": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
       }
     ],
-    "I": [],
+    "I": [
+      {
+        "organization": "INVERTASE",
+        "org_url": "https://invertase.io/",
+        "tags": ["Zappy", "Tshirt", "Google Home", "Stickers", "Rubber Duck"],
+        "description": "submit 1-2 PRs to get T-shirt, stickers pack,\n 2 to 4 PRs to get Flutter mug, T-shirt, stickers pack.\n 5 to 10 PRs to get Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.\n  10 or more PRs to get a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.\n",
+        "no_of_prs": 1,
+        "link": "https://invertase.io/community/hacktoberfest"
+      }
+    ],
     "J": [
       {
         "organization": "Jenkins",
