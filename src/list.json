@@ -70,30 +70,20 @@
       }
     ],
     "I": [
-
-
-        {
-
-                "organization": "INVERTASE",
+  {
+               "organization": "INVERTASE",
 
                 "org_url": "https://invertase.io/",
 
                 "tags": [ "Tshirt", "Zappy", "Google Home", "Stickers", "Rubber Duck"],
           
+ "description": "Submit 10 or more pull requests and get them approved/merged with tag hacktoberfest-accepted to receive a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.",
 
-         
+                "Submit 5 to 10 pull requests and get them approved/merged with tag hacktoberfest-accepted to receive a Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.",
 
-       
+                "Submit 4 to 2 pull requests and get them approved/merged with tag hacktoberfest-accepted to receive a Flutter mug, T-shirt, stickers pack.",
 
-             
-
-                "description": "Submit 10 or more pull requests and get them approved/merged with tag hacktoberfest-accepted to receive a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.",
-
-"Submit 5 to 10 pull requests and get them approved/merged with tag hacktoberfest-accepted to receive a Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.",
-
-"Submit 4 to 2 pull requests and get them approved/merged with tag hacktoberfest-accepted to receive a Flutter mug, T-shirt, stickers pack.",
-
-"Submit 1 pull requests and get them approved/merged with tag hacktoberfest-accepted to receive a T-shirt, stickers pack.",
+                 "Submit 1 pull requests and get them approved/merged with tag hacktoberfest-accepted to receive a T-shirt, stickers pack.",
 
                 "no_of_prs": 1,
 
