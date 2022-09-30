@@ -57,7 +57,16 @@
       }
     ],
     "E": [],
-    "F": [],
+    "F": [
+      {
+        "organization": "Flyte",
+        "org_url": "https://flyte.org/",
+        "tags": ["Mug", "Tshirt", "Jacket", "Voucher"],
+        "description": "Create two, three or more PRs in any of the qualifying Flyte repos.",
+        "no_of_prs": 2,
+        "link": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"
+      }
+    ],
     "G": [],
     "H": [
       {
