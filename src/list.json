@@ -9,6 +9,14 @@
         "description": "Participants are requested to create technical content based on the theme of each week (listed on the website) and submit it within the deadline",
         "no_of_prs": 2,
         "link": "https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel"
+      },
+      {
+        "organization": "Appwrite",
+        "org_url": "https://appwrite.io",
+        "tags": ["Sticker", "Socks", "Tshirt"],
+        "description": "There are different ways you can contribute to Appwrite. All accepted contributions qualify for receiving Appwrite Swag!",
+        "no_of_prs": 4,
+        "link": "https://hacktoberfest.appwrite.io/"
       }
     ],
     "B": [],
@@ -39,12 +47,12 @@
     "I": [],
     "J": [
       {
-      "organization": "Jenkins",
-      "org_url": "https://www.jenkins.io/",
-      "tags": ["Limited Edition swag"],
-      "description": "Contribute to the mentioned Jenkins projects and get a limited edition swag delivered to you!",
-      "no_of_prs": 1,
-      "link": "https://www.jenkins.io/events/hacktoberfest/"
+        "organization": "Jenkins",
+        "org_url": "https://www.jenkins.io/",
+        "tags": ["Limited Edition swag"],
+        "description": "Contribute to the mentioned Jenkins projects and get a limited edition swag delivered to you!",
+        "no_of_prs": 1,
+        "link": "https://www.jenkins.io/events/hacktoberfest/"
       }
     ],
     "K": [],
@@ -57,6 +65,14 @@
         "description": "For this year's Hacktoberfest, we are thrilled to be launching our very first Medusa Hackathon with crazy prizes! Already, we open up for pre-sign-ups.All submissions will get: Hackathon Tee + Hackathon Hoodie.All pre-sign-ups + Submissions will get: Hackathon Hoodie + Hackathon tee + Water bottle",
         "no_of_prs": 1,
         "link": "https://medusajs.com/blog/medusa-hackathon-warming-up-for-hacktoberfest"
+      },
+      {
+        "organization": "MindsDB",
+        "org_url": "https://mindsdb.com",
+        "tags": ["Tshirt", "Gadgets", "Cash", "Laptop"],
+        "description": "We have prepared several categories of open issues that are ideal for first-time developers, low-code, and no-code contributors.",
+        "no_of_prs": 4,
+        "link": "https://mindsdb.com/hacktoberfest/"
       }
     ],
     "N": [],
@@ -64,7 +80,16 @@
     "P": [],
     "Q": [],
     "R": [],
-    "S": [],
+    "S": [
+      {
+        "organization": "Speckle",
+        "org_url": "https://speckle.systems/",
+        "tags": ["Swag"],
+        "description": "If you want to be eligible for some exclusive Speckle SWAG™ then you just need to have 4 pull requests accepted between October 1 and October 31 in any of the Speckle repositories ",
+        "no_of_prs": 4,
+        "link": "https://speckle.community/t/hacktoberfest-2022-with-speckle/3641"
+      }
+    ],
     "T": [],
     "U": [],
     "V": [],
