@@ -19,23 +19,7 @@
         "link": "https://hacktoberfest.appwrite.io/"
       }
     ],
-    "B": [
-      {
-        "organization": "Bagisto",
-        "org_url": "https://webkul.com",
-        "tags": [
-          "Sticker",
-          "Socks",
-          "Tshirt",
-          "Notebook",
-          "Pen",
-          "Bagisto Elephant"
-        ],
-        "description": "For every 4 PR that gets accepted, you can adopt Baggy The Elephant along with cool swags.",
-        "no_of_prs": 4,
-        "link": "https://webkul.com/meetups/hacktober-fest-bagisto-2022/"
-      }
-    ],
+    "B": [],
     "C": [
       {
         "organization": "Camunda",
@@ -46,20 +30,11 @@
         "link": "https://camunda.com/hacktoberfest2022/"
       }
     ],
-    "D": [
-      {
-        "organization": "devICT",
-        "org_url": "https://devict-hacktoberfest.herokuapp.com/",
-        "tags": ["Sticker"],
-        "description": "Create two PRs in any of the qualifying Wichita repos.",
-        "no_of_prs": 2,
-        "link": "https://devict-hacktoberfest.herokuapp.com/"
-      }
-    ],
+    "D": [],
     "E": [],
     "F": [],
     "G": [],
-    "H": [
+    "H": {
       {
         "organization": "HackSquad",
         "org_url": "https://www.hacksquad.dev/",
@@ -67,8 +42,22 @@
         "description": "Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 300 teams will win awesome swag!",
         "no_of_prs": 1,
         "link": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
-      }
-    ],
+      },
+
+        {
+                "organization": "HASURA",
+                "org_url": "https://hasura.io/",
+                "tags": [ "Tshirt", "Stickers" ],
+    
+              
+    
+                
+                "description": "Submit a PR for one or more of their issues mentioned in the site labelled hacktoberfest",
+                "no_of_prs": 1,
+                "link": "https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest" 
+    },
+   
+  
     "I": [],
     "J": [
       {
