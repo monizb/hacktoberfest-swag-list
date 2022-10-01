@@ -9,8 +9,14 @@ const TAG_EMOJI = {
   Voucher: "🎟",
   Jacket: "🧥",
   Backpack: "🎒",
+  Bag:"🎒",
   Swags: "🛍️",
   Swag: "🛍️",
+  Notebook:"📔",
+  Pen:"🖊️",
+  Laptop:"💻",
+  Cash:"💵",
+  Hat:"🎓"
 };
 
 const DEFAULT_TAG_EMOJI = "💜";
