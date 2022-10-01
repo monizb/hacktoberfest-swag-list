@@ -141,9 +141,16 @@
         "organization": "Percona",
         "org_url": "https://www.percona.com/",
         "tags": ["Tshirt","Hat"],
-        "description": "This year Percona participates in this fabulous event with its open source software. You can contribute to 12 repositories with Percona Monitoring and Management (PMM), Percona Kubernetes Operators, pg_stat_monitor, and other projects! In addition to official Hacktoberfest prizes, you can receive a piece of Percona swag: a T-shirt or a hat."
+        "description": "This year Percona participates in this fabulous event with its open source software. You can contribute to 12 repositories with Percona Monitoring and Management (PMM), Percona Kubernetes Operators, pg_stat_monitor, and other projects! In addition to official Hacktoberfest prizes, you can receive a piece of Percona swag: a T-shirt or a hat.",
         "no_of_prs": 4,
         "link": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/" 
+      },
+      {
+        "organization": "Process Analytics",
+        "org_url": "https://process-analytics.dev/",
+        "tags": ["Tshirt"],
+        "description": "We welcome your help to improve the project with your contributions and ideas.",
+        "link": "https://medium.com/@process-analytics/hacktoberfest-2022-with-process-analytics-add185b50721"
       }
     ],
     "Q": [],
