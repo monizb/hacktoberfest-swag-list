@@ -54,6 +54,14 @@
         "description": "Create two PRs in any of the qualifying Wichita repos.",
         "no_of_prs": 2,
         "link": "https://devict-hacktoberfest.herokuapp.com/"
+      },
+      {
+        "organization": "Docker",
+        "org_url": "https://www.docker.com/",
+        "tags": ["Tshirt","Hoodie"],
+        "description": "Either Build an extension or make changes to an Existing extension.With lots of events and community events.",
+        "no_of_prs": 1,
+        "link": "https://docker.github.io/hacktoberfest/"
       }
     ],
     "E": [],
