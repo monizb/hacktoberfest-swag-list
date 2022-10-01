@@ -141,9 +141,17 @@
         "organization": "Percona",
         "org_url": "https://www.percona.com/",
         "tags": ["Tshirt","Hat"],
-        "description": "This year Percona participates in this fabulous event with its open source software. You can contribute to 12 repositories with Percona Monitoring and Management (PMM), Percona Kubernetes Operators, pg_stat_monitor, and other projects! In addition to official Hacktoberfest prizes, you can receive a piece of Percona swag: a T-shirt or a hat."
+        "description": "This year Percona participates in this fabulous event with its open source software. You can contribute to 12 repositories with Percona Monitoring and Management (PMM), Percona Kubernetes Operators, pg_stat_monitor, and other projects! In addition to official Hacktoberfest prizes, you can receive a piece of Percona swag: a T-shirt or a hat.",
         "no_of_prs": 4,
         "link": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/" 
+      },
+      {
+        "organization": "Pusher",
+        "org_url": "https://pusher.com/",
+        "tags": ["Pusher Hacktoberfest Swag Pack"],
+        "description":"If you make one contribution you'll win one item from the Pusher Hacktoberfest swag pack.\n For two contributions you'll get two items from the Pusher Hacktoberfest swag pack.\n Three or more contributions? We'll give the full swag pack!\n  Special prize: If you use any of the new Pusher features in any of your contributions (cache channels, user_info and subscription count) you'll win the full swag pack!.\n",
+        "no_of_prs": 1,
+        "link": "https://github.com/pusher/hacktoberfest"
       }
     ],
     "Q": [],
