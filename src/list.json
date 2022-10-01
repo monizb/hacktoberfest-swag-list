@@ -3,6 +3,14 @@
   "list": {
     "A": [
       {
+        "organization": "Activeloop",
+        "org_url": "https://www.activeloop.ai/",
+        "tags": ["Headphones", "T-shirts", "Stickers"],
+        "description": "Regardless of what issue you will be resolving, any contribution will be rewarded with Activeloop swag!",
+        "no_of_prs": 4,
+        "link": "https://www.activeloop.ai/hacktoberfest/"
+      },
+      {
         "organization": "Aviyel",
         "org_url": "https://aviyel.com",
         "tags": ["Swag Box", "Badge"],
