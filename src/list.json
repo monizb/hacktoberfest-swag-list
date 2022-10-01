@@ -55,7 +55,7 @@
         "no_of_prs": 2,
         "link": "https://devict-hacktoberfest.herokuapp.com/"
       },
-	  {
+	    {
         "organization": "Docker",
         "org_url": "https://www.docker.com/",
         "tags": ["Tshirt","Hoodie"],
