@@ -120,7 +120,18 @@
     ],
     "N": [],
     "O": [],
-    "P": [],
+    "P": [
+      {
+               "organization": "Percona",
+               "org_url": "https://www.percona.com/",
+               "tags": [ 
+                    "Percona swag"
+               ],
+               "description": "Submit at least four pull/merge requests (PRs) to hacktoberfest labelled. ",
+               "no_of_prs": 4,
+               "link": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/" 
+        }
+    ],
     "Q": [],
     "R": [],
     "S": [
