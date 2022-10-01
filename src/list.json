@@ -125,6 +125,7 @@
         "organization": "Percona",
         "org_url": "https://www.percona.com/",
         "tags": ["Tshirt","Hat"],
+        "description": "This year Percona participates in this fabulous event with its open source software. You can contribute to 12 repositories with Percona Monitoring and Management (PMM), Percona Kubernetes Operators, pg_stat_monitor, and other projects! In addition to official Hacktoberfest prizes, you can receive a piece of Percona swag: a T-shirt or a hat."
         "no_of_prs": 4,
         "link": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/" 
       }
