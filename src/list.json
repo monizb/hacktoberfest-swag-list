@@ -84,6 +84,14 @@
         "description": "Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 300 teams will win awesome swag!",
         "no_of_prs": 1,
         "link": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
+      },
+      {
+        "organization": "Hasura",
+        "org_url": "https://hasura.io/",
+        "tags": ["Tshirt", "Stickers"],
+        "description": "Submit a PR for one of our issues with the label hacktoberfest: For all valid PRs attempting to close an issue labelled hacktoberfest, Hasura will send out some amazing Hasura - Hacktoberfest swag.",
+        "no_of_prs": 1,
+        "link": "https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row/"
       }
     ],
     "I": [
@@ -141,9 +149,17 @@
         "organization": "Percona",
         "org_url": "https://www.percona.com/",
         "tags": ["Tshirt","Hat"],
-        "description": "This year Percona participates in this fabulous event with its open source software. You can contribute to 12 repositories with Percona Monitoring and Management (PMM), Percona Kubernetes Operators, pg_stat_monitor, and other projects! In addition to official Hacktoberfest prizes, you can receive a piece of Percona swag: a T-shirt or a hat."
+        "description": "This year Percona participates in this fabulous event with its open source software. You can contribute to 12 repositories with Percona Monitoring and Management (PMM), Percona Kubernetes Operators, pg_stat_monitor, and other projects! In addition to official Hacktoberfest prizes, you can receive a piece of Percona swag: a T-shirt or a hat.",
         "no_of_prs": 4,
         "link": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/" 
+      },
+      {
+        "organization": "Process Analytics",
+        "org_url": "https://process-analytics.dev/",
+        "tags": ["Tshirt"],
+        "description": "This year, the Process Analytics team is participating in Hacktoberfest 2022, as we did for Hacktoberfest 2021 and Hacktoberfest 2020. Whether you are a beginner or an experienced front-end developer, you’ve never done front-end development but you come from a process-analytics or business process management community, or simply you are fan of processes, we have issues for you !",
+        "no_of_prs": 4,
+        "link": "https://medium.com/@process-analytics/hacktoberfest-2022-with-process-analytics-add185b50721"
       }
     ],
     "Q": [],
