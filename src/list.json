@@ -58,7 +58,7 @@
 	  {
         "organization": "Docker",
         "org_url": "https://www.docker.com/",
-        "tags": ["T-shirt","Hoodie"],
+        "tags": ["Tshirt","Hoodie"],
         "description": "Either Build an extension or PR an Existing extension.",
         "no_of_prs": 1,
         "link": "https://docker.github.io/hacktoberfest//"
