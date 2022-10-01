@@ -146,7 +146,7 @@
         "organization": "ToolJet",
         "org_url": "https://www.tooljet.com/",
         "tags": ["Stickers","Hoodie","Waterbottle","Tshirt"],
-        "description": "Submit 1 (PRs) and get it merged/approved to receive ToolJet stickers and t-shirt . 3 (PRs) to receive ToolJet stickers, t-shirt,water bottle.4 (PRs) to recieve ToolJet stickers, t-shirt,hoodie,water bottle.",
+        "description": "Submit 1 (PRs) and get it merged/approved to receive ToolJet stickers and t-shirt .3 (PRs) to receive ToolJet stickers, t-shirt,water bottle.4 (PRs) to recieve ToolJet stickers, t-shirt,hoodie,water bottle.",
         "no_of_prs": 1,
         "link": "https://blog.tooljet.com/hacktoberfest-2022/"
       }
