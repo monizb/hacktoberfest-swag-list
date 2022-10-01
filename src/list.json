@@ -140,6 +140,13 @@
         "description": "If you want to be eligible for some exclusive Speckle SWAG™ then you just need to have 4 pull requests accepted between October 1 and October 31 in any of the Speckle repositories ",
         "no_of_prs": 4,
         "link": "https://speckle.community/t/hacktoberfest-2022-with-speckle/3641"
+      },
+      {
+        "organization": "ServiceNow",
+        "org_url": "https://developer.servicenow.com",
+        "tags": ["Tshirt"],
+        "description": "Contribute to ServiceNow to receive a free tshirt",
+        "link": "https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2022/"
       }
     ],
     "T": [
