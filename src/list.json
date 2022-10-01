@@ -118,14 +118,12 @@
         "link": "https://mindsdb.com/hacktoberfest/"
       },
       {
-        {
           "organization": "MeiliSearch",
           "org_url": "https://www.meilisearch.com/",
           "tags": ["Exclusive Meilisearch swag"],
           "description": "Meilisearch is once again back for Hacktoberfest! We look back on previous editions while getting ready for this year’s, armed with brand new common goals and plenty of exclusive new swag for our contributors.",
           "no_of_prs": 1,
           "link": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
-        }
       }
     ],
     "N": [],
