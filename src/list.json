@@ -120,7 +120,15 @@
     ],
     "N": [],
     "O": [],
-    "P": [],
+    "P": [
+      {
+        "organization": "Percona",
+        "org_url": "https://www.percona.com/",
+        "tags": ["Tshirt","Hat"],
+        "no_of_prs": 4,
+        "link": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/" 
+      }
+    ],
     "Q": [],
     "R": [],
     "S": [
@@ -133,7 +141,16 @@
         "link": "https://speckle.community/t/hacktoberfest-2022-with-speckle/3641"
       }
     ],
-    "T": [],
+    "T": [
+      {
+        "organization": "ToolJet",
+        "org_url": "https://www.tooljet.com/",
+        "tags": ["Stickers","Hoodie","Waterbottle","Tshirt"],
+        "description": "Submit 1 (PRs) and get it merged/approved to receive ToolJet stickers and T-shirt .3 (PRs) to receive ToolJet stickers, t-shirt,water bottle. 4 (PRs) to recieve ToolJet stickers,t-shirt,hoodie,water bottle.",
+        "no_of_prs": 1,
+        "link": "https://blog.tooljet.com/hacktoberfest-2022/"
+      }
+    ],
     "U": [],
     "V": [],
     "W": [],
