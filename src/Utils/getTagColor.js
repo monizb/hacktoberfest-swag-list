@@ -1,6 +1,5 @@
 const LIGHT_ROSE = "#E94560";
 const BERLY_GREEN = "#F73D93";
-const CLAY_ASH = "#3D2C8D";
 const GAINSBORO = "#219897";
 const LIGHT_SALMON = "#301B3F";
 const MERCURY = "#150485";
@@ -17,7 +16,6 @@ const DARK_KHAKI = "#BDB76B"
 const TAG_COLORS = {
     Tshirt: LIGHT_ROSE,
     Stickers: BERLY_GREEN,
-    Bottle: CLAY_ASH,
     Socks: GAINSBORO,
     Hoodie: LIGHT_SALMON,
     Cap: PARCHMENT,
