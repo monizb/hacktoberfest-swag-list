@@ -175,7 +175,16 @@
         "link": "https://blog.tooljet.com/hacktoberfest-2022/"
       }
     ],
-    "U": [],
+    "U": [
+      {
+        "organization": "UnionML",
+        "org_url": "https://unionml.readthedocs.io/en/stable/",
+        "tags": ["Hoodie","Tshirt"],
+        "description": "Submit 2/3 pull requests to receive a voucher or Union tumbler and 3+ pull requests to receive a Union hoodie.",
+        "no_of_prs": 1,
+        "link": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"
+      }
+    ],
     "V": [],
     "W": [],
     "X": [],
