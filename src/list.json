@@ -44,6 +44,14 @@
         "description": "Submit four (4) quality pull requests (PRs) to any Camunda repo including participating* Camunda Community Hub repos",
         "no_of_prs": 4,
         "link": "https://camunda.com/hacktoberfest2022/"
+      },
+      {
+        "organization": "Codedamn",
+        "org_url": "https://codedamn.com/",
+        "tags": ["Tshirt", "Sticker"],
+        "description": "In order to participate and win prizes, you have to submit a guided project.",
+        "no_of_prs": 1,
+        "link": "https://github.com/codedamn/projects#readme"
       }
     ],
     "D": [
