@@ -270,7 +270,16 @@
         "link": "https://www.linkedin.com/posts/vedvyas_github-gitagita-bhagavad-gita-in-json-activity-6982314384161140736-o370?utm_source=share&utm_medium=member_desktop"
       }
     ],
-    "U": [],
+    "U": [
+      {
+        "organization": "UnionML",
+        "org_url": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022",
+        "tags": ["Tumbler","Hoodie", "Voucher"],
+        "description": "Submit 2/3  PRs and get it merged/approved to receive Tumbler Voucher. 3+ (PRs) to receive a UnionML hoodie.",
+        "no_of_prs": 3,
+        "link": "https://github.com/unionai-oss/unionml/issues/171"
+      }
+    ],
     "V": [],
     "W": [],
     "X": [],
