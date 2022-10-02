@@ -5,10 +5,7 @@
       {
         "organization": "Aviyel",
         "org_url": "https://aviyel.com",
-        "tags": [
-          "Swag Box",
-          "Badge"
-        ],
+        "tags": ["Swags", "Badge"],
         "description": "Participants are requested to create technical content based on the theme of each week (listed on the website) and submit it within the deadline",
         "no_of_prs": 2,
         "link": "https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel"
@@ -16,11 +13,7 @@
       {
         "organization": "Appwrite",
         "org_url": "https://appwrite.io",
-        "tags": [
-          "Sticker",
-          "Socks",
-          "Tshirt"
-        ],
+        "tags": ["Stickers", "Socks", "Tshirt"],
         "description": "There are different ways you can contribute to Appwrite. All accepted contributions qualify for receiving Appwrite Swag!",
         "no_of_prs": 4,
         "link": "https://hacktoberfest.appwrite.io/"
@@ -31,7 +24,7 @@
         "organization": "Bagisto",
         "org_url": "https://webkul.com",
         "tags": [
-          "Sticker",
+          "Stickers",
           "Socks",
           "Tshirt",
           "Notebook",
@@ -78,9 +71,7 @@
       {
         "organization": "devICT",
         "org_url": "https://devict-hacktoberfest.herokuapp.com/",
-        "tags": [
-          "Sticker"
-        ],
+        "tags": ["Stickers"],
         "description": "Create two PRs in any of the qualifying Wichita repos.",
         "no_of_prs": 2,
         "link": "https://devict-hacktoberfest.herokuapp.com/"
@@ -248,12 +239,7 @@
       {
         "organization": "ToolJet",
         "org_url": "https://www.tooljet.com/",
-        "tags": [
-          "Stickers",
-          "Hoodie",
-          "Waterbottle",
-          "Tshirt"
-        ],
+        "tags": ["Stickers", "Hoodie", "Bottle", "Tshirt"],
         "description": "Submit 1 (PRs) and get it merged/approved to receive ToolJet stickers and T-shirt .3 (PRs) to receive ToolJet stickers, t-shirt,water bottle. 4 (PRs) to recieve ToolJet stickers,t-shirt,hoodie,water bottle.",
         "no_of_prs": 1,
         "link": "https://blog.tooljet.com/hacktoberfest-2022/"
