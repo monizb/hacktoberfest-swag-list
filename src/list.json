@@ -157,7 +157,7 @@
         "organization": "Pusher",
         "org_url": "https://pusher.com/",
         "tags": ["Pusher Hacktoberfest swag pack"],
-        "description": "If you make one contribution you’ll win one item from the Pusher Hacktoberfest swag pack .For two contributions you’ll get two items from the Pusher Hacktoberfest swag pack.Three or more contributions? We’ll give the full swag pack!"
+        "description": "If you make one contribution you’ll win one item from the Pusher Hacktoberfest swag pack .For two contributions you’ll get two items from the Pusher Hacktoberfest swag pack.Three or more contributions? We’ll give the full swag pack!",
         "no_of_prs": 3,
         "link": "https://github.com/pusher/hacktoberfest/blob/main/README.md"
       }
