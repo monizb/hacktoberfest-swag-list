@@ -227,9 +227,9 @@
         "organization": "QuestDB",
         "org_url": "https://questdb.io/",
         "tags": [
-          "QuestDB T-shirt"
+          "Tshirt"
         ],
-        "description": "If you successfully contribute one valid pull-request to any of the QuestDB projects listed above, we offer an extra QuestDB T-shirt for you through their swag program. 🚀.",
+        "description": "In addition to the official reward, if you successfully contribute one valid pull-request to any of the QuestDB projects listed above, we offer an extra QuestDB T-shirt for you through their swag program. 🚀.",
         "no_of_prs": 1,
         "link": "https://questdb.io/blog/2022/09/30/hacktoberfest-questdb/"
       }
