@@ -44,6 +44,14 @@
         "description": "Submit four (4) quality pull requests (PRs) to any Camunda repo including participating* Camunda Community Hub repos",
         "no_of_prs": 4,
         "link": "https://camunda.com/hacktoberfest2022/"
+      },
+      {
+        "organization": "Codedamn",
+        "org_url": "https://codedamn.com/",
+        "tags": ["Tshirt", "Sticker"],
+        "description": "In order to participate and win prizes, you have to submit a guided project.",
+        "no_of_prs": 1,
+        "link": "https://github.com/codedamn/projects#readme"
       }
     ],
     "D": [
@@ -58,7 +66,7 @@
       {
         "organization": "Docker",
         "org_url": "https://www.docker.com/",
-        "tags": ["Tshirt","Hoodie"],
+        "tags": ["Tshirt", "Hoodie"],
         "description": "Either Build an extension or make changes to an Existing extension.With lots of events and community events.",
         "no_of_prs": 1,
         "link": "https://docker.github.io/hacktoberfest/"
@@ -140,10 +148,10 @@
       {
         "organization": "Percona",
         "org_url": "https://www.percona.com/",
-        "tags": ["Tshirt","Hat"],
-        "description": "This year Percona participates in this fabulous event with its open source software. You can contribute to 12 repositories with Percona Monitoring and Management (PMM), Percona Kubernetes Operators, pg_stat_monitor, and other projects! In addition to official Hacktoberfest prizes, you can receive a piece of Percona swag: a T-shirt or a hat."
+        "tags": ["Tshirt", "Hat"],
+        "description": "This year Percona participates in this fabulous event with its open source software. You can contribute to 12 repositories with Percona Monitoring and Management (PMM), Percona Kubernetes Operators, pg_stat_monitor, and other projects! In addition to official Hacktoberfest prizes, you can receive a piece of Percona swag: a T-shirt or a hat.",
         "no_of_prs": 4,
-        "link": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/" 
+        "link": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/"
       }
     ],
     "Q": [],
@@ -169,7 +177,7 @@
       {
         "organization": "ToolJet",
         "org_url": "https://www.tooljet.com/",
-        "tags": ["Stickers","Hoodie","Waterbottle","Tshirt"],
+        "tags": ["Stickers", "Hoodie", "Waterbottle", "Tshirt"],
         "description": "Submit 1 (PRs) and get it merged/approved to receive ToolJet stickers and T-shirt .3 (PRs) to receive ToolJet stickers, t-shirt,water bottle. 4 (PRs) to recieve ToolJet stickers,t-shirt,hoodie,water bottle.",
         "no_of_prs": 1,
         "link": "https://blog.tooljet.com/hacktoberfest-2022/"
