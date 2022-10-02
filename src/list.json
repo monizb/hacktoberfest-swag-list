@@ -189,6 +189,14 @@
         "description": "Submit 1 (PRs) and get it merged/approved to receive ToolJet stickers and T-shirt .3 (PRs) to receive ToolJet stickers, t-shirt,water bottle. 4 (PRs) to recieve ToolJet stickers,t-shirt,hoodie,water bottle.",
         "no_of_prs": 1,
         "link": "https://blog.tooljet.com/hacktoberfest-2022/"
+      },
+      {
+        "organization": "The Gita Initiative",
+        "org_url": "https://bhagavadgita.io/",
+        "tags": ["Books","Stickers"],
+        "description": "Create 4 or more PRs in any of the projects in organization.",
+        "no_of_prs": 4,
+        "link": "https://www.linkedin.com/posts/vedvyas_github-gitagita-bhagavad-gita-in-json-activity-6982314384161140736-o370?utm_source=share&utm_medium=member_desktop"
       }
     ],
     "U": [],
