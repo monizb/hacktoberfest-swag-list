@@ -243,6 +243,15 @@
         ],
         "description": "Contribute to ServiceNow to receive a free tshirt",
         "link": "https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2022/"
+      },
+      {
+        "organization": "ShastraOS",
+        "org_url": "https://shastraos.co/",
+        "tags": [
+          "Swags"
+        ],
+        "description": "At this time, no specific information is known regarding the receipt of Swags/Perks. Registration is required",
+        "link": "https://shastraos.co/opensource"
       }
     ],
     "T": [
