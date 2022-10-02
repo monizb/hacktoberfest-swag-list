@@ -20,7 +20,7 @@
       }
     ],
     "B": [
-      {
+      { 
         "organization": "Bagisto",
         "org_url": "https://webkul.com",
         "tags": [
@@ -183,11 +183,20 @@
         "link": "https://blog.tooljet.com/hacktoberfest-2022/"
       }
     ],
-    "U": [],
+    "U": [
+      {
+        "organization" : "UnionML",
+        "org_url": "https://github.com/unionai-oss/unionml/issues/171",
+        "tags": ["Tshirt"],
+        "description": "Submit 2/3 pull requests to receive a voucher or Union tumbler and 3+ pull requests to receive a Union hoodie. Check out https://github.com/unionai-oss/unionml/issues/171 for the available hacktoberfest-labeled issues and fill out this form after the PR gets accepted/merged.",
+        "no_of_prs" : 2,
+        "link": "https://github.com/unionai-oss/unionml/issues/171"
+    }
+    ],
     "V": [],
     "W": [],
     "X": [],
     "Y": [],
     "Z": []
-  }
+  }https://github.com/unionai-oss/unionml/issues/171
 }
