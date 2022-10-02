@@ -1,8 +1,7 @@
 {
   "status": true,
   "list": {
-    "A": [
-      {
+    "A": [{
         "organization": "Aviyel",
         "org_url": "https://aviyel.com",
         "tags": ["Swag Box", "Badge"],
@@ -19,25 +18,22 @@
         "link": "https://hacktoberfest.appwrite.io/"
       }
     ],
-    "B": [
-      {
-        "organization": "Bagisto",
-        "org_url": "https://webkul.com",
-        "tags": [
-          "Sticker",
-          "Socks",
-          "Tshirt",
-          "Notebook",
-          "Pen",
-          "Bagisto Elephant"
-        ],
-        "description": "For every 4 PR that gets accepted, you can adopt Baggy The Elephant along with cool swags.",
-        "no_of_prs": 4,
-        "link": "https://webkul.com/meetups/hacktober-fest-bagisto-2022/"
-      }
-    ],
-    "C": [
-      {
+    "B": [{
+      "organization": "Bagisto",
+      "org_url": "https://webkul.com",
+      "tags": [
+        "Sticker",
+        "Socks",
+        "Tshirt",
+        "Notebook",
+        "Pen",
+        "Bagisto Elephant"
+      ],
+      "description": "For every 4 PR that gets accepted, you can adopt Baggy The Elephant along with cool swags.",
+      "no_of_prs": 4,
+      "link": "https://webkul.com/meetups/hacktober-fest-bagisto-2022/"
+    }],
+    "C": [{
         "organization": "Camunda",
         "org_url": "https://camunda.com",
         "tags": ["Tshirt"],
@@ -54,8 +50,7 @@
         "link": "https://github.com/codedamn/projects#readme"
       }
     ],
-    "D": [
-      {
+    "D": [{
         "organization": "devICT",
         "org_url": "https://devict-hacktoberfest.herokuapp.com/",
         "tags": ["Sticker"],
@@ -73,51 +68,42 @@
       }
     ],
     "E": [],
-    "F": [
-      {
-        "organization": "Flyte",
-        "org_url": "https://flyte.org/",
-        "tags": ["Mug", "Tshirt", "Jacket", "Voucher"],
-        "description": "Create two, three or more PRs in any of the qualifying Flyte repos.",
-        "no_of_prs": 2,
-        "link": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"
-      }
-    ],
+    "F": [{
+      "organization": "Flyte",
+      "org_url": "https://flyte.org/",
+      "tags": ["Mug", "Tshirt", "Jacket", "Voucher"],
+      "description": "Create two, three or more PRs in any of the qualifying Flyte repos.",
+      "no_of_prs": 2,
+      "link": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"
+    }],
     "G": [],
-    "H": [
-      {
-        "organization": "HackSquad",
-        "org_url": "https://www.hacksquad.dev/",
-        "tags": ["Tshirt", "Hoodie", "Mug", "Bag"],
-        "description": "Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 300 teams will win awesome swag!",
-        "no_of_prs": 1,
-        "link": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
-      }
-    ],
-    "I": [
-      {
-        "organization": "INVERTASE",
-        "org_url": "https://invertase.io/",
-        "tags": ["Zappy", "Tshirt", "Google Home", "Stickers", "Rubber Duck"],
-        "description": "submit 1-2 PRs to get T-shirt, stickers pack,\n 2 to 4 PRs to get Flutter mug, T-shirt, stickers pack.\n 5 to 10 PRs to get Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.\n  10 or more PRs to get a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.\n",
-        "no_of_prs": 1,
-        "link": "https://invertase.io/community/hacktoberfest"
-      }
-    ],
-    "J": [
-      {
-        "organization": "Jenkins",
-        "org_url": "https://www.jenkins.io/",
-        "tags": ["Limited Edition swag"],
-        "description": "Contribute to the mentioned Jenkins projects and get a limited edition swag delivered to you!",
-        "no_of_prs": 1,
-        "link": "https://www.jenkins.io/events/hacktoberfest/"
-      }
-    ],
+    "H": [{
+      "organization": "HackSquad",
+      "org_url": "https://www.hacksquad.dev/",
+      "tags": ["Tshirt", "Hoodie", "Mug", "Bag"],
+      "description": "Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 300 teams will win awesome swag!",
+      "no_of_prs": 1,
+      "link": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
+    }],
+    "I": [{
+      "organization": "INVERTASE",
+      "org_url": "https://invertase.io/",
+      "tags": ["Zappy", "Tshirt", "Google Home", "Stickers", "Rubber Duck"],
+      "description": "submit 1-2 PRs to get T-shirt, stickers pack,\n 2 to 4 PRs to get Flutter mug, T-shirt, stickers pack.\n 5 to 10 PRs to get Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.\n  10 or more PRs to get a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.\n",
+      "no_of_prs": 1,
+      "link": "https://invertase.io/community/hacktoberfest"
+    }],
+    "J": [{
+      "organization": "Jenkins",
+      "org_url": "https://www.jenkins.io/",
+      "tags": ["Limited Edition swag"],
+      "description": "Contribute to the mentioned Jenkins projects and get a limited edition swag delivered to you!",
+      "no_of_prs": 1,
+      "link": "https://www.jenkins.io/events/hacktoberfest/"
+    }],
     "K": [],
     "L": [],
-    "M": [
-      {
+    "M": [{
         "organization": "Medusa",
         "org_url": "https://medusajs.com/",
         "tags": ["Tshirt", "Hoodie", "Bottle"],
@@ -144,8 +130,7 @@
     ],
     "N": [],
     "O": [],
-    "P": [
-      {
+    "P": [{
         "organization": "Percona",
         "org_url": "https://www.percona.com/",
         "tags": ["Tshirt", "Hat"],
@@ -164,8 +149,7 @@
     ],
     "Q": [],
     "R": [],
-    "S": [
-      {
+    "S": [{
         "organization": "Speckle",
         "org_url": "https://speckle.systems/",
         "tags": ["Swag"],
@@ -181,8 +165,7 @@
         "link": "https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2022/"
       }
     ],
-    "T": [
-      {
+    "T": [{
         "organization": "ToolJet",
         "org_url": "https://www.tooljet.com/",
         "tags": ["Stickers", "Hoodie", "Waterbottle", "Tshirt"],
@@ -193,8 +176,8 @@
       {
         "organization": "The Gita Initiative",
         "org_url": "https://bhagavadgita.io/",
-        "tags": ["Books","Stickers"],
-        "description": "Create 4 or more PRs in any of the projects in organization.",
+        "tags": ["Books", "Stickers"],
+        "description": "Create 4 or more PRs in any of the projects in organization to get Hard Copies of Shrimd Bhagavad Gita and stickers.",
         "no_of_prs": 4,
         "link": "https://www.linkedin.com/posts/vedvyas_github-gitagita-bhagavad-gita-in-json-activity-6982314384161140736-o370?utm_source=share&utm_medium=member_desktop"
       }
