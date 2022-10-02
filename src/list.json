@@ -115,7 +115,17 @@
       }
     ],
     "K": [],
-    "L": [],
+    "L": [
+        {
+                "organization": "LambdaTest",
+                "org_url": "https://www.lambdatest.com",
+                "tags": ["Sticker", "Bottle", "Tshirt"] ,
+                "description": " Documentation, coding, supporting others, running a project, or squashing bugs",
+                "no_of_prs": 1,
+                "link": "https://www.lambdatest.com/blog/celebrate-hacktoberfest-2022-with-lambdatest/"
+        }
+
+    ],
     "M": [
       {
         "organization": "Medusa",
