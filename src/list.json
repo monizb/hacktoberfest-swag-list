@@ -55,6 +55,14 @@
         "link": "https://camunda.com/hacktoberfest2022/"
       },
       {
+        "organization": "ClueLess Community",
+        "org_url": "https://github.com/Clueless-Community",
+        "tags": ["Tshirt"],
+        "description": "Hacktoberfest is here, and we are also here with ClueLess Community and it's amazing repos where you can contribute . 🚀 And you know what's more amazing. All the top contributors of ClueLess will get t-shirts and amazing swags by ClueLess apart from hacktoberfest swags. 🤩 All participants will get their participation certificate.",
+        "no_of_prs": 4,
+        "link": "https://github.com/Clueless-Community"
+       },
+       {
         "organization": "Codedamn",
         "org_url": "https://codedamn.com/",
         "tags": [
