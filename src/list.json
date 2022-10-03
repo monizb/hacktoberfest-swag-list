@@ -202,7 +202,7 @@
         "organization": "Novu",
         "org_url" : "https://novu.co/",
         "tags" :  [
-          "Tshirts"
+          "Tshirts" => Tshirt
         ],
         "description" : "Create 3 merged pull requests to the Novu repository at https://github.com/novuhq/novu",
         "no_of_prs" : 3,
