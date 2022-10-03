@@ -243,6 +243,13 @@
         ],
         "description": "Contribute to ServiceNow to receive a free tshirt",
         "link": "https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2022/"
+      },
+      {
+        "organization": "StepZen",
+        "org_url": "https://stepzen.com",
+        "tags": ["Tshirt"],
+        "description": "Contribute to StepZen to receive awesome swag",
+        "link": "https://stepzen.com/blog/stepzen-hacktoberfest-2022"
       }
     ],
     "T": [
