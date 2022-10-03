@@ -5,7 +5,10 @@
       {
         "organization": "Aviyel",
         "org_url": "https://aviyel.com",
-        "tags": ["Swags", "Badge"],
+        "tags": [
+          "Swags",
+          "Badge"
+        ],
         "description": "Participants are requested to create technical content based on the theme of each week (listed on the website) and submit it within the deadline",
         "no_of_prs": 2,
         "link": "https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel"
@@ -13,7 +16,11 @@
       {
         "organization": "Appwrite",
         "org_url": "https://appwrite.io",
-        "tags": ["Stickers", "Socks", "Tshirt"],
+        "tags": [
+          "Stickers",
+          "Socks",
+          "Tshirt"
+        ],
         "description": "There are different ways you can contribute to Appwrite. All accepted contributions qualify for receiving Appwrite Swag!",
         "no_of_prs": 4,
         "link": "https://hacktoberfest.appwrite.io/"
@@ -50,12 +57,14 @@
       {
         "organization": "ClueLess Community",
         "org_url": "https://github.com/Clueless-Community",
-        "tags": ["Tshirt"],
+        "tags": [
+          "Tshirt"
+        ],
         "description": "Hacktoberfest is here, and we are also here with ClueLess Community and it's amazing repos where you can contribute . 🚀 And you know what's more amazing. All the top contributors of ClueLess will get t-shirts and amazing swags by ClueLess apart from hacktoberfest swags. 🤩 All participants will get their participation certificate.",
         "no_of_prs": 4,
         "link": "https://github.com/Clueless-Community"
-       },
-       {
+      },
+      {
         "organization": "Codedamn",
         "org_url": "https://codedamn.com/",
         "tags": [
@@ -71,7 +80,9 @@
       {
         "organization": "devICT",
         "org_url": "https://devict-hacktoberfest.herokuapp.com/",
-        "tags": ["Stickers"],
+        "tags": [
+          "Stickers"
+        ],
         "description": "Create two PRs in any of the qualifying Wichita repos.",
         "no_of_prs": 2,
         "link": "https://devict-hacktoberfest.herokuapp.com/"
@@ -122,7 +133,10 @@
       {
         "organization": "Hasura",
         "org_url": "https://hasura.io/",
-        "tags": ["Tshirt", "Sticker"],
+        "tags": [
+          "Tshirt",
+          "Sticker"
+        ],
         "description": "With Hasura, celebrate open-source in style with Hacktoberfest!",
         "no_of_prs": 1,
         "link": "https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/"
@@ -158,15 +172,18 @@
     ],
     "K": [],
     "L": [
-        {
-                "organization": "LambdaTest",
-                "org_url": "https://www.lambdatest.com",
-                "tags": ["Sticker", "Bottle", "Tshirt"] ,
-                "description": " Documentation, coding, supporting others, running a project, or squashing bugs",
-                "no_of_prs": 1,
-                "link": "https://www.lambdatest.com/blog/celebrate-hacktoberfest-2022-with-lambdatest/"
-        }
-
+      {
+        "organization": "LambdaTest",
+        "org_url": "https://www.lambdatest.com",
+        "tags": [
+          "Sticker",
+          "Bottle",
+          "Tshirt"
+        ],
+        "description": " Documentation, coding, supporting others, running a project, or squashing bugs",
+        "no_of_prs": 1,
+        "link": "https://www.lambdatest.com/blog/celebrate-hacktoberfest-2022-with-lambdatest/"
+      }
     ],
     "M": [
       {
@@ -255,7 +272,10 @@
       {
         "organization": "StepZen",
         "org_url": "https://stepzen.com/",
-        "tags": ["Tshirt", "Sticker"],
+        "tags": [
+          "Tshirt",
+          "Sticker"
+        ],
         "description": "Join us for Hacktoberfest 2022 by contributing to StepZen",
         "no_of_prs": 4,
         "link": "https://stepzen.com/blog/stepzen-hacktoberfest-2022/"
@@ -265,7 +285,12 @@
       {
         "organization": "ToolJet",
         "org_url": "https://www.tooljet.com/",
-        "tags": ["Stickers", "Hoodie", "Bottle", "Tshirt"],
+        "tags": [
+          "Stickers",
+          "Hoodie",
+          "Bottle",
+          "Tshirt"
+        ],
         "description": "Submit 1 (PRs) and get it merged/approved to receive ToolJet stickers and T-shirt .3 (PRs) to receive ToolJet stickers, t-shirt,water bottle. 4 (PRs) to recieve ToolJet stickers,t-shirt,hoodie,water bottle.",
         "no_of_prs": 1,
         "link": "https://blog.tooljet.com/hacktoberfest-2022/"
@@ -286,7 +311,11 @@
       {
         "organization": "UnionML",
         "org_url": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022",
-        "tags": ["Tumbler","Hoodie", "Voucher"],
+        "tags": [
+          "Tumbler",
+          "Hoodie",
+          "Voucher"
+        ],
         "description": "Submit 2/3  PRs and get it merged/approved to receive Tumbler Voucher. 3+ (PRs) to receive a UnionML hoodie.",
         "no_of_prs": 3,
         "link": "https://github.com/unionai-oss/unionml/issues/171"
