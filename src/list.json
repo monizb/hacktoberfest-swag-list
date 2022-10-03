@@ -197,7 +197,18 @@
         "link": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
       }
     ],
-    "N": [],
+    "N": [
+      {
+        "organization": "Novu",
+        "org_url" : "https://novu.co/",
+        "tags" :  [
+          "Tshirts"
+        ],
+        "description" : "Create 3 merged pull requests to the Novu repository at https://github.com/novuhq/novu",
+        "no_of_prs" : 3,
+        "link" : "https://github.com/novuhq/novu"
+      }
+    ],
     "O": [],
     "P": [
       {
