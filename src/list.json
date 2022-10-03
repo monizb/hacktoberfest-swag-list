@@ -203,6 +203,17 @@
         "description": "Meilisearch is once again back for Hacktoberfest! We look back on previous editions while getting ready for this year’s, armed with brand new common goals and plenty of exclusive new swag for our contributors.",
         "no_of_prs": 1,
         "link": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
+      },
+      {
+        "organization": "Metafy",
+        "org_url": "https://github.com/metafy-social/.github/blob/main/profile/README.md",
+        "tags": [
+          "NFT",
+          "T-shirt"
+        ],
+        "description": "Submit one or more pull requests to Metafy's repositories with the hacktoberfest label to qualify as a contributor. Top contributors will get their very own NFT and T-shirts from Metafy. ",
+        "no_of_prs": 1,
+        "link": "https://github.com/metafy-social/.github/blob/main/profile/README.md"
       }
     ],
     "N": [],
