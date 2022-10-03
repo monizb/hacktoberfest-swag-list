@@ -243,6 +243,17 @@
         ],
         "description": "Contribute to ServiceNow to receive a free tshirt",
         "link": "https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2022/"
+      },
+      {
+        "organization": "Space Jelly",
+        "org_url": "https://spacejelly.dev/",
+        "tags": [ 
+            "Stickers",
+            "Swags"
+        ],
+        "description": "Submit (PRs) in SpaceJelly repo's.Check rules that mentioned on SpaceJelly hacktoberfest website,before contributing .",
+        "no_of_prs": 1, 
+        "link": "https://spacejelly.dev/hacktoberfest/"
       }
     ],
     "T": [
