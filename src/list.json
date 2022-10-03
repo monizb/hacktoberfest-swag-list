@@ -172,7 +172,14 @@
         "link": "https://github.com/pusher/hacktoberfest/blob/main/README.md"
       }
     ],
-    "Q": [],
+    "Q": [{
+                "organization": "QuestDB",
+                "org_url": "https://questdb.io/",
+                "tags": ["Tshirt","Bottle"] ,
+                "description": "Opened a valid github issue/pull request or have written a tutorial on using QuestDB",
+                "no_of_prs": 1,
+                "link": "https://questdb.io/community/"
+        }],
     "R": [],
     "S": [
       {
