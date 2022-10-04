@@ -265,6 +265,14 @@
         "description": "Submit 2/3  PRs and get it merged/approved to receive Tumbler Voucher. 3+ (PRs) to receive a UnionML hoodie.",
         "no_of_prs": 3,
         "link": "https://github.com/unionai-oss/unionml/issues/171"
+      },
+      {
+        "organization": "Uno Platform",
+        "org_url": "https://platform.uno/",
+        "tags": ["Hoodie", "Tshirt"],
+        "description": "Submit 10 quality PRs to win a Hoodie or submit 4 quality PRs to win a T-shirt.",
+        "no_of_prs": 4,
+        "link": "https://platform.uno/blog/uno-platform-at-hacktoberfest-2022-prizes-and-how-to-participate/"
       }
     ],
     "V": [],
