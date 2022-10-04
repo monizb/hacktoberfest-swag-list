@@ -100,6 +100,14 @@
         "description": "Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 300 teams will win awesome swag!",
         "no_of_prs": 1,
         "link": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
+      },
+      {
+        "organization": "Hasura",
+        "org_url": "https://hasura.io/",
+        "tags": ["Tshirt", "Sticker"],
+        "description": "With Hasura, celebrate open-source in style with Hacktoberfest!",
+        "no_of_prs": 1,
+        "link": "https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/"
       }
     ],
     "I": [
@@ -199,10 +207,11 @@
       },
       {
         "organization": "StepZen",
-        "org_url": "https://stepzen.com",
-        "tags": ["Tshirt"],
-        "description": "Contribute to StepZen to receive awesome swag",
-        "link": "https://stepzen.com/blog/stepzen-hacktoberfest-2022"
+        "org_url": "https://stepzen.com/",
+        "tags": ["Tshirt", "Sticker"],
+        "description": "Join us for Hacktoberfest 2022 by contributing to StepZen",
+        "no_of_prs": 4,
+        "link": "https://stepzen.com/blog/stepzen-hacktoberfest-2022/"
       }
     ],
     "T": [
