@@ -168,7 +168,16 @@
       }
     ],
     "N": [],
-    "O": [],
+    "O": [
+      {
+        "organization": "OpenSearch",
+        "org_url": "https://opensearch.org/",
+        "tags": ["Bottle", "Stickers"],
+        "description": "Contribute to OpenSearch an receive swags",
+        "no_of_prs": 4,
+        "link": "https://opensearch.org/blog/community/2022/10/hacktoberfest-2022/"
+      }
+    ],
     "P": [
       {
         "organization": "Percona",
