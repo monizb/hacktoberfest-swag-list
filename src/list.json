@@ -3,6 +3,14 @@
   "list": {
     "A": [
       {
+        "organization": "Amplication",
+        "org_url": "https://amplication.com/",
+        "tags": ["Tshirt", "Mug", "Sticker"],
+        "description": "Contributors making one to two valid pull requests will get an exclusive sticker sheet. Contributors making three or more valid pull requests will get an choice between exclusive coffee mug or a T-Shirt.",
+        "no_of_prs": 2,
+        "link": "https://github.com/amplication/amplication/issues/4039"
+      },
+      {
         "organization": "Aviyel",
         "org_url": "https://aviyel.com",
         "tags": ["Swags", "Badge"],
