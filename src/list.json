@@ -166,8 +166,31 @@
         "no_of_prs": 1,
         "link": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
       }
+      {
+        "organization": "Metafy",
+        "org_url": "https://metafy.social/",
+        "tags": [
+          "NFT",
+          "Tshirt"
+        ],
+        "description": "At Metafy we are building blockchain based solutions for real-world problems and making the blockchain more easily accessible to the public.",
+        "no_of_prs": 1,
+        "link": "https://github.com/metafy-social/.github/blob/main/profile/README.md"
+      }
     ],
-    "N": [],
+    "N": [
+      {
+        "organization": "Novu",
+        "org_url": "https://novu.co/",
+        "tags": [
+          "Tshirt",
+          "Stickers"
+        ],
+        "description": "Submit 3 pull requests to the Novu repository and get them merged to receive the Special Novu swag pack.",
+        "no_of_prs": 3,
+        "link": "https://twitter.com/novuhq/status/1576536573436637186"
+      }
+    ],
     "O": [],
     "P": [
       {
