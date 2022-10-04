@@ -185,13 +185,10 @@
       {
         "organization": "Metafy",
         "org_url": "https://github.com/metafy-social/.github/blob/main/profile/README.md",
-        "tags": [
-          "NFT",
-          "Tshirt"
-        ],
-        "description": "Submit one or more pull requests to Metafy's repositories with the hacktoberfest label to qualify as a contributor. Top contributors will get their very own NFT and T-shirts from Metafy. ",
+        "tags": ["NFT", "Tshirt"],
+        "description": "Submit one or more pull requests to Metafy's repositories with the hacktoberfest label to qualify as a contributor.",
         "no_of_prs": 1,
-        "link": "https://github.com/metafy-social/.github/blob/main/profile/README.md"
+        "link": "https://github.com/metafy-social/.github/blob/main/profile/README.md" 
       }
     ],
     "N": [],
@@ -209,19 +206,7 @@
       {
         "organization": "Percona",
         "org_url": "https://www.percona.com/",
-<<<<<<< HEAD
-<<<<<<< HEAD
         "tags": ["Tshirt", "Hat"],
-        "no_of_prs": 4,
-        "link": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/"
-=======
-        "tags": [
-          "Tshirt",
-          "Hat"
-        ],
-=======
-        "tags": ["Tshirt", "Hat"],
->>>>>>> 4a05a3a345f30e67313f64916057cbdbb190e1b8
         "description": "This year Percona participates in this fabulous event with its open source software. You can contribute to 12 repositories with Percona Monitoring and Management (PMM), Percona Kubernetes Operators, pg_stat_monitor, and other projects! In addition to official Hacktoberfest prizes, you can receive a piece of Percona swag: a T-shirt or a hat.",
         "no_of_prs": 4,
         "link": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/"
@@ -233,7 +218,6 @@
         "description": "If you make one contribution you’ll win one item from the Pusher Hacktoberfest swag pack .For two contributions you’ll get two items from the Pusher Hacktoberfest swag pack.Three or more contributions? We’ll give the full swag pack!",
         "no_of_prs": 3,
         "link": "https://github.com/pusher/hacktoberfest/blob/main/README.md"
->>>>>>> 7af07238b689d35471c836e63dd980e057dd159e
       }
     ],
     "Q": [],
@@ -267,11 +251,7 @@
       {
         "organization": "ToolJet",
         "org_url": "https://www.tooljet.com/",
-<<<<<<< HEAD
-        "tags": ["Stickers", "Hoodie", "Waterbottle", "Tshirt"],
-=======
         "tags": ["Stickers", "Hoodie", "Bottle", "Tshirt"],
->>>>>>> 7af07238b689d35471c836e63dd980e057dd159e
         "description": "Submit 1 (PRs) and get it merged/approved to receive ToolJet stickers and T-shirt .3 (PRs) to receive ToolJet stickers, t-shirt,water bottle. 4 (PRs) to recieve ToolJet stickers,t-shirt,hoodie,water bottle.",
         "no_of_prs": 1,
         "link": "https://blog.tooljet.com/hacktoberfest-2022/"
