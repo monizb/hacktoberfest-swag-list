@@ -143,6 +143,14 @@
     ],
     "M": [
       {
+        "organization": "Mattermost",
+        "org_url": "https://mattermost.com/",
+        "tags": ["Sticker", "Tshirt", "Mug"],
+        "description": "This year is the 9th iteration of Digital Ocean’s world-famous Hacktoberfest event, and we’re back with plenty of opportunities for contributors worldwide to participate. Everyone who makes one or more contributions to the Mattermost community during Hacktoberfest will receive a pack of custom Mattermost stickers. Additionally, we’ll select top contributors from our community to receive a custom Mattermost t-shirt and mug.",
+        "no_of_prs": 1,
+        "link": "https://mattermost.com/blog/hacktoberfest-2022/"
+      },
+      {
         "organization": "Medusa",
         "org_url": "https://medusajs.com/",
         "tags": ["Tshirt", "Hoodie", "Bottle"],
