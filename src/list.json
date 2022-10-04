@@ -235,6 +235,7 @@
         "org_url": "https://steampipe.io/",
         "tags": ["Tshirt", "Sticker"],
         "description": "Steampipe is adding our own swag for contributions to Steampipe. We will offer unique Hacktoberfest stickers and Steampipe t-shirts for no-code, low-code and high-code contributions.",
+        "no_of_prs": 1,
         "link": "https://steampipe.io/blog/hacktoberfest-2022"
       },
       {
