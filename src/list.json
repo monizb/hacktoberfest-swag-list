@@ -216,7 +216,7 @@
       {
         "organization": "QuestDB",
         "org_url": "https://questdb.io/",
-        "tags": ["Swag", "TShirt", "Sticker"],
+        "tags": ["Swag", "Tshirt", "Sticker"],
         "description": "Create two, three or more PRs in any of the qualifying QuestDB repos",
         "no_of_prs": 2,
         "link": "https://questdb.io/blog/2022/09/30/hacktoberfest-questdb/"
