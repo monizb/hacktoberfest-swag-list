@@ -212,7 +212,16 @@
         "link": "https://github.com/pusher/hacktoberfest/blob/main/README.md"
       }
     ],
-    "Q": [],
+    "Q": [
+      {
+        "organization": "QuestDB",
+        "org_url": "https://questdb.io/",
+        "tags": ["Swag", "TShirt", "Sticker"],
+        "description": "Create two, three or more PRs in any of the qualifying QuestDB repos",
+        "no_of_prs": 2,
+        "link": "https://questdb.io/blog/2022/09/30/hacktoberfest-questdb/"
+      }
+    ],
     "R": [],
     "S": [
       {
