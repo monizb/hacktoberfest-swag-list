@@ -147,6 +147,14 @@
         "description": " Documentation, coding, supporting others, running a project, or squashing bugs",
         "no_of_prs": 1,
         "link": "https://www.lambdatest.com/blog/celebrate-hacktoberfest-2022-with-lambdatest/"
+      },
+      {
+        "organization": "LocalStack",
+        "org_url": "https://localstack.cloud/",
+        "tags": ["Tshirt"],
+        "description": " Documentation, coding, supporting others, running a project, or squashing bugs",
+        "no_of_prs": 4,
+        "link": "https://localstack.cloud/blog/2022-10-01-contribute-to-open-source-with-localstack-hacktoberfest/"
       }
     ],
     "M": [
