@@ -90,7 +90,7 @@
       {
         "organization": "DagsHub",
         "org_url": "https://dagshub.com/",
-        "tags": ["Tshirt", "DagsHub Swag"],
+        "tags": ["Tshirt", "DagsHub Swags"],
         "description": "DagsHub will send swag to all participants who contribute at least 2 pull requests during Hacktoberfest.",
         "no_of_prs": 2,
         "link": "https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/"
