@@ -193,6 +193,14 @@
     ],
     "N": [
       {
+        "organization": "Network to Code",
+        "org_url": "https://www.networktocode.com/",
+        "tags": ["Tshirt", "Stickers","Mug"],
+        "description": "Most diverse contributions and most bugs squashed in any of the repos in Network to Code and Nautobot will receive NTC & Nautobot swag including shirt(s), stickers, mugs, and more.",
+        "no_of_prs": 1,
+        "link": "https://blog.networktocode.com/post/hackathon/"
+      },
+      {
         "organization": "Novu",
         "org_url": "https://novu.co/",
         "tags": ["Tshirt", "Stickers"],
