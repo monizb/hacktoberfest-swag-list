@@ -147,6 +147,14 @@
         "description": " Documentation, coding, supporting others, running a project, or squashing bugs",
         "no_of_prs": 1,
         "link": "https://www.lambdatest.com/blog/celebrate-hacktoberfest-2022-with-lambdatest/"
+      },
+      {
+        "organization": "LocalStack",
+        "org_url": "https://localstack.cloud/",
+        "tags": ["Tshirt"],
+        "description": " Documentation, coding, supporting others, running a project, or squashing bugs",
+        "no_of_prs": 4,
+        "link": "https://localstack.cloud/blog/2022-10-01-contribute-to-open-source-with-localstack-hacktoberfest/"
       }
     ],
     "M": [
@@ -183,7 +191,16 @@
         "link": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
       }
     ],
-    "N": [],
+    "N": [
+      {
+        "organization": "Novu",
+        "org_url": "https://novu.co/",
+        "tags": ["Tshirt", "Stickers"],
+        "description": "You can simply visit their repository and pick up any available issue to submit a PR, Submit 3 pull requests to the Novu repository and get them merged to receive the Special Novu swag pack.",
+        "no_of_prs": 3,
+        "link": "https://github.com/novuhq/novu"
+      }
+    ],
     "O": [
       {
         "organization": "OpenSearch",
@@ -240,6 +257,14 @@
         "link": "https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2022/"
       },
       {
+        "organization": "Steampipe",
+        "org_url": "https://steampipe.io/",
+        "tags": ["Tshirt", "Sticker"],
+        "description": "Steampipe is adding our own swag for contributions to Steampipe. We will offer unique Hacktoberfest stickers and Steampipe t-shirts for no-code, low-code and high-code contributions.",
+        "no_of_prs": 1,
+        "link": "https://steampipe.io/blog/hacktoberfest-2022"
+      },
+      {
         "organization": "StepZen",
         "org_url": "https://stepzen.com/",
         "tags": ["Tshirt", "Sticker"],
@@ -274,6 +299,14 @@
         "description": "Submit 2/3  PRs and get it merged/approved to receive Tumbler Voucher. 3+ (PRs) to receive a UnionML hoodie.",
         "no_of_prs": 3,
         "link": "https://github.com/unionai-oss/unionml/issues/171"
+      },
+      {
+        "organization": "Uno Platform",
+        "org_url": "https://platform.uno/",
+        "tags": ["Hoodie", "Tshirt"],
+        "description": "Submit 10 quality PRs to win a Hoodie or submit 4 quality PRs to win a T-shirt.",
+        "no_of_prs": 4,
+        "link": "https://platform.uno/blog/uno-platform-at-hacktoberfest-2022-prizes-and-how-to-participate/"
       }
     ],
     "V": [],
