@@ -194,11 +194,13 @@
     "N": [
       {
         "organization": "Novu",
-        "org_url": "https://novu.co/",
-        "tags": ["Tshirt", "Stickers"],
-        "description": "You can simply visit their repository and pick up any available issue to submit a PR, Submit 3 pull requests to the Novu repository and get them merged to receive the Special Novu swag pack.",
-        "no_of_prs": 3,
-        "link": "https://github.com/novuhq/novu"
+        "org_url" : "https://novu.co/",
+        "tags" :  [
+          "Tshirts" => Tshirt
+        ],
+        "description" : "Create 3 merged pull requests to the Novu repository at https://github.com/novuhq/novu",
+        "no_of_prs" : 3,
+        "link" : "https://github.com/novuhq/novu"
       }
     ],
     "O": [
