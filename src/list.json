@@ -229,17 +229,17 @@
         "link": "https://github.com/pusher/hacktoberfest/blob/main/README.md"
       }
     ],
-    "Q": [],
-    "R": [
+    "Q": [
       {
-        "organization": "Refine",
-        "org_url": "https://refine.dev/",
-        "tags": ["Tshirt", "Bottle", "Hat"],
-        "description": "In refine repository get 1 PRs merged to win T-shirt, get 2+ PRs merged to win T-shirt, Cap & Bottle",
-        "no_of_prs": 1,
-        "link": "https://refine.dev/blog/hacktoberfest-refine/"
+        "organization": "QuestDB",
+        "org_url": "https://questdb.io/",
+        "tags": ["Swag", "Tshirt", "Sticker"],
+        "description": "Create two, three or more PRs in any of the qualifying QuestDB repos",
+        "no_of_prs": 2,
+        "link": "https://questdb.io/blog/2022/09/30/hacktoberfest-questdb/"
       }
     ],
+    "R": [],
     "S": [
       {
         "organization": "Speckle",
