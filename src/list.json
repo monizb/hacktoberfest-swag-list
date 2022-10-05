@@ -3,6 +3,14 @@
   "list": {
     "A": [
       {
+        "organization": "Amplication",
+        "org_url": "https://amplication.com/",
+        "tags": ["Tshirt", "Mug", "Sticker"],
+        "description": "Contributors making one to two valid pull requests will get an exclusive sticker sheet. Contributors making three or more valid pull requests will get an choice between exclusive coffee mug or a T-Shirt.",
+        "no_of_prs": 2,
+        "link": "https://github.com/amplication/amplication/issues/4039"
+      },
+      {
         "organization": "Aviyel",
         "org_url": "https://aviyel.com",
         "tags": ["Swags", "Badge"],
@@ -100,6 +108,14 @@
         "description": "Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 300 teams will win awesome swag!",
         "no_of_prs": 1,
         "link": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
+      },
+      {
+        "organization": "Hasura",
+        "org_url": "https://hasura.io/",
+        "tags": ["Tshirt", "Sticker"],
+        "description": "With Hasura, celebrate open-source in style with Hacktoberfest!",
+        "no_of_prs": 1,
+        "link": "https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/"
       }
     ],
     "I": [
@@ -131,9 +147,25 @@
         "description": " Documentation, coding, supporting others, running a project, or squashing bugs",
         "no_of_prs": 1,
         "link": "https://www.lambdatest.com/blog/celebrate-hacktoberfest-2022-with-lambdatest/"
+      },
+      {
+        "organization": "LocalStack",
+        "org_url": "https://localstack.cloud/",
+        "tags": ["Tshirt"],
+        "description": " Documentation, coding, supporting others, running a project, or squashing bugs",
+        "no_of_prs": 4,
+        "link": "https://localstack.cloud/blog/2022-10-01-contribute-to-open-source-with-localstack-hacktoberfest/"
       }
     ],
     "M": [
+      {
+        "organization": "Mattermost",
+        "org_url": "https://mattermost.com/",
+        "tags": ["Sticker", "Tshirt", "Mug"],
+        "description": "This year is the 9th iteration of Digital Ocean’s world-famous Hacktoberfest event, and we’re back with plenty of opportunities for contributors worldwide to participate. Everyone who makes one or more contributions to the Mattermost community during Hacktoberfest will receive a pack of custom Mattermost stickers. Additionally, we’ll select top contributors from our community to receive a custom Mattermost t-shirt and mug.",
+        "no_of_prs": 1,
+        "link": "https://mattermost.com/blog/hacktoberfest-2022/"
+      },
       {
         "organization": "Medusa",
         "org_url": "https://medusajs.com/",
@@ -159,8 +191,26 @@
         "link": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
       }
     ],
-    "N": [],
-    "O": [],
+    "N": [
+      {
+        "organization": "Novu",
+        "org_url": "https://novu.co/",
+        "tags": ["Tshirt", "Stickers"],
+        "description": "You can simply visit their repository and pick up any available issue to submit a PR, Submit 3 pull requests to the Novu repository and get them merged to receive the Special Novu swag pack.",
+        "no_of_prs": 3,
+        "link": "https://github.com/novuhq/novu"
+      }
+    ],
+    "O": [
+      {
+        "organization": "OpenSearch",
+        "org_url": "https://opensearch.org/",
+        "tags": ["Bottle", "Stickers"],
+        "description": "Contribute to OpenSearch and receive swags.OpenSearch has a list of issues marked “good first issue” that are a great place to start",
+        "no_of_prs": 4,
+        "link": "https://opensearch.org/blog/community/2022/10/hacktoberfest-2022/"
+      }
+    ],
     "P": [
       {
         "organization": "Percona",
@@ -180,7 +230,16 @@
       }
     ],
     "Q": [],
-    "R": [],
+    "R": [
+      {
+        "organization": "Refine",
+        "org_url": "https://refine.dev/",
+        "tags": ["Tshirt", "Bottle", "Hat"],
+        "description": "In refine repository get 1 PRs merged to win T-shirt, get 2+ PRs merged to win T-shirt, Cap & Bottle",
+        "no_of_prs": 1,
+        "link": "https://refine.dev/blog/hacktoberfest-refine/"
+      }
+    ],
     "S": [
       {
         "organization": "Speckle",
@@ -204,6 +263,22 @@
         "description": "Submit (PRs) in SpaceJelly repo's.Check rules that mentioned on SpaceJelly hacktoberfest website,before contributing .",
         "no_of_prs": 1,
         "link": "https://spacejelly.dev/hacktoberfest/"
+        },
+        {
+        "organization": "Steampipe",
+        "org_url": "https://steampipe.io/",
+        "tags": ["Tshirt", "Sticker"],
+        "description": "Steampipe is adding our own swag for contributions to Steampipe. We will offer unique Hacktoberfest stickers and Steampipe t-shirts for no-code, low-code and high-code contributions.",
+        "no_of_prs": 1,
+        "link": "https://steampipe.io/blog/hacktoberfest-2022"
+      },
+      {
+        "organization": "StepZen",
+        "org_url": "https://stepzen.com/",
+        "tags": ["Tshirt", "Sticker"],
+        "description": "Join us for Hacktoberfest 2022 by contributing to StepZen",
+        "no_of_prs": 4,
+        "link": "https://stepzen.com/blog/stepzen-hacktoberfest-2022/"
       }
     ],
     "T": [
@@ -232,6 +307,14 @@
         "description": "Submit 2/3  PRs and get it merged/approved to receive Tumbler Voucher. 3+ (PRs) to receive a UnionML hoodie.",
         "no_of_prs": 3,
         "link": "https://github.com/unionai-oss/unionml/issues/171"
+      },
+      {
+        "organization": "Uno Platform",
+        "org_url": "https://platform.uno/",
+        "tags": ["Hoodie", "Tshirt"],
+        "description": "Submit 10 quality PRs to win a Hoodie or submit 4 quality PRs to win a T-shirt.",
+        "no_of_prs": 4,
+        "link": "https://platform.uno/blog/uno-platform-at-hacktoberfest-2022-prizes-and-how-to-participate/"
       }
     ],
     "V": [],
