@@ -72,6 +72,14 @@
     ],
     "D": [
       {
+        "organization": "DagsHub",
+        "org_url": "https://dagshub.com/",
+        "tags": ["Swags"],
+        "description": "Create two PRs in any of the qualifying repos will eligible to get swag. If you create more than 10 PRs than you are eligible for full swag Pack",
+        "no_of_prs": 2,
+        "link": "https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/"
+      },
+      {
         "organization": "devICT",
         "org_url": "https://devict-hacktoberfest.herokuapp.com/",
         "tags": ["Stickers"],
