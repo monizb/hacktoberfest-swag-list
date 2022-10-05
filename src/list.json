@@ -229,7 +229,15 @@
         "link": "https://github.com/pusher/hacktoberfest/blob/main/README.md"
       }
     ],
-    "Q": [],
+    "Q": [{
+      "organization" :  "QuestDB",
+      "org_url" :  "https://questdb.io/",
+      "tags" : ["QuestDB Hacktoberfest swagpack"],
+      "description" : "In addition to the official reward, if you successfully contribute one valid pull-request to any of the QuestDB projects listed above, we offer an extra QuestDB T-shirt for you through their swag program. 🚀",
+      "no_of_prs" : 1,
+      "link" : "https://github.com/questdb/questdb"
+          }
+    ],
     "R": [
       {
         "organization": "Refine",
