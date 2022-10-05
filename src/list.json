@@ -293,6 +293,14 @@
     ],
     "U": [
       {
+        "organization": "Umbraco",
+        "org_url": "https://umbraco.com/",
+        "tags": ["Tshirt"],
+        "description": "Submit 2  PRs and get it merged/approved to receive Umbraco T-shirt or Plant a Tree. Contributions can be Documentation, Packages or no-code/lowcode and bugfixes",
+        "no_of_prs": 2,
+        "link": "https://umbraco.com/blog/umbraco-hacktoberfest-2022/"
+      },
+      {
         "organization": "UnionML",
         "org_url": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022",
         "tags": ["Tumbler", "Hoodie", "Voucher"],
