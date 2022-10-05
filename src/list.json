@@ -86,6 +86,14 @@
         "description": "Either Build an extension or make changes to an Existing extension.With lots of events and community events.",
         "no_of_prs": 1,
         "link": "https://docker.github.io/hacktoberfest/"
+      },
+      {
+        "organization": "DagsHub",
+        "org_url": "https://dagshub.com/",
+        "tags": ["Tshirt", "DagsHub Swag"],
+        "description": "DagsHub will send swag to all participants who contribute at least 2 pull requests during Hacktoberfest.",
+        "no_of_prs": 2,
+        "link": "https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/"
       }
     ],
     "E": [],
