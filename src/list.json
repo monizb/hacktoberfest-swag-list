@@ -213,7 +213,16 @@
       }
     ],
     "Q": [],
-    "R": [],
+    "R": [
+      {
+        "organization": "Refine",
+        "org_url": "https://refine.dev/",
+        "tags": ["Tshirt", "Bottle", "Hat"],
+        "description": "In refine repository get 1 PRs merged to win T-shirt, get 2+ PRs merged to win T-shirt, Cap & Bottle",
+        "no_of_prs": 1,
+        "link": "https://refine.dev/blog/hacktoberfest-refine/"
+      }
+    ],
     "S": [
       {
         "organization": "Speckle",
