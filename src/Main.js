@@ -131,7 +131,7 @@ function Main() {
                     <a href="https://github.com/monizb/hacktoberfest-swag-list" target="_blank" rel="noreferrer"><FeatherIcon icon="github" color="white" /></a>
                 </button>
             </div>
-
+{/* PR */}
             <div className={classes.page_views_wrapper}>
                 <div className={classes.page_views_spacer}></div>
                 <h4 style={{ color: "#8e99f7" }}>Site Hits: {page_views}</h4>
@@ -310,3 +310,4 @@ function Main() {
 }
 
 export default Main;
+// check 2
