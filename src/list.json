@@ -238,7 +238,16 @@
         "description": "In refine repository get 1 PRs merged to win T-shirt, get 2+ PRs merged to win T-shirt, Cap & Bottle",
         "no_of_prs": 1,
         "link": "https://refine.dev/blog/hacktoberfest-refine/"
+      },
+      {
+        "organization": "Robot framework",
+        "org_url": "https://robotframework.org/",
+        "tags": ["Tshirt"],
+        "description": "Contribute to Robot framework to receive a free tshirt",
+        "no_of_prs": 1,
+        "link": "https://github.com/robotframework/robotframework.github.com/issues"
       }
+
     ],
     "S": [
       {
