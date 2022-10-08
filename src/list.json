@@ -99,7 +99,16 @@
         "link": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"
       }
     ],
-    "G": [],
+    "G": [
+      {
+        "organization": "Globo.com",
+        "org_url": "https://github.com/globocom",
+        "tags": ["Tshirt"],
+        "description": "Contribute two Pull Requests to any Globo.com Open Source project during October. Ensure that at least one pull request is ACCEPTED. The first 100 entries who complete the minimum requirements will earn a t-shirt.",
+        "no_of_prs": 1,
+        "link": "https://opensource.globo.com"
+      }
+    ],
     "H": [
       {
         "organization": "HackSquad",
