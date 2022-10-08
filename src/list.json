@@ -5,7 +5,11 @@
       {
         "organization": "Amplication",
         "org_url": "https://amplication.com/",
-        "tags": ["Tshirt", "Mug", "Sticker"],
+        "tags": [
+          "Tshirt",
+          "Mug",
+          "Sticker"
+        ],
         "description": "Contributors making one to two valid pull requests will get an exclusive sticker sheet. Contributors making three or more valid pull requests will get an choice between exclusive coffee mug or a T-Shirt.",
         "no_of_prs": 2,
         "link": "https://github.com/amplication/amplication/issues/4039"
@@ -13,7 +17,10 @@
       {
         "organization": "Aviyel",
         "org_url": "https://aviyel.com",
-        "tags": ["Swags", "Badge"],
+        "tags": [
+          "Swags",
+          "Badge"
+        ],
         "description": "Participants are requested to create technical content based on the theme of each week (listed on the website) and submit it within the deadline",
         "no_of_prs": 2,
         "link": "https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel"
@@ -21,7 +28,11 @@
       {
         "organization": "Appwrite",
         "org_url": "https://appwrite.io",
-        "tags": ["Stickers", "Socks", "Tshirt"],
+        "tags": [
+          "Stickers",
+          "Socks",
+          "Tshirt"
+        ],
         "description": "There are different ways you can contribute to Appwrite. All accepted contributions qualify for receiving Appwrite Swag!",
         "no_of_prs": 4,
         "link": "https://hacktoberfest.appwrite.io/"
@@ -48,7 +59,9 @@
       {
         "organization": "Camunda",
         "org_url": "https://camunda.com",
-        "tags": ["Tshirt"],
+        "tags": [
+          "Tshirt"
+        ],
         "description": "Submit four (4) quality pull requests (PRs) to any Camunda repo including participating* Camunda Community Hub repos",
         "no_of_prs": 4,
         "link": "https://camunda.com/hacktoberfest2022/"
@@ -56,7 +69,9 @@
       {
         "organization": "ClueLess Community",
         "org_url": "https://github.com/Clueless-Community",
-        "tags": ["Tshirt"],
+        "tags": [
+          "Tshirt"
+        ],
         "description": "Hacktoberfest is here, and we are also here with ClueLess Community and it's amazing repos where you can contribute . 🚀 And you know what's more amazing. All the top contributors of ClueLess will get t-shirts and amazing swags by ClueLess apart from hacktoberfest swags. 🤩 All participants will get their participation certificate.",
         "no_of_prs": 4,
         "link": "https://github.com/Clueless-Community"
@@ -64,7 +79,10 @@
       {
         "organization": "Codedamn",
         "org_url": "https://codedamn.com/",
-        "tags": ["Tshirt", "Sticker"],
+        "tags": [
+          "Tshirt",
+          "Sticker"
+        ],
         "description": "In order to participate and win prizes, you have to submit a guided project.",
         "no_of_prs": 1,
         "link": "https://github.com/codedamn/projects#readme"
@@ -74,7 +92,9 @@
       {
         "organization": "devICT",
         "org_url": "https://devict-hacktoberfest.herokuapp.com/",
-        "tags": ["Stickers"],
+        "tags": [
+          "Stickers"
+        ],
         "description": "Create two PRs in any of the qualifying Wichita repos.",
         "no_of_prs": 2,
         "link": "https://devict-hacktoberfest.herokuapp.com/"
@@ -82,7 +102,10 @@
       {
         "organization": "Docker",
         "org_url": "https://www.docker.com/",
-        "tags": ["Tshirt", "Hoodie"],
+        "tags": [
+          "Tshirt",
+          "Hoodie"
+        ],
         "description": "Either Build an extension or make changes to an Existing extension.With lots of events and community events.",
         "no_of_prs": 1,
         "link": "https://docker.github.io/hacktoberfest/"
@@ -93,18 +116,39 @@
       {
         "organization": "Flyte",
         "org_url": "https://flyte.org/",
-        "tags": ["Mug", "Tshirt", "Jacket", "Voucher"],
+        "tags": [
+          "Mug",
+          "Tshirt",
+          "Jacket",
+          "Voucher"
+        ],
         "description": "Create two, three or more PRs in any of the qualifying Flyte repos.",
         "no_of_prs": 2,
         "link": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"
       }
     ],
-    "G": [],
+    "G": [
+      {
+        "organization": "Globo.com",
+        "org_url": "https://github.com/globocom",
+        "tags": [
+          "Tshirt"
+        ],
+        "description": "Contribute two Pull Requests to any Globo.com Open Source project during October. Ensure that at least one pull request is ACCEPTED. The first 100 entries who complete the minimum requirements will earn a t-shirt.",
+        "no_of_prs": 1,
+        "link": "https://opensource.globo.com"
+      }
+    ],
     "H": [
       {
         "organization": "HackSquad",
         "org_url": "https://www.hacksquad.dev/",
-        "tags": ["Tshirt", "Hoodie", "Mug", "Bag"],
+        "tags": [
+          "Tshirt",
+          "Hoodie",
+          "Mug",
+          "Bag"
+        ],
         "description": "Register to the HackSquad using your GitHub, Join a team or get assigned to a random team. Each day we will calculate every team member approved PR and sum them all together. By the end of the event, the top 60 teams will win awesome swag!",
         "no_of_prs": 1,
         "link": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
@@ -112,7 +156,10 @@
       {
         "organization": "Hasura",
         "org_url": "https://hasura.io/",
-        "tags": ["Tshirt", "Sticker"],
+        "tags": [
+          "Tshirt",
+          "Sticker"
+        ],
         "description": "With Hasura, celebrate open-source in style with Hacktoberfest!",
         "no_of_prs": 1,
         "link": "https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/"
@@ -122,7 +169,13 @@
       {
         "organization": "INVERTASE",
         "org_url": "https://invertase.io/",
-        "tags": ["Zappy", "Tshirt", "Google Home", "Stickers", "Rubber Duck"],
+        "tags": [
+          "Zappy",
+          "Tshirt",
+          "Google Home",
+          "Stickers",
+          "Rubber Duck"
+        ],
         "description": "submit 1-2 PRs to get T-shirt, stickers pack,\n 2 to 4 PRs to get Flutter mug, T-shirt, stickers pack.\n 5 to 10 PRs to get Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.\n  10 or more PRs to get a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.\n",
         "no_of_prs": 1,
         "link": "https://invertase.io/community/hacktoberfest"
@@ -132,7 +185,9 @@
       {
         "organization": "Jenkins",
         "org_url": "https://www.jenkins.io/",
-        "tags": ["Limited Edition swag"],
+        "tags": [
+          "Limited Edition swag"
+        ],
         "description": "Contribute to the mentioned Jenkins projects and get a limited edition swag delivered to you!",
         "no_of_prs": 1,
         "link": "https://www.jenkins.io/events/hacktoberfest/"
@@ -143,7 +198,11 @@
       {
         "organization": "LambdaTest",
         "org_url": "https://www.lambdatest.com",
-        "tags": ["Sticker", "Bottle", "Tshirt"],
+        "tags": [
+          "Sticker",
+          "Bottle",
+          "Tshirt"
+        ],
         "description": " Documentation, coding, supporting others, running a project, or squashing bugs",
         "no_of_prs": 1,
         "link": "https://www.lambdatest.com/blog/celebrate-hacktoberfest-2022-with-lambdatest/"
@@ -151,7 +210,9 @@
       {
         "organization": "LocalStack",
         "org_url": "https://localstack.cloud/",
-        "tags": ["Tshirt"],
+        "tags": [
+          "Tshirt"
+        ],
         "description": " Documentation, coding, supporting others, running a project, or squashing bugs",
         "no_of_prs": 4,
         "link": "https://localstack.cloud/blog/2022-10-01-contribute-to-open-source-with-localstack-hacktoberfest/"
@@ -161,7 +222,11 @@
       {
         "organization": "Mattermost",
         "org_url": "https://mattermost.com/",
-        "tags": ["Sticker", "Tshirt", "Mug"],
+        "tags": [
+          "Sticker",
+          "Tshirt",
+          "Mug"
+        ],
         "description": "This year is the 9th iteration of Digital Ocean’s world-famous Hacktoberfest event, and we’re back with plenty of opportunities for contributors worldwide to participate. Everyone who makes one or more contributions to the Mattermost community during Hacktoberfest will receive a pack of custom Mattermost stickers. Additionally, we’ll select top contributors from our community to receive a custom Mattermost t-shirt and mug.",
         "no_of_prs": 1,
         "link": "https://mattermost.com/blog/hacktoberfest-2022/"
@@ -169,7 +234,11 @@
       {
         "organization": "Medusa",
         "org_url": "https://medusajs.com/",
-        "tags": ["Tshirt", "Hoodie", "Bottle"],
+        "tags": [
+          "Tshirt",
+          "Hoodie",
+          "Bottle"
+        ],
         "description": "For this year's Hacktoberfest, we are thrilled to be launching our very first Medusa Hackathon with crazy prizes! Already, we open up for pre-sign-ups.All submissions will get: Hackathon Tee + Hackathon Hoodie.All pre-sign-ups + Submissions will get: Hackathon Hoodie + Hackathon tee + Water bottle",
         "no_of_prs": 1,
         "link": "https://medusajs.com/blog/medusa-hackathon-warming-up-for-hacktoberfest"
@@ -177,7 +246,12 @@
       {
         "organization": "MindsDB",
         "org_url": "https://mindsdb.com",
-        "tags": ["Tshirt", "Gadgets", "Cash", "Laptop"],
+        "tags": [
+          "Tshirt",
+          "Gadgets",
+          "Cash",
+          "Laptop"
+        ],
         "description": "We have prepared several categories of open issues that are ideal for first-time developers, low-code, and no-code contributors.",
         "no_of_prs": 4,
         "link": "https://mindsdb.com/hacktoberfest/"
@@ -185,7 +259,9 @@
       {
         "organization": "MeiliSearch",
         "org_url": "https://www.meilisearch.com/",
-        "tags": ["Exclusive Meilisearch swag"],
+        "tags": [
+          "Exclusive Meilisearch swag"
+        ],
         "description": "Meilisearch is once again back for Hacktoberfest! We look back on previous editions while getting ready for this year’s, armed with brand new common goals and plenty of exclusive new swag for our contributors.",
         "no_of_prs": 1,
         "link": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
@@ -195,7 +271,10 @@
       {
         "organization": "Novu",
         "org_url": "https://novu.co/",
-        "tags": ["Tshirt", "Stickers"],
+        "tags": [
+          "Tshirt",
+          "Stickers"
+        ],
         "description": "You can simply visit their repository and pick up any available issue to submit a PR, Submit 3 pull requests to the Novu repository and get them merged to receive the Special Novu swag pack.",
         "no_of_prs": 3,
         "link": "https://github.com/novuhq/novu"
@@ -205,7 +284,10 @@
       {
         "organization": "OpenSearch",
         "org_url": "https://opensearch.org/",
-        "tags": ["Bottle", "Stickers"],
+        "tags": [
+          "Bottle",
+          "Stickers"
+        ],
         "description": "Contribute to OpenSearch and receive swags.OpenSearch has a list of issues marked “good first issue” that are a great place to start",
         "no_of_prs": 4,
         "link": "https://opensearch.org/blog/community/2022/10/hacktoberfest-2022/"
@@ -215,7 +297,10 @@
       {
         "organization": "Percona",
         "org_url": "https://www.percona.com/",
-        "tags": ["Tshirt", "Hat"],
+        "tags": [
+          "Tshirt",
+          "Hat"
+        ],
         "description": "This year Percona participates in this fabulous event with its open source software. You can contribute to 12 repositories with Percona Monitoring and Management (PMM), Percona Kubernetes Operators, pg_stat_monitor, and other projects! In addition to official Hacktoberfest prizes, you can receive a piece of Percona swag: a T-shirt or a hat.",
         "no_of_prs": 4,
         "link": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/"
@@ -223,7 +308,9 @@
       {
         "organization": "Pusher",
         "org_url": "https://pusher.com/",
-        "tags": ["Pusher Hacktoberfest swag pack"],
+        "tags": [
+          "Pusher Hacktoberfest swag pack"
+        ],
         "description": "If you make one contribution you’ll win one item from the Pusher Hacktoberfest swag pack .For two contributions you’ll get two items from the Pusher Hacktoberfest swag pack.Three or more contributions? We’ll give the full swag pack!",
         "no_of_prs": 3,
         "link": "https://github.com/pusher/hacktoberfest/blob/main/README.md"
@@ -234,7 +321,11 @@
       {
         "organization": "Refine",
         "org_url": "https://refine.dev/",
-        "tags": ["Tshirt", "Bottle", "Hat"],
+        "tags": [
+          "Tshirt",
+          "Bottle",
+          "Hat"
+        ],
         "description": "In refine repository get 1 PRs merged to win T-shirt, get 2+ PRs merged to win T-shirt, Cap & Bottle",
         "no_of_prs": 1,
         "link": "https://refine.dev/blog/hacktoberfest-refine/"
@@ -244,7 +335,9 @@
       {
         "organization": "Speckle",
         "org_url": "https://speckle.systems/",
-        "tags": ["Swag"],
+        "tags": [
+          "Swag"
+        ],
         "description": "If you want to be eligible for some exclusive Speckle SWAG™ then you just need to have 4 pull requests accepted between October 1 and October 31 in any of the Speckle repositories ",
         "no_of_prs": 4,
         "link": "https://speckle.community/t/hacktoberfest-2022-with-speckle/3641"
@@ -252,14 +345,19 @@
       {
         "organization": "ServiceNow",
         "org_url": "https://developer.servicenow.com",
-        "tags": ["Tshirt"],
+        "tags": [
+          "Tshirt"
+        ],
         "description": "Contribute to ServiceNow to receive a free tshirt",
         "link": "https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2022/"
       },
       {
         "organization": "Steampipe",
         "org_url": "https://steampipe.io/",
-        "tags": ["Tshirt", "Sticker"],
+        "tags": [
+          "Tshirt",
+          "Sticker"
+        ],
         "description": "Steampipe is adding our own swag for contributions to Steampipe. We will offer unique Hacktoberfest stickers and Steampipe t-shirts for no-code, low-code and high-code contributions.",
         "no_of_prs": 1,
         "link": "https://steampipe.io/blog/hacktoberfest-2022"
@@ -267,7 +365,10 @@
       {
         "organization": "StepZen",
         "org_url": "https://stepzen.com/",
-        "tags": ["Tshirt", "Sticker"],
+        "tags": [
+          "Tshirt",
+          "Sticker"
+        ],
         "description": "Join us for Hacktoberfest 2022 by contributing to StepZen",
         "no_of_prs": 4,
         "link": "https://stepzen.com/blog/stepzen-hacktoberfest-2022/"
@@ -277,7 +378,12 @@
       {
         "organization": "ToolJet",
         "org_url": "https://www.tooljet.com/",
-        "tags": ["Stickers", "Hoodie", "Bottle", "Tshirt"],
+        "tags": [
+          "Stickers",
+          "Hoodie",
+          "Bottle",
+          "Tshirt"
+        ],
         "description": "Submit 1 (PRs) and get it merged/approved to receive ToolJet stickers and T-shirt .3 (PRs) to receive ToolJet stickers, t-shirt,water bottle. 4 (PRs) to recieve ToolJet stickers,t-shirt,hoodie,water bottle.",
         "no_of_prs": 1,
         "link": "https://blog.tooljet.com/hacktoberfest-2022/"
@@ -285,7 +391,10 @@
       {
         "organization": "The Gita Initiative",
         "org_url": "https://bhagavadgita.io/",
-        "tags": ["Books", "Stickers"],
+        "tags": [
+          "Books",
+          "Stickers"
+        ],
         "description": "Create 4 or more PRs in any of the projects in organization to get Hard Copies of Shrimd Bhagavad Gita and stickers.",
         "no_of_prs": 4,
         "link": "https://www.linkedin.com/posts/vedvyas_github-gitagita-bhagavad-gita-in-json-activity-6982314384161140736-o370?utm_source=share&utm_medium=member_desktop"
@@ -295,7 +404,11 @@
       {
         "organization": "UnionML",
         "org_url": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022",
-        "tags": ["Tumbler", "Hoodie", "Voucher"],
+        "tags": [
+          "Tumbler",
+          "Hoodie",
+          "Voucher"
+        ],
         "description": "Submit 2/3  PRs and get it merged/approved to receive Tumbler Voucher. 3+ (PRs) to receive a UnionML hoodie.",
         "no_of_prs": 3,
         "link": "https://github.com/unionai-oss/unionml/issues/171"
@@ -303,7 +416,10 @@
       {
         "organization": "Uno Platform",
         "org_url": "https://platform.uno/",
-        "tags": ["Hoodie", "Tshirt"],
+        "tags": [
+          "Hoodie",
+          "Tshirt"
+        ],
         "description": "Submit 10 quality PRs to win a Hoodie or submit 4 quality PRs to win a T-shirt.",
         "no_of_prs": 4,
         "link": "https://platform.uno/blog/uno-platform-at-hacktoberfest-2022-prizes-and-how-to-participate/"
