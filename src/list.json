@@ -271,6 +271,14 @@
         "description": "Join us for Hacktoberfest 2022 by contributing to StepZen",
         "no_of_prs": 4,
         "link": "https://stepzen.com/blog/stepzen-hacktoberfest-2022/"
+      },
+      {
+        "organization": "Space Jelly and Cloudinary",
+        "org_url": "https://spacejelly.dev/",
+        "tags": ["Space Jelly Sticker Pack", "Cloudinary Sticker Pack", "Cloudinary Plush Unicorn"],
+        "description": "Join us for Hacktoberfest 2022 by contributing to Space Jelly and Cloudinary",
+        "no_of_prs": 4,
+        "link": "https://spacejelly.dev/hacktoberfest/"
       }
     ],
     "T": [
