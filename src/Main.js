@@ -50,7 +50,7 @@ function Main() {
             setPageViews(views.value)
         }
         getPageViews()
-    }, [])
+    }, []);
         
     // merge arrays on list alphabets object to array
     React.useEffect(() => {
