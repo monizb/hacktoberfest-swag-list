@@ -25,7 +25,7 @@ const drawerWidth = 380;
 const defaultSortBy = {
     difficulty: '',
 };
-// check
+// chec
 function Main() {
     const [mobileOpen, setMobileOpen] = React.useState(false);
     const [keyword, setKeyword] = React.useState('');
