@@ -52,7 +52,6 @@ function Main() {
         getPageViews()
     }, []);
         
-    // merge arrays on list alphabets object to array
     React.useEffect(() => {
         let tempCurrentLists = [];
         Object.values(list.list).forEach((val) => tempCurrentLists.push(...val));
