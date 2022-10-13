@@ -79,7 +79,35 @@
   color: white;
   cursor: pointer;
 }
+.navbar{
+  background-color: #170F1E;
+  width: 100%;
+  height: 64px;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  color: white;
+  font-family:'Roboto',Helvetica,Arial,sans-serif;
+  letter-spacing:0.15px;
+  font-size:20px;
+  font-weight: 500;
+  transition-property:width;
+  transition-duration:.4s;
+  z-index: 13;
+}
+.logo{
+  margin:12px 12px 0px 49px;
+}
+.menubt{
+  margin:15px 24px 0px 0px;
+  height: 22px;
+  width: 25px;
 
+}
+.headTitle{
+  position: relative;
+  top:-12px;
+}
 @media only screen and (max-width: 1000px) {
   .letterbox {
     padding: 0px 5px;
