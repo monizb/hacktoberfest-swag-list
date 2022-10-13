@@ -51,10 +51,10 @@ function Main() {
         }
         getPageViews()
     }, [])
-
+        
+    // merge arrays on list alphabets object to array
     React.useEffect(() => {
         let tempCurrentLists = [];
-        // merge arrays on list alphabets object to array
         Object.values(list.list).forEach((val) => tempCurrentLists.push(...val));
 
         setCurrentLists(tempCurrentLists);
