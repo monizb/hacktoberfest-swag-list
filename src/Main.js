@@ -95,7 +95,7 @@ function Main() {
     const handleChangeSortBy = value => setSortBy(value || defaultSortBy);
 
     const drawer = (
-        <div style={{ backgroundColor: "#1b1423", height: "100%", alignItems: "center", textAlign: "center", display: "flex", flexDirection: "column", background: 'url("https://hacktoberfest.com/_next/static/media/grain-dark.9d5983e6.png") rgb(23, 15, 30)' }}>
+        <div style={{ backgroundColor: "#1b1423", height: "100%", alignItems: "center", textAlign: "center", display: "flex", flexDirection: "column", background: `url("https://hacktoberfest.com/_next/static/media/grain-dark.9d5983e6.png") rgb(23, 15, 30)` }}>
             <ArrowCircleRightIcon
                 sx={{
                     color: "white",
