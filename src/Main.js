@@ -19,7 +19,7 @@ import { getTagColor } from './Utils/getTagColor';
 import { getTagEmoji } from './Utils/getTagEmoji';
 
 
-import countapi from 'countapi-js';
+import countapi from 'countapi-js'; 
 import OverlayModel from './Components/OverlayModel';
 
 
@@ -38,6 +38,7 @@ function Main() {
         setMobileOpen(!mobileOpen);
     };
 
+    
     const alphabets = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
     const [page_views, setPageViews] = React.useState(0)
 
