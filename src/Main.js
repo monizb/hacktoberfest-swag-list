@@ -51,7 +51,7 @@ function Main() {
         }
         getPageViews()
     }, []);
-        
+
     React.useEffect(() => {
         let tempCurrentLists = [];
         Object.values(list.list).forEach((val) => tempCurrentLists.push(...val));
@@ -129,7 +129,7 @@ function Main() {
                     <a href="https://github.com/monizb/hacktoberfest-swag-list" target="_blank" rel="noreferrer"><FeatherIcon icon="github" color="white" /></a>
                 </button>
             </div>
-{/* PR */}
+            {/* PR */}
             <div className={classes.page_views_wrapper}>
                 <div className={classes.page_views_spacer}></div>
                 <h4 style={{ color: "#8e99f7" }}>Site Hits: {page_views}</h4>
@@ -139,7 +139,7 @@ function Main() {
 
     return (
         <>
-            {mobileOpen&&<OverlayModel/>}
+            {mobileOpen && <OverlayModel />}
             <Box sx={{ display: 'flex' }}>
                 <CssBaseline />
                 <div className={classes.navbar} style={{
@@ -163,36 +163,36 @@ function Main() {
                         />}
                 </div>
                 <Drawer
-                        variant="persistent"
-                        anchor="right"
-                        sx={{
-                            width: '0px',
-                            flexShrink: 0,
-                            [`& .MuiDrawer-paper`]: {
-                              width: drawerWidth,
-                              boxSizing: "border-box"
-                            },
-                            display: { xs: 'none', sm: 'none',md:'block' },
-                         }}
-                        open={mobileOpen}
-                        onClose={handleDrawerToggle}
-                    >
-                        {drawer}
+                    variant="persistent"
+                    anchor="right"
+                    sx={{
+                        width: '0px',
+                        flexShrink: 0,
+                        [`& .MuiDrawer-paper`]: {
+                            width: drawerWidth,
+                            boxSizing: "border-box"
+                        },
+                        display: { xs: 'none', sm: 'none', md: 'block' },
+                    }}
+                    open={mobileOpen}
+                    onClose={handleDrawerToggle}
+                >
+                    {drawer}
                 </Drawer>
                 <Drawer
-                        variant="temporary"
-                        open={mobileOpen}
-                        onClose={handleDrawerToggle}
-                        ModalProps={{
-                            keepMounted: true,
-                        }}
-                        sx={{
-                            display: { xs: 'block', sm: 'block',md:'none' },
-                            '& .MuiDrawer-paper': { boxSizing: 'border-box', width: drawerWidth },
-                        }}
-                    >
-                        {drawer}
-                    </Drawer>
+                    variant="temporary"
+                    open={mobileOpen}
+                    onClose={handleDrawerToggle}
+                    ModalProps={{
+                        keepMounted: true,
+                    }}
+                    sx={{
+                        display: { xs: 'block', sm: 'block', md: 'none' },
+                        '& .MuiDrawer-paper': { boxSizing: 'border-box', width: drawerWidth },
+                    }}
+                >
+                    {drawer}
+                </Drawer>
                 <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
                     <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
                         <Toolbar />
@@ -298,8 +298,8 @@ function Main() {
                         transitionDuration: ".4s",
                         width: { md: `${(mobileOpen === true) ? drawerWidth : '0'}px` }, flexShrink: { sm: 0 }
                     }}
-                    // aria-label="mailbox folders"
-                >  
+                // aria-label="mailbox folders"
+                >
                 </Box>
             </Box>
         </>
