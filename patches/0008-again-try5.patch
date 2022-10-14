@@ -1,0 +1,25 @@
+From b9ecf036437140a1e369e04ae7b057003a001a41 Mon Sep 17 00:00:00 2001
+From: Arzit <nidhimahajan251@gmail.com>
+Date: Fri, 14 Oct 2022 13:01:44 +0530
+Subject: [PATCH 08/11] again try5
+
+---
+ src/Main.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/Main.js b/src/Main.js
+index c696ed0..e7af9e8 100644
+--- a/src/Main.js
++++ b/src/Main.js
+@@ -18,7 +18,7 @@ import { orderByAsc, orderByDesc } from './Utils/sorting';
+ import { getTagColor } from './Utils/getTagColor';
+ import { getTagEmoji } from './Utils/getTagEmoji';
+ 
+-
++{/*ignore*/}
+ import countapi from 'countapi-js';
+ import OverlayModel from './Components/OverlayModel';
+ 
+-- 
+2.29.2.windows.3
+

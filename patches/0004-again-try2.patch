@@ -1,0 +1,24 @@
+From 8c48ad1031d78ccaf89be01387b4708a8cc0c7d5 Mon Sep 17 00:00:00 2001
+From: Arzit <nidhimahajan251@gmail.com>
+Date: Fri, 14 Oct 2022 02:59:52 +0530
+Subject: [PATCH 04/11] again try2
+
+---
+ src/Main.js | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/src/Main.js b/src/Main.js
+index 0a389af..7195547 100644
+--- a/src/Main.js
++++ b/src/Main.js
+@@ -52,7 +52,6 @@ function Main() {
+         getPageViews()
+     }, []);
+         
+-    // merge arrays on list alphabets object to array
+     React.useEffect(() => {
+         let tempCurrentLists = [];
+         Object.values(list.list).forEach((val) => tempCurrentLists.push(...val));
+-- 
+2.29.2.windows.3
+

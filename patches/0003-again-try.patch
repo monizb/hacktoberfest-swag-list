@@ -1,0 +1,25 @@
+From 98ae28e8b992dbff675de0343bac4924b94d010f Mon Sep 17 00:00:00 2001
+From: Arzit <nidhimahajan251@gmail.com>
+Date: Fri, 14 Oct 2022 02:58:27 +0530
+Subject: [PATCH 03/11] again try
+
+---
+ src/Main.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/Main.js b/src/Main.js
+index 033d88b..0a389af 100644
+--- a/src/Main.js
++++ b/src/Main.js
+@@ -50,7 +50,7 @@ function Main() {
+             setPageViews(views.value)
+         }
+         getPageViews()
+-    }, [])
++    }, []);
+         
+     // merge arrays on list alphabets object to array
+     React.useEffect(() => {
+-- 
+2.29.2.windows.3
+

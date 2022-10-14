@@ -1,0 +1,119 @@
+From d85e22f5f1ee6702e5b6c56c411fc36128233028 Mon Sep 17 00:00:00 2001
+From: Arzit <nidhimahajan251@gmail.com>
+Date: Fri, 14 Oct 2022 13:47:37 +0530
+Subject: [PATCH 11/11] try 8
+
+---
+ src/Main.js | 66 ++++++++++++++++++++++++++---------------------------
+ 1 file changed, 33 insertions(+), 33 deletions(-)
+
+diff --git a/src/Main.js b/src/Main.js
+index 3a0783b..4811389 100644
+--- a/src/Main.js
++++ b/src/Main.js
+@@ -51,7 +51,7 @@ function Main() {
+         }
+         getPageViews()
+     }, []);
+-        
++
+     React.useEffect(() => {
+         let tempCurrentLists = [];
+         Object.values(list.list).forEach((val) => tempCurrentLists.push(...val));
+@@ -129,7 +129,7 @@ function Main() {
+                     <a href="https://github.com/monizb/hacktoberfest-swag-list" target="_blank" rel="noreferrer"><FeatherIcon icon="github" color="white" /></a>
+                 </button>
+             </div>
+-{/* PR */}
++            {/* PR */}
+             <div className={classes.page_views_wrapper}>
+                 <div className={classes.page_views_spacer}></div>
+                 <h4 style={{ color: "#8e99f7" }}>Site Hits: {page_views}</h4>
+@@ -139,7 +139,7 @@ function Main() {
+ 
+     return (
+         <>
+-            {mobileOpen&&<OverlayModel/>}
++            {mobileOpen && <OverlayModel />}
+             <Box sx={{ display: 'flex' }}>
+                 <CssBaseline />
+                 <div className={classes.navbar} style={{
+@@ -163,36 +163,36 @@ function Main() {
+                         />}
+                 </div>
+                 <Drawer
+-                        variant="persistent"
+-                        anchor="right"
+-                        sx={{
+-                            width: '0px',
+-                            flexShrink: 0,
+-                            [`& .MuiDrawer-paper`]: {
+-                              width: drawerWidth,
+-                              boxSizing: "border-box"
+-                            },
+-                            display: { xs: 'none', sm: 'none',md:'block' },
+-                         }}
+-                        open={mobileOpen}
+-                        onClose={handleDrawerToggle}
+-                    >
+-                        {drawer}
++                    variant="persistent"
++                    anchor="right"
++                    sx={{
++                        width: '0px',
++                        flexShrink: 0,
++                        [`& .MuiDrawer-paper`]: {
++                            width: drawerWidth,
++                            boxSizing: "border-box"
++                        },
++                        display: { xs: 'none', sm: 'none', md: 'block' },
++                    }}
++                    open={mobileOpen}
++                    onClose={handleDrawerToggle}
++                >
++                    {drawer}
+                 </Drawer>
+                 <Drawer
+-                        variant="temporary"
+-                        open={mobileOpen}
+-                        onClose={handleDrawerToggle}
+-                        ModalProps={{
+-                            keepMounted: true,
+-                        }}
+-                        sx={{
+-                            display: { xs: 'block', sm: 'block',md:'none' },
+-                            '& .MuiDrawer-paper': { boxSizing: 'border-box', width: drawerWidth },
+-                        }}
+-                    >
+-                        {drawer}
+-                    </Drawer>
++                    variant="temporary"
++                    open={mobileOpen}
++                    onClose={handleDrawerToggle}
++                    ModalProps={{
++                        keepMounted: true,
++                    }}
++                    sx={{
++                        display: { xs: 'block', sm: 'block', md: 'none' },
++                        '& .MuiDrawer-paper': { boxSizing: 'border-box', width: drawerWidth },
++                    }}
++                >
++                    {drawer}
++                </Drawer>
+                 <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
+                     <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
+                         <Toolbar />
+@@ -298,8 +298,8 @@ function Main() {
+                         transitionDuration: ".4s",
+                         width: { md: `${(mobileOpen === true) ? drawerWidth : '0'}px` }, flexShrink: { sm: 0 }
+                     }}
+-                    // aria-label="mailbox folders"
+-                >  
++                // aria-label="mailbox folders"
++                >
+                 </Box>
+             </Box>
+         </>
+-- 
+2.29.2.windows.3
+

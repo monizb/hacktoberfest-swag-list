@@ -1,0 +1,25 @@
+From 46a0c75d34061f4a12ad1089f693e3da3c0319ba Mon Sep 17 00:00:00 2001
+From: Arzit <nidhimahajan251@gmail.com>
+Date: Fri, 14 Oct 2022 03:02:27 +0530
+Subject: [PATCH 05/11] again try2
+
+---
+ src/Main.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/Main.js b/src/Main.js
+index 7195547..f39bec5 100644
+--- a/src/Main.js
++++ b/src/Main.js
+@@ -95,7 +95,7 @@ function Main() {
+     const handleChangeSortBy = value => setSortBy(value || defaultSortBy);
+ 
+     const drawer = (
+-        <div style={{ backgroundColor: "#1b1423", height: "100%", alignItems: "center", textAlign: "center", display: "flex", flexDirection: "column", background: 'url("https://hacktoberfest.com/_next/static/media/grain-dark.9d5983e6.png") rgb(23, 15, 30)' }}>
++        <div style={{ backgroundColor: "#1b1423", height: "100%", alignItems: "center", textAlign: "center", display: "flex", flexDirection: "column", background: `url("https://hacktoberfest.com/_next/static/media/grain-dark.9d5983e6.png") rgb(23, 15, 30)` }}>
+             <ArrowCircleRightIcon
+                 sx={{
+                     color: "white",
+-- 
+2.29.2.windows.3
+

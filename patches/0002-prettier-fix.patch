@@ -1,0 +1,29 @@
+From fef7c7910f9ba85fd8fd6bf6f410c5745897b463 Mon Sep 17 00:00:00 2001
+From: Arzit <nidhimahajan251@gmail.com>
+Date: Fri, 14 Oct 2022 02:55:20 +0530
+Subject: [PATCH 02/11] prettier fix
+
+---
+ src/Main.js | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/src/Main.js b/src/Main.js
+index 24da3fd..033d88b 100644
+--- a/src/Main.js
++++ b/src/Main.js
+@@ -51,10 +51,10 @@ function Main() {
+         }
+         getPageViews()
+     }, [])
+-
++        
++    // merge arrays on list alphabets object to array
+     React.useEffect(() => {
+         let tempCurrentLists = [];
+-        // merge arrays on list alphabets object to array
+         Object.values(list.list).forEach((val) => tempCurrentLists.push(...val));
+ 
+         setCurrentLists(tempCurrentLists);
+-- 
+2.29.2.windows.3
+
