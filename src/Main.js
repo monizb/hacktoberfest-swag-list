@@ -50,7 +50,7 @@ function Main() {
             setPageViews(views.value)
         }
         getPageViews()
-    }, []);
+    }, [])
 
     React.useEffect(() => {
         let tempCurrentLists = [];
