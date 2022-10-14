@@ -54,7 +54,7 @@ function Main() {
 
     React.useEffect(() => {
         let tempCurrentLists = [];
-        // merge arrays on list alphabets object to array
+        // merge arrays on list alphabets object to array;
         Object.values(list.list).forEach((val) => tempCurrentLists.push(...val));
 
         setCurrentLists(tempCurrentLists);
