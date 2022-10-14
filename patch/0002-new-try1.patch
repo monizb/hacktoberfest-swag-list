@@ -1,0 +1,25 @@
+From 7262b967f5a396647fb0524f30613c7cbf241b73 Mon Sep 17 00:00:00 2001
+From: Arzit <nidhimahajan251@gmail.com>
+Date: Fri, 14 Oct 2022 18:36:21 +0530
+Subject: [PATCH 2/4] new try1
+
+---
+ src/Main.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/Main.js b/src/Main.js
+index c95e2a5..a0d87ff 100644
+--- a/src/Main.js
++++ b/src/Main.js
+@@ -54,7 +54,7 @@ function Main() {
+ 
+     React.useEffect(() => {
+         let tempCurrentLists = [];
+-        // merge arrays on list alphabets object to array
++        // merge arrays on list alphabets object to array;
+         Object.values(list.list).forEach((val) => tempCurrentLists.push(...val));
+ 
+         setCurrentLists(tempCurrentLists);
+-- 
+2.29.2.windows.3
+
