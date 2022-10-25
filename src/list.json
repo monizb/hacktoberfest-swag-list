@@ -99,7 +99,15 @@
         "link": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"
       }
     ],
-    "G": [],
+    "G": [
+      {
+        "organization": "Google",
+        "org_url": "https://www.googlecloudcommunity.com/",
+        "tags": ["Swag"],
+        "description": "The Google Cloud Community is an integral part of the Google Cloud ecosystem, and can be both a tool and a benefit during your certification journey.",
+        "link": "https://www.googlecloudcommunity.com/gc/Using-the-Community/Contributing-to-the-Community/ta-p/144"
+      },
+    ],
     "H": [
       {
         "organization": "HackSquad",
