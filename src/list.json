@@ -116,6 +116,14 @@
         "description": "With Hasura, celebrate open-source in style with Hacktoberfest!",
         "no_of_prs": 1,
         "link": "https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/"
+      },
+      {
+        "organization": "Hyperswitch",
+        "org_url": "https://hyperswitch.io/",
+        "tags": ["Tshirt"],
+        "description": "We are excited to participate in Hacktoberfest. Join us and win a swag pack for every merged PR!",
+        "no_of_prs": 1,
+        "link": "https://hyperswitch.io/hacktoberfest"
       }
     ],
     "I": [
