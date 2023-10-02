@@ -35,7 +35,7 @@
           "Stickers",
           "Voucher"
         ],
-        "description": "Accepted PR which fixes Hacktoberfest labelled issue will get",
+        "description": "Accepted PR which fixes Hacktoberfest labelled issue will get the Swag!",
         "no_of_prs": 1,
         "link": "https://ballerina.io/hacktoberfest/"
       },
