@@ -1,6 +1,7 @@
 import React from 'react';
 import {Button, Popover} from '@mui/material';
 import classes from './SortBy.module.css';
+import sortbtn from "../Images/sort.png";
 
 function SortBy({sortBy, onChangeSortBy}) {
 	const [anchorEl, setAnchorEl] = React.useState(null);
@@ -37,9 +38,9 @@ function SortBy({sortBy, onChangeSortBy}) {
 				variant="contained"
 				size="medium"
 				onClick={handleClick}
-				style={{backgroundColor: '#7882cb'}}
+				style={{backgroundColor: 'transparent'}}
 			>
-				Sort
+				<img src={sortbtn} style={{ width:30, marginBottom:20 }} alt="sort icon"/>
 			</Button>
 			<Popover
 				id={id}

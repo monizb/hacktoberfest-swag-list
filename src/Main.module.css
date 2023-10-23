@@ -1,10 +1,15 @@
 .disclaimer {
-  background-color: #1b1423;
   color: white;
   text-align: left;
   padding: 3px 25px;
   border-radius: 5px;
 }
+
+.MuiToolbar-root.css-1t29gy6-MuiToolbar-root {
+  margin: 0;
+  padding: 0;
+}
+
 
 .github_btn {
   background-color: #7882cb;
@@ -27,13 +32,30 @@
 }
 
 .letterbox {
-  margin-top: 30px;
+  margin-top: 500px;
   padding: 0px 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-columns: auto;
+  gap: 10px;
+}
+
+.letterboxa {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  align-items: left;
 }
 
 .swagbox {
+  display: inline-block;
   padding: 5px 20px;
   text-align: left;
+  color: aliceblue;
+  background-color: #1b1423;
+  border-radius: 20px;
+  width:  100%;
+  height: 100%;
 }
 
 .filteredContainer {
@@ -47,26 +69,28 @@
   display: flex;
   align-items: center;
   height: 36px;
-  padding: 4px 8px;
-  border: 2px solid #677762;
-  border-radius: 4px;
+  padding: 20px 20px;
+  border: 2px solid #7D6995;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  background-color: black;
 }
 .inputSearch {
   flex: 1;
-  padding: 0 8px;
-  color: #677762;
+  color: #4b3f5a;
   font-weight: bold;
   border: none;
   outline: none;
+  background-color: black;
 }
 .inputSearch::placeholder {
-  color: #91a88c;
+  color: #7D6995;
   font-weight: normal;
 }
 
 .pullRequestsNumber {
   font-size: 12px;
-  color: #78877e;
+  color: #a99cba;
   font-weight: bold;
 }
 
