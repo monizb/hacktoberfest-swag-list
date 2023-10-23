@@ -13,6 +13,9 @@ import FeatherIcon from 'feather-icons-react';
 import { Divider } from '@mui/material';
 import classes from "./Main.module.css";
 import list from "./list.json"
+import { useEffect } from 'react';
+import { useState } from 'react';
+import "./App.css";
 
 import SortBy from './Components/SortBy';
 import {orderByAsc, orderByDesc} from './Utils/sorting';
@@ -27,6 +30,7 @@ const defaultSortBy = {
 };
 
 function Main() {
+    const [isScrolled, setIsScrolled] = useState(false);
     const [mobileOpen, setMobileOpen] = React.useState(false);
     const [keyword, setKeyword] = React.useState('');
     const [sortBy, setSortBy] = React.useState(defaultSortBy);
@@ -37,6 +41,23 @@ function Main() {
     };
     const alphabets = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
     const [page_views, setPageViews] = React.useState(0)
+
+    useEffect(() => {
+        // Add a scroll event listener to track scrolling
+        const handleScroll = () => {
+          if (window.scrollY > 0) {
+            setIsScrolled(true);
+          } else {
+            setIsScrolled(false);
+          }
+        };
+    
+        window.addEventListener('scroll', handleScroll);
+    
+        return () => {
+          window.removeEventListener('scroll', handleScroll); // Remove the event listener on component unmount
+        };
+      }, []);
 
     React.useEffect(() => {
       async function getPageViews() {
@@ -129,24 +150,66 @@ function Main() {
                 style={{ boxShadow: "none", backgroundColor: "#1b1423",background: 'url("https://hacktoberfest.com/_next/static/media/grain-dark.9d5983e6.png") rgb(23, 15, 30)' }}
             >
                 <Toolbar>
-                    <IconButton
-                        color="inherit"
-                        aria-label="open drawer"
-                        edge="start"
-                        onClick={handleDrawerToggle}
-                        sx={{ mr: 2, display: { sm: 'none' } }}
+                <div style={{ display: 'flex', flexDirection: 'column' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', fontWeight:'700' }}>
+                        <IconButton
+                            color="inherit"
+                            aria-label="open drawer"
+                            edge="start"
+                            onClick={handleDrawerToggle}
+                            sx={{ mr: 2, display: { sm: 'none' } }}
+                        >
+                            <FeatherIcon icon="menu" />
+                        </IconButton>
+                        <Typography variant="h6" noWrap component="div" style={{ display: "flex", alignItems: "center", paddingTop:'20px', fontSize:'30px' }}>
+                            <img src={hbIcon} style={{ width:50, marginRight: 12 }} alt="small icon" />
+                            Hacktoberfest 2022 Swag List
+                        </Typography>
+                    </div>
+                    <Box 
+                        component="main" 
+                        sx={{
+                            flexGrow: 1,
+                            p: 3,
+                        }} 
+                        className={`fade-out-slide-up${isScrolled ? ' hidden' : ''}`}
                     >
-                        <FeatherIcon icon="menu" />
-                    </IconButton>
-                    <Typography variant="h6" noWrap component="div" style={{ display: "flex", alignItems: "center" }}>
-                        <img src={hbIcon} style={{ width: 40, marginRight: 12 }} alt="small icon" />
-                        Hacktoberfest 2022 Swag List
-                    </Typography>
+                        <Toolbar />
+                        <div className={classes.disclaimer}>
+                            <h5 style={{ color: "white" }}>Hacktoberfest celebrates open-source contributions worldwide. This page simplifies finding swag opportunities. <span style={{ color: "#8e99f7" }}>Remember, meaningful contributions are key - no spam or hatred allowed!</span></h5>
+                            <h5 style={{ color: "#2B3531" }}><a href="https://www.digitalocean.com/community/tutorials/hacktoberfest-contributor-s-guide-how-to-find-and-contribute-to-open-source-projects" target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#8e99f7" }}>How to make meaningful contributions? </a></h5>
+                            <h5 style={{ color: "white" }}>You can read more about Hacktoberfest <a href="https://hacktoberfest.digitalocean.com/" style={{ color: "#8e99f7", textDecoration: "none" }}>here. </a>If you are a part of an organization listed below and dont wan't your swag to be listed, please contact me by raising an issue on the official repository and it will be taken down immediately.</h5>
+                            <h5 style={{ padding: 10, borderRadius: 5, width: "fit-content" }} className={classes.github_btn}><a href="https://github.com/monizb/hacktoberfest-swag-list/blob/main/src/list.json" target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "white", fontWeight: "bolder" }}>Add this list to your own resource</a></h5>
+                        </div>
+                    </Box>
+                    </div>
                 </Toolbar>
+                {/* search bar */}
+                <div className={classes.filteredContainer}>
+                    <div className={classes.searchContainer}>
+                        <FeatherIcon icon="search" size={18} color="#91A88C" />
+                        <input
+                            type="text"
+                            value={keyword}
+                            onChange={e => setKeyword(e.target.value)}
+                            className={classes.inputSearch}
+                            placeholder="Find by organization name and tags"
+                        />
+                        {keyword && (
+                            <IconButton onClick={() => setKeyword('')}>
+                                <FeatherIcon icon="x" size={18} color="#677762" />
+                            </IconButton>
+                        )}
+                    </div>
+                    <SortBy sortBy={sortBy} onChangeSortBy={handleChangeSortBy} />
+                </div>
             </AppBar>
             <Box
                 component="nav"
-                sx={{ width: { sm: drawerWidth }, flexShrink: { sm: 0 } }}
+                sx={{ 
+                    width: { sm: drawerWidth }, 
+                    flexShrink: { sm: 0 },
+                }}
                 aria-label="mailbox folders"
             >
 
@@ -175,75 +238,51 @@ function Main() {
                     {drawer}
                 </Drawer>
             </Box>
-            <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
-                <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
-                    <Toolbar />
-                    <div className={classes.disclaimer}>
-                        <h5 style={{ color: "white" }}>Hacktoberfest is the celebration of Open-Source, its that time of the year when people from all over the world come together to contribute to their favorite Open Source projects. To make the deal sweeter some organizations give out cool swags like tshirts, stickers and much more! This page aims to consolidate all the swag opportunities in one place and make it easier for you to choose from. <span style={{ color: "#8e99f7" }}>Always remember, Hacktoberfest is about making "meaningful contributions" any kind of SPAM/HATRED is a big NO and isn't tolerated. Create PRs that add value and take home the sweet swags!</span></h5>
-                        <h5 style={{ color: "#2B3531" }}><a href="https://www.digitalocean.com/community/tutorials/hacktoberfest-contributor-s-guide-how-to-find-and-contribute-to-open-source-projects" target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "#8e99f7" }}>How to make meaningful contributions? </a></h5>
-                        <h5 style={{ color: "white" }}>You can read more about Hacktoberfest <a href="https://hacktoberfest.digitalocean.com/" style={{ color: "#8e99f7", textDecoration: "none" }}>here. </a>If you are a part of an organization listed below and dont wan't your swag to be listed, please contact me by raising an issue on the official repository and it will be taken down immediately.</h5>
-                        <h5 style={{ color: "white" }}>Want to add this list to your own resource? Use the following JSON: </h5>
-                        <h5 style={{ backgroundColor: "#7882cb", padding: 10, borderRadius: 5, width: "fit-content" }}><a href="https://github.com/monizb/hacktoberfest-swag-list/blob/main/src/list.json" target="_blank" rel="noreferrer" style={{ textDecoration: "none", color: "white", fontWeight: "bolder" }}>https://github.com/monizb/hacktoberfest-swag-list/blob/main/src/list.json</a></h5>
-                    </div>
-                </Box>
-                <div className={classes.filteredContainer}>
-                    <div className={classes.searchContainer}>
-                        <FeatherIcon icon="search" size={18} color="#91A88C" />
-                        <input
-                            type="text"
-                            value={keyword}
-                            onChange={e => setKeyword(e.target.value)}
-                            className={classes.inputSearch}
-                            placeholder="Find by organization name and tags"
-                        />
-                        {keyword && (
-                            <IconButton onClick={() => setKeyword('')}>
-                                <FeatherIcon icon="x" size={18} color="#677762" />
-                            </IconButton>
-                        )}
-                    </div>
-                    <SortBy sortBy={sortBy} onChangeSortBy={handleChangeSortBy} />
-                </div>
+            <Box component="main" sx={{ flexGrow: 1, p: 3, }}>
+                {/* <div className={classes.letterbox}> */}
                 {!filteredLists ? (
-                    <div className={classes.letterbox}>
-                        {alphabets.map((letter) => (
-                            <div key={letter}>
-                                {
-                                    list.list[letter].length !== 0 ? <div style={{ textAlign: "left" }}>
-                                        <h2 style={{ color: "#ffe27d", backgroundColor: "black", padding: "5px 20px", borderRadius: "4px" }}>{letter}</h2>
+                    <div style={{marginTop:'500px'}}>
+                        {alphabets.map((letter) =>
+                                    list.list[letter].length !== 0 ?
+                                    <div>    
+                                        <div style={{ textAlign:'left', fontSize:'40px', color: "#1b1423", padding: "0px 20px", fontWeight:"700", marginTop:'20px'  }}>{letter}</div>
+                                        <div className={classes.letterboxa}>
                                         {list.list[letter].map((item) => (
-                                            <div style={{ padding: "5px 20px" }} className={classes.swagbox} key={item.organization}>
-                                                <h3 style={{ color: "#2B3531" }}><a href={item.org_url} style={{ textDecoration: "none", color: "#2B3531" }} target="_blank" rel="noreferrer">{item.organization}</a></h3>
-                                                <p>{item.description}</p>
-                                                <div style={{ display: "flex" }}>
-                                                    {item.tags.map((tag) => (
-                                                        <h5
-                                                            className={classes.tag}
-                                                            key={tag}
-                                                            onClick={() => setKeyword(tag)}
-                                                            style={{backgroundColor: getTagColor(tag) }}
-                                                        >
-                                                            <span style={{ marginRight: '4px'}}>
-                                                                {getTagEmoji(tag)}
-                                                            </span>
-                                                            {tag}
-                                                        </h5>
-                                                    ))}
+                                                <div style={{ padding: "5px 20px", margin:"10px" }} className={classes.swagbox} key={item.organization}>
+                                                    <h3 style={{ color: "#F0E2FF" }}><a href={item.org_url} style={{ fontSize:'25px', fontWeight: "bold", textDecoration: "none", color: "#F0E2FF" }} target="_blank" rel="noreferrer">{item.organization}</a></h3>
+                                                    <p>{item.description}</p>
+                                                    <div style={{ display: "flex", flexWrap:'wrap' }}>
+                                                        {item.tags.map((tag) => (
+                                                            <h5
+                                                                className={classes.tag}
+                                                                key={tag}
+                                                                onClick={() => setKeyword(tag)}
+                                                                style={{backgroundColor: getTagColor(tag) }}
+                                                            >
+                                                                <span style={{ marginRight: '4px'}}>
+                                                                    {getTagEmoji(tag)}
+                                                                </span>
+                                                                {tag}
+                                                            </h5>
+                                                        ))}
+                                                    </div>
+                                                    <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "#8e99f7", fontWeight: "bolder" }}>Learn More &#x2192;</a>
+                                                    <div style={{ margin: "10px 0px" }}>
+                                                         {list.list[letter].length !== 1 ? <Divider /> : null}
+                                                        {/* <Divider/> */}
+                                                    </div>
                                                 </div>
-                                                <a href={item.link} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "#8e99f7", fontWeight: "bolder" }}>Learn More &#x2192;</a>
-                                                <div style={{ margin: "10px 0px" }}>
-                                                    {list.list[letter].length !== 1 ? <Divider /> : null}
-                                                </div>
-                                            </div>
                                         ))}
+                                        </div>
                                     </div> : null
-                                }
-                            </div>
-                        ))}
+                                    )}
                     </div>
-                ) : filteredLists.map((item) => (
+                ) :(
+                    <div className={classes.letterbox}>
+                    {filteredLists.map((item) => (
+                    <div style={{width:'100%', margin:'10px'}}>
                     <div className={classes.swagbox} key={item.organization}>
-                        <h3 style={{ color: "#2B3531" }}><a href={item.org_url} style={{ textDecoration: "none", color: "#2B3531" }} target="_blank" rel="noreferrer">{item.organization}</a></h3>
+                        <h3 style={{ color: "#F0E2FF" }}><a href={item.org_url} style={{ fontSize:'25px', fontWeight: "bold", textDecoration: "none", color: "#F0E2FF" }} target="_blank" rel="noreferrer">{item.organization}</a></h3>
                         <p>{item.description}</p>
                         <p className={classes.pullRequestsNumber}>No. of PRs: {item.no_of_prs}</p>
                         <div style={{ display: "flex",flexWrap:"wrap"}}>
@@ -266,7 +305,11 @@ function Main() {
                             <Divider />
                         </div>
                     </div>
+                    </div>
                 ))}
+                </div>
+                )}
+
             </Box>
         </Box>
     );

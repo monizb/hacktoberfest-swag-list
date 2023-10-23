@@ -57,3 +57,16 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #647561;
 }
+
+.fade-out-slide-up {
+  opacity: 1;
+  max-height: 1000px;
+  overflow: hidden;
+  transition: opacity 0.5s, max-height 0.5s;
+}
+
+.fade-out-slide-up.hidden {
+  opacity: 0;
+  max-height: 0;
+  transition: opacity 0.5s, max-height 0.5s;
+}
